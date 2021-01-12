@@ -14,21 +14,21 @@ The project is the result of the collaborative effort from a global network of p
 
 The objective is to provide an overview of the state of the world to citizens and assist journalists and Human Rights defenders in their reporting and overseeing tasks.
 
-https://ProjectLockdown.world
+https://TheIOFoundation.org/TechUp
 
-The IO Foundation: www.TheIOFoundation.org
+The IO Foundation: https://TheIOFoundation.org
 
 ## Values
 
-Project Lockdown delivers its mission through the observance of the following values:
+TechUp delivers its mission through the observance of the following TIOF values:
 
 - Community
 - Accountability
 - Impact
 
-See more about our [mission](https://github.com/TheIOFoundation/ProjectLockdown/wiki/About/#mission), [vision](https://github.com/TheIOFoundation/ProjectLockdown/wiki/About/#vision) and [values](https://github.com/TheIOFoundation/ProjectLockdown/wiki/About/#values) in the wiki.
+See more about our [mission](https://github.com/TheIOFoundation/TIOF/wiki/About/#mission), [vision](https://github.com/TheIOFoundation/TIOF/wiki/About/#vision) and [values](https://github.com/TheIOFoundation/TIOF/wiki/About/#values) in the wiki.
 
-By participating in Project Lockdown you also confirm to abide by its [Code of Conduct](https://github.com/TheIOFoundation/ProjectLockdown/wiki/Code-of-Conduct).
+By participating in TechUp you also confirm to abide by its [Code of Conduct](https://github.com/TheIOFoundation/TIOF/wiki/Code-of-Conduct).
 
 
 
