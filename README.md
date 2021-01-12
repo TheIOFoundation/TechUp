@@ -8,15 +8,7 @@
 
 ## NOTE: This is the new repository for v2.0. Some information is still a work in progress. You can access the current runnning v1.0 repository <a href="https://github.com/Code-for-All/lockdown/">here</a> while we transition to the new version.
 
-**Project Lockdown** (an initiative from The IO Foundation) is a civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe. It evaluates policies obtained from high quality sources that may impact their observance. It provides, among other tools, a layered map interface that allows for a visual representation of the policies adopted, assisting a broad range of stakeholders in understanding the global state of their Rights. This empowers them to become active agents of global change.
-
-The project is the result of the collaborative effort from a global network of partners and volunteers who are dedicating their time and resources to ensure that we do not degrade the Rights we currently enjoy while simultaneously preparing them to become a new generation of Rights defenders.
-
-The objective is to provide an overview of the state of the world to citizens and assist journalists and Human Rights defenders in their reporting and overseeing tasks.
-
-https://TheIOFoundation.org/TechUp
-
-The IO Foundation: https://TheIOFoundation.org
+**TechUp** is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government. TechUp is a TIOF Strategic project that works towards enabling a conducive environment for Digital Rights, comprised of a number of different activities.
 
 ## Values
 
@@ -72,7 +64,8 @@ Features under consideration (Stage: Not Ready)</a>
 
 # Events
 
-
+The IO Foundation regularly organizes TechUp sessions and participates in international fora where the organization puts forward its advocacy and engages with all stakeholders. 
+You can access TechUp events [here](https://www.meetup.com/TIOF-MY/)
 
 
 
