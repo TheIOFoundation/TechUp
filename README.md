@@ -8,7 +8,7 @@
 
 ## NOTE: This is the new repository for v2.0. Some information is still a work in progress. You can access the current runnning v1.0 repository <a href="https://github.com/Code-for-All/lockdown/">here</a> while we transition to the new version.
 
-**TechUp** is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government. TechUp is a TIOF Strategic project that works towards enabling a conducive environment for Digital Rights, comprised of a number of different activities.
+[**TechUp**](https://TheIOFoundation.org/TechUp) is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government. TechUp is a TIOF Strategic project that works towards enabling a conducive environment for Digital Rights, comprised of a number of different activities.
 
 ## Values
 
