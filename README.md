@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+  - [NOTE: This is the new repository for v2.0. Some information is still a work in progress. You can access the current runnning v1.0 repository <a href="https://github.com/Code-for-All/lockdown/">here</a> while we transition to the new version.](#note-this-is-the-new-repository-for-v20-some-information-is-still-a-work-in-progress-you-can-access-the-current-runnning-v10-repository-a-hrefhttpsgithubcomcode-for-alllockdownherea-while-we-transition-to-the-new-version)
+  - [Values](#values)
+  - [Contributing](#contributing)
+- [Events](#events)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <a id="top"></a>
 ![logo](https://user-images.githubusercontent.com/9198668/103223510-5adcb080-4961-11eb-9400-377d6ed310f0.png)
 
