@@ -7,6 +7,7 @@
 - [Para 2](#para-2)
     - [Something](#something)
 - [Para 33](#para-33)
+- [Number 4](#number-4)
   - [NOTE: This is the new repository for v2.0. Some information is still a work in progress. You can access the current runnning v1.0 repository <a href="https://github.com/Code-for-All/lockdown/">here</a> while we transition to the new version.](#note-this-is-the-new-repository-for-v20-some-information-is-still-a-work-in-progress-you-can-access-the-current-runnning-v10-repository-a-hrefhttpsgithubcomcode-for-alllockdownherea-while-we-transition-to-the-new-version)
   - [Values](#values)
   - [Contributing](#contributing)
