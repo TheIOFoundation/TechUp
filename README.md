@@ -13,7 +13,7 @@
 			<a href="https://TIOF.Click/TUWiki" alt="Development status of this project" title="Development status of this project"><img src="https://img.shields.io/static/v1?label=Project%20Status%3A&message=Beta&color=purple"/></a>
 		</td>      
 		<td align="center">
-			<a xhref="https://TIOF.Click/TUWeb" alt="Development status of this project" title="Development status of this project"><img src="https://img.shields.io/static/v1?label=Website&message=WIP&color=blue"/></a>
+			<xa xhref="https://TIOF.Click/TUWeb" alt="Visit the project's website" title="Visit the project's website"><img src="https://img.shields.io/static/v1?label=Website&message=WIP&color=blue"/></xa>
 		</td>  	
 		<td align="center">
 			<a href="https://TIOF.Click/TUOvio"><img src="https://img.shields.io/static/v1?label=OVIO%20Profile&message=%20&color=orange"  alt="Visit the project's OVIO profile" title="Visit the project's OVIO profile"/></a>
