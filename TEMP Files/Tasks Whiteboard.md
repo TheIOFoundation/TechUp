@@ -38,7 +38,6 @@ Automation Recipe: N/A
 Basic Info - Back End - Edit Airmeet details
 | Airmeet name | TechUp {MM-YYYY} | 
 |--|--|
-|  |  |
 | Format |  |
 | Limit |  |
 | Notes |  |
@@ -82,6 +81,6 @@ Thank you for registering for TechUp. Your donation contributes to help The IO F
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTEwNDY3NjIsMTMxMzAyOTAxNiwtMz
-g3NTU2NTUsMjEwOTk1NzMzLDE1OTk4MTEwOTVdfQ==
+eyJoaXN0b3J5IjpbLTc0Njg1MDMwMiwxMzEzMDI5MDE2LC0zOD
+c1NTY1NSwyMTA5OTU3MzMsMTU5OTgxMTA5NV19
 -->
