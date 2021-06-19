@@ -85,8 +85,36 @@ Objective: Configure the TechUp event platform.
 Automation Status: Pending
 Automation Recipe: N/A
 
-### Tickets
+ - [ ] Configure Tickets
+ - [ ] sdf
 
+### Tickets
+General Admission  
+Quantiy: 1000  
+Currency: USD  
+Price: 0  
+Sales starts on  
+Sales Ends on  
+  
+Ticket Description  
+Everyone is invited to TechUp!  
+  
+Message for attendees  
+Thank you for registering for TechUp.  
+  
+  
+Donation Ticket  
+Quantiy: 1000  
+Currency: USD  
+Price: 50  
+Sales starts on  
+Sales Ends on  
+  
+Ticket Description  
+Support The IO Foundation and TechUp. Your donation will sponsor a fellow participant's ticket and makes it possible for others to attend, keeping the event free for everyone.  
+  
+Message for attendees  
+Thank you for registering for TechUp. Your donation contributes to help The IO Foundation in enabling programmers to embrace their role as NextGen defenders to make possible better and safer technology.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg1OTc1NCwxNTk5ODExMDk1XX0=
+eyJoaXN0b3J5IjpbMjEwOTk1NzMzLDE1OTk4MTEwOTVdfQ==
 -->
