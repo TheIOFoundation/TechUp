@@ -1,9 +1,6 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
-
- - [ ] List item
+# List of Task
+>> To be transferred to Issue Templates.
 
 ## Configure App: Bl.ink
 Objective: Update ShortURLs for TechUp.
@@ -19,6 +16,10 @@ Find the App:
 App Handbook
 
 
+## Configure App: Eventbrite
+Objective: Outreach Channel & ticket reservation
+Automation Status: Pending
+Automation Recipe: N/A
 
 
 
@@ -27,5 +28,5 @@ App Handbook
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEzMDk3NzNdfQ==
+eyJoaXN0b3J5IjpbMTU5NTcwNTkyMF19
 -->
