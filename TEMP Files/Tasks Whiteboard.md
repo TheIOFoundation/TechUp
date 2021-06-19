@@ -80,9 +80,13 @@ NOT REQUIRED
 
 
 
+## Configure App: Airmeet
+Objective: Configure the TechUp event platform.
+Automation Status: Pending
+Automation Recipe: N/A
 
-
+### Tickets
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTgxMTA5NV19
+eyJoaXN0b3J5IjpbLTEwMzg1OTc1NCwxNTk5ODExMDk1XX0=
 -->
