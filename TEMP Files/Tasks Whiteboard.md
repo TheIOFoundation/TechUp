@@ -7,7 +7,7 @@
 <a id="top"></a>
 ![logo](http://TIOF.Click/TUWikiHeader)
 
-# Configure App: Bl.ink
+# Abstract
 Objective: Configure ShortURLs for TechUp.
 Automation Status: Pending
 Automation Recipe: N/A
@@ -124,6 +124,6 @@ Support The IO Foundation and TechUp. Your donation will sponsor a fellow partic
 Message for attendees  
 Thank you for registering for TechUp. Your donation contributes to help The IO Foundation in enabling programmers to embrace their role as NextGen defenders to make possible better and safer technology.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzQ3NjA2MiwyMTA5OTU3MzMsMTU5OT
-gxMTA5NV19
+eyJoaXN0b3J5IjpbLTM4NzU1NjU1LDIxMDk5NTczMywxNTk5OD
+ExMDk1XX0=
 -->
