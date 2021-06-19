@@ -35,11 +35,12 @@ Automation Recipe: N/A
   
 
 
-|  |  |
+|  Basic Info | Back End | Edit Airmeet details  |
 |--|--|
-|  |  |
-
-
+| Field |  |
+| Format |  |
+| Limit |  |
+| Notes |  |
 
 
 ## Configure App: Airmeet
@@ -78,6 +79,6 @@ Support The IO Foundation and TechUp. Your donation will sponsor a fellow partic
 Message for attendees  
 Thank you for registering for TechUp. Your donation contributes to help The IO Foundation in enabling programmers to embrace their role as NextGen defenders to make possible better and safer technology.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA3NDA4NDYsMTMxMzAyOTAxNiwtMz
-g3NTU2NTUsMjEwOTk1NzMzLDE1OTk4MTEwOTVdfQ==
+eyJoaXN0b3J5IjpbMTI2OTQ3MzMyMCwxMzEzMDI5MDE2LC0zOD
+c1NTY1NSwyMTA5OTU3MzMsMTU5OTgxMTA5NV19
 -->
