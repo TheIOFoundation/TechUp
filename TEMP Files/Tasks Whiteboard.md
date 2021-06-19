@@ -6,7 +6,9 @@
  - [ ] List item
 
 ## Configure App: Bl.ink
-Objective: Upd
+Objective: Update ShortURLs for TechUp.
+Automation Status: Pending
+Automation Recipe: N/A
 
  - [ ] Update EventsRSVP
  [[Doc URL](https://DOC.org)]
@@ -21,6 +23,9 @@ App Handbook
 
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4MjQzNTc2XX0=
+eyJoaXN0b3J5IjpbLTE3NzEzMDk3NzNdfQ==
 -->
