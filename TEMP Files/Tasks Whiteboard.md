@@ -32,12 +32,13 @@ Automation Recipe: N/A
  - [ ] Create Tickets
  - [ ] Configure Order Form
 
-  
+ 
+ 
 
 Basic Info - Back End - Edit Airmeet details
-| Airmeet name | | 
+| Airmeet name | TechUp {MM-YYYY} | 
 |--|--|
-|  | TechUp {MM-YYYY} |
+|  |  |
 | Format |  |
 | Limit |  |
 | Notes |  |
@@ -78,7 +79,15 @@ Support The IO Foundation and TechUp. Your donation will sponsor a fellow partic
   
 Message for attendees  
 Thank you for registering for TechUp. Your donation contributes to help The IO Foundation in enabling programmers to embrace their role as NextGen defenders to make possible better and safer technology.
+
+
+
+
+
+
+|  | Header 1  | Header 2  || Header 3  ||  |  | Subheader 1  | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |  |==============|-----------------|----------------|----------------|----------------|----------------|  |  Row Header 1  |  3row, 3col span ||| Colspan only  ||  |  Row Header 2  |  ^  ||| Rowspan only  | Cell |  |  Row Header 3  |  ^  |||  ^  | Cell |  |  Row Header 4  |  Row  |  Each cell |: Centered :|  Right-aligned :|: Left-aligned | : : with multiple : has room for : multi-line : multi-line : multi-line : : : lines. : more text. : text. : text. : text. : |--------------|-----------------|----------------|----------------|----------------|----------------|
+[Caption Text]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzE1NTk4NiwxMzEzMDI5MDE2LC0zOD
+eyJoaXN0b3J5IjpbMTQ3MTE0MjU4NiwxMzEzMDI5MDE2LC0zOD
 c1NTY1NSwyMTA5OTU3MzMsMTU5OTgxMTA5NV19
 -->
