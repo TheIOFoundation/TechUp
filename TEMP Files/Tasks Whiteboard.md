@@ -81,19 +81,7 @@ Message for attendees
 Thank you for registering for TechUp. Your donation contributes to help The IO Foundation in enabling programmers to embrace their role as NextGen defenders to make possible better and safer technology.
 
 
-
-| Caption Text |                 |                |                |                |                |
-|--------------|-----------------|----------------|----------------|----------------|----------------|
-|              | Header 1        | Header 2       |        <       | Header 3       |        <       |
-|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
-|==============|-----------------|----------------|----------------|----------------|----------------|
-| Row Header 1 | 3row, 3col span |       <        |        <       | Colspan only   |        <       |
-| Row Header 2 |       ^         |       <        |        <       | Rowspan only   | Cell           |
-| Row Header 3 |       ^         |       <        |        <       |       ^        | Cell           |
-| Row Header 4 |  Row            |  Each cell     |:   Centered   :| Right-aligned :|: Left-aligned  |
-|.            .|. with multiple .|. has room for .|.  multi-line  .|.   multi-line .|. multi-line   .|
-|.            .|. lines.        .|. more text.   .|.     text.    .|.        text. .|. text.        .|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0NzQ5NjY4LDEzMTMwMjkwMTYsLTM4Nz
-U1NjU1LDIxMDk5NTczMywxNTk5ODExMDk1XX0=
+eyJoaXN0b3J5IjpbLTE0OTEwNDY3NjIsMTMxMzAyOTAxNiwtMz
+g3NTU2NTUsMjEwOTk1NzMzLDE1OTk4MTEwOTVdfQ==
 -->
