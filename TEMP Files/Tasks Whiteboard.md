@@ -3,17 +3,25 @@
 >> To be transferred to Issue Templates.
 
 ## Configure App: Bl.ink
-Objective: Update ShortURLs for TechUp.
+
+<a id="top"></a>
+![logo](http://TIOF.Click/TUWikiHeader)
+
+# Configure App: Bl.ink
+Objective: Configure ShortURLs for TechUp.
 Automation Status: Pending
 Automation Recipe: N/A
 
  - [ ] Update EventsRSVP
  [[Doc URL](https://DOC.org)]
  - [ ] Update EventsLive
+ [[Doc URL](https://DOC.org)]
 
-Help
-Find the App:
-App Handbook
+## Help
+* Find the App
+   Basaas / [TIOF] Team Infrastructure
+* App Handbook
+  [Bl.ink Handbook]()
 
 
 ## Configure App: Eventbrite
@@ -116,5 +124,6 @@ Support The IO Foundation and TechUp. Your donation will sponsor a fellow partic
 Message for attendees  
 Thank you for registering for TechUp. Your donation contributes to help The IO Foundation in enabling programmers to embrace their role as NextGen defenders to make possible better and safer technology.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTk1NzMzLDE1OTk4MTEwOTVdfQ==
+eyJoaXN0b3J5IjpbLTU1MzQ3NjA2MiwyMTA5OTU3MzMsMTU5OT
+gxMTA5NV19
 -->
