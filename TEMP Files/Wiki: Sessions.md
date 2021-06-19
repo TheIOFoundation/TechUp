@@ -1,5 +1,6 @@
 
 
+# Sessions Config
 
 Sprint Rendez-vous  
 Visit the Booths area to find a project you'd like to support and talk to the team.  
@@ -37,6 +38,16 @@ Plenary to review what has been achieved in your project contributions.
   
 Closing Session  
 Join for the closing session where we'll review the weekend, what we have achieved and what's coming up in the next TechUp.
+
+
+Project Lockdown Sprints
+
+
+
+Project Lockdown Virtual Caffe
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODc5MzI5N119
+eyJoaXN0b3J5IjpbMTA1MjcyNTY1MF19
 -->
