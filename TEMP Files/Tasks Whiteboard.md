@@ -48,9 +48,20 @@ Objective: Configure the TechUp event platform.
 Automation Status: Pending
 Automation Recipe: N/A
 
- - [ ] Configure Tickets
  - [ ] Basic Info
- - [ ] Event
+ - [ ] Event entry & Participants
+ - [ ] Venus settings
+ - [ ] Schedule
+ - [ ] Speakers & Hosts
+ - [ ] Booths
+ - [ ] Sponsors
+ - [ ] Stage backdrop
+ - [ ] Videos
+ - [ ] Live stream
+ - [ ] Tickets
+ - [ ] Recordings
+ - [ ] Analytics
+ - [ ] Integrations
  - [ ] 
 
 ### Tickets
@@ -83,7 +94,7 @@ Thank you for registering for TechUp. Your donation contributes to help The IO F
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNzM1MDMsLTg3NDUxMTY1NywtNzQ2OD
-UwMzAyLDEzMTMwMjkwMTYsLTM4NzU1NjU1LDIxMDk5NTczMywx
-NTk5ODExMDk1XX0=
+eyJoaXN0b3J5IjpbNTIwMDQ3MTAxLC04NzQ1MTE2NTcsLTc0Nj
+g1MDMwMiwxMzEzMDI5MDE2LC0zODc1NTY1NSwyMTA5OTU3MzMs
+MTU5OTgxMTA5NV19
 -->
