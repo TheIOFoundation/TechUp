@@ -49,6 +49,8 @@ Automation Status: Pending
 Automation Recipe: N/A
 
  - [ ] Configure Tickets
+ - [ ] Basic Info
+ - [ ] Event
  - [ ] 
 
 ### Tickets
@@ -81,7 +83,7 @@ Thank you for registering for TechUp. Your donation contributes to help The IO F
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDUxMTY1NywtNzQ2ODUwMzAyLDEzMT
-MwMjkwMTYsLTM4NzU1NjU1LDIxMDk5NTczMywxNTk5ODExMDk1
-XX0=
+eyJoaXN0b3J5IjpbOTIyNzM1MDMsLTg3NDUxMTY1NywtNzQ2OD
+UwMzAyLDEzMTMwMjkwMTYsLTM4NzU1NjU1LDIxMDk5NTczMywx
+NTk5ODExMDk1XX0=
 -->
