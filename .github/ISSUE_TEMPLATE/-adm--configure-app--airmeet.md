@@ -19,6 +19,7 @@ Automation Recipe: N/A
  - [ ] Create Airmeet
   [[Doc URL](https://DOC.org)]
  - [ ] Basic Info
+ - [ ] Copy Airmeet Link to Bl.ink
  - [ ] Event entry & Participants
  - [ ] Venus settings
  - [ ] Schedule
@@ -41,5 +42,5 @@ Automation Recipe: N/A
 * App Handbook
   [Airmeet Handbook]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1MzIxNzY1XX0=
+eyJoaXN0b3J5IjpbMTc5ODQyODA4Niw3NDUzMjE3NjVdfQ==
 -->
