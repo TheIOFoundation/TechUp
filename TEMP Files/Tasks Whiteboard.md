@@ -49,8 +49,6 @@ Automation Status: Pending
 Automation Recipe: N/A
 
 
- - [ ] 
-
 ### Tickets
 General Admission  
 Quantiy: 1000  
@@ -81,7 +79,7 @@ Thank you for registering for TechUp. Your donation contributes to help The IO F
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTY5MDYxOSw1MjAwNDcxMDEsLTg3ND
-UxMTY1NywtNzQ2ODUwMzAyLDEzMTMwMjkwMTYsLTM4NzU1NjU1
-LDIxMDk5NTczMywxNTk5ODExMDk1XX0=
+eyJoaXN0b3J5IjpbLTIwMjUwNjQ2ODYsNTIwMDQ3MTAxLC04Nz
+Q1MTE2NTcsLTc0Njg1MDMwMiwxMzEzMDI5MDE2LC0zODc1NTY1
+NSwyMTA5OTU3MzMsMTU5OTgxMTA5NV19
 -->
