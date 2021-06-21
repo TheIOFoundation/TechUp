@@ -49,7 +49,7 @@ Automation Status: Pending
 Automation Recipe: N/A
 
  - [ ] Configure Tickets
- - [ ] sdf
+ - [ ] 
 
 ### Tickets
 General Admission  
@@ -81,6 +81,7 @@ Thank you for registering for TechUp. Your donation contributes to help The IO F
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Njg1MDMwMiwxMzEzMDI5MDE2LC0zOD
-c1NTY1NSwyMTA5OTU3MzMsMTU5OTgxMTA5NV19
+eyJoaXN0b3J5IjpbLTg3NDUxMTY1NywtNzQ2ODUwMzAyLDEzMT
+MwMjkwMTYsLTM4NzU1NjU1LDIxMDk5NTczMywxNTk5ODExMDk1
+XX0=
 -->
