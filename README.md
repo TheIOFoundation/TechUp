@@ -1,44 +1,12 @@
 <a id="top"></a>
 ![logo](https://user-images.githubusercontent.com/9198668/103223510-5adcb080-4961-11eb-9400-377d6ed310f0.png)
-***
-
-<table>
-	<tr>
-		<td>
-			<b>Quickbar [<a href="http://TIOF.Click/TURepoQuickbar" alt="Check the help about this Quickbar" title="Check the help about this Quickbar">?</a>]</b>
-		</td> 
-	</tr> 
-	 <tr>
-		 <td>
-			<a href="https://TIOF.Click/TUWiki" alt="Development status of this project" title="Development status of this project"><img src="https://img.shields.io/static/v1?label=Project%20Status%3A&message=Beta&color=purple"/></a>
-		</td>      
-		<td align="center">
-			<xa xhref="https://TIOF.Click/TUWeb" alt="Visit the project's website" title="Visit the project's website"><img src="https://img.shields.io/static/v1?label=Website&message=WIP&color=blue"/></xa>
-		</td>  	
-		<td align="center">
-			<a href="https://TIOF.Click/TUOvio"><img src="https://img.shields.io/static/v1?label=OVIO%20Profile&message=%20&color=orange"  alt="Visit the project's OVIO profile" title="Visit the project's OVIO profile"/></a>
-		</td> 
-		<td>
-			<a href="http://TIOF.Click/TUGHSummon"><img src="https://img.shields.io/badge/Summon%20Label-TIOF%20TechUp-red" alt="Summon this project labeling your issues with this label" title="Summon this project labeling your issues with this label"> </a>
-		</td> 
-		<td>
-		    <a href="http://TIOF.Click/TUMonitor"><img src="https://img.shields.io/static/v1?label=Running%20Status%3A&message=WIP&color=cyan" alt="Runtime status of this project" title="Runtime status of this project"/></a>
-		</td>
-	</tr>
-	<tr>
-		 <td xalign="right" colspan="3">
-		<a href="http://TIOF.Click/TUTwitterPost" alt="Share this project on Twitter" title="Share this project on Twitter"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FTheIOFoundation%2FTechUp%2F"/></a>
-		</td>
-		<td align="right" xcolspan="2">
-		<a href="http://TIOF.Click/TIOFPolicyCoC"><img src="https://img.shields.io/static/v1?label=Code%20of%20Conduct&message=%20&color=pink"  alt="Consult the project's Code of Conduct" title="Consult the project's Code of Conduct"/></a> 
-		</td>		
-		<td align="right" xcolspan="2">
-		<a href="TIOF.Click/TULicense"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg"  alt="Consult the project's license" title="Consult the project's license"/></a>
-		</td>
-	</tr> 
-</table>
 
 
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/TheIOFoundation/TIOF/wiki/Code-of-Conduct)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/TheIOFoundation/ProjectLockdown/blob/master/LICENSE)
+
+## NOTE: This is the new repository for v2.0. Some information is still a work in progress. You can access the current runnning v1.0 repository <a href="https://github.com/Code-for-All/lockdown/">here</a> while we transition to the new version.
 
 [**TechUp**](https://TheIOFoundation.org/TechUp) is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government. TechUp is a TIOF Strategic project that works towards enabling a conducive environment for Digital Rights, comprised of a number of different activities.
 
