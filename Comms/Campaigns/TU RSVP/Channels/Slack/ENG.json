@@ -1,0 +1,55 @@
+{
+	"blocks": [
+		{
+			"type": "header",
+			"text": {
+				"type": "plain_text",
+				"text": "TechUp - Registration",
+				"emoji": true
+			}
+		},
+		{
+			"type": "image",
+			"title": {
+				"type": "plain_text",
+				"text": " ",
+				"emoji": true
+			},
+			"image_url": "https://github.com/TheIOFoundation/TechUp/raw/master/Projects/2021/09-September/Episode/Channels/Slack/%5BTIOF%20TU%5D%20Comms%20%5BP%5D%20Slack%20-%20Episode%20ENG%20v1.0.png",
+			"alt_text": "TechUp RSVP: https://TIOF.Click/EventsRSVP"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "<https://TIOF.Click/TUPresentation|TechUp> is a collaborative space uniting capacity building and social participation to build better and safer technology by enabling the tech community to become the agents of change that digital societies need right now. \n\n>*Programmers are the next generation of Human and Digital Rights defenders.* \n\n "
+			},
+			"accessory": {
+				"type": "image",
+				"image_url": "https://github.com/TheIOFoundation/TechUp/raw/master/Initiative Identity/Logos/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png",
+				"alt_text": "TechUp 08-2021   RSVP: https://TIOF.Click/EventsLive"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Don't miss out registering for TechUp! Attendance is *free*.\n "
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "🎫 Agenda & RSVP here",
+					"emoji": true
+				},
+				"value": "click_me_123",
+				"url": "https://TIOF.Click/EventsRSVP",
+				"action_id": "button-action"
+			}
+		},
+		{
+			"type": "divider"
+		}
+	]
+}
