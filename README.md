@@ -8,15 +8,29 @@
 
 ## NOTE: This is the new repository for v2.0. Some information is still a work in progress. You can access the current runnning v1.0 repository <a href="https://github.com/Code-for-All/lockdown/">here</a> while we transition to the new version.
 
-[**TechUp**](https://TheIOFoundation.org/TechUp) is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government. TechUp is a TIOF Strategic project that works towards enabling a conducive environment for Digital Rights, comprised of a number of different activities.
+[**TechUp**](https://TIOF.Click/TechUp) TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital societies. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government. TechUp is a TIOF Strategic project that works towards enabling a conducive environment for Digital Rights, comprised of a number of different activities.
 
-## Values
+> Programmers are the next generation of Rights defenders.
 
-TechUp delivers its mission through the observance of the following TIOF values:
+How do we engage them in a meaningful and effective way? How can we bring together the tech community to become the agents of change that digital societies need right now?
 
-- Community
-- Accountability
-- Impact
+For all information about TechUp, check our [presentation](https://TIOF.Click/TUPresentation).
+
+## Summary of Activities
+- Design, produce and run the TechUp comunity and its events
+- Manage the FOSS fund
+- Generate opportunities for the audience to make a positive impact in digital societies
+
+## Outcomes
+- Enable technologists as next generation of Rights defenders
+- Encourage the adoption of technology among civil society
+- Facilitate the transition of technologists into a career in civil society
+- Support FOSS projects to develop and grow
+
+# TechUp Library
+You can access the list of past TechUp events and related activities and capacity building in the [TechUp Library](https://TIOF.Click/TULibrary).
+
+
 
 See more about our [mission](https://github.com/TheIOFoundation/TIOF/wiki/About/#mission), [vision](https://github.com/TheIOFoundation/TIOF/wiki/About/#vision) and [values](https://github.com/TheIOFoundation/TIOF/wiki/About/#values) in the wiki.
 
@@ -60,12 +74,6 @@ Features under consideration (Stage: Not Ready)</a>
  </table>
 
 (**Note**: We are currently adding Issues covering from code to positions and other needs. Stay tune thourough the next days!)
-
-
-# Events
-
-The IO Foundation regularly organizes TechUp sessions and participates in international fora where the organization puts forward its advocacy and engages with all stakeholders. 
-You can access TechUp events [here](https://www.meetup.com/TIOF-MY/)
 
 
 
