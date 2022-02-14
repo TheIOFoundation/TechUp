@@ -6,7 +6,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/TheIOFoundation/TIOF/wiki/Code-of-Conduct)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/TheIOFoundation/ProjectLockdown/blob/master/LICENSE)
 
-## NOTE: This is the new repository for v2.0. Some information is still a work in progress. You can access the current runnning v1.0 repository <a href="https://github.com/Code-for-All/lockdown/">here</a> while we transition to the new version.
+## NOTE: This repositorry is a work in progress.
 
 [**TechUp**](https://TIOF.Click/TechUp) TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital societies. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government. TechUp is a TIOF Strategic project that works towards enabling a conducive environment for Digital Rights, comprised of a number of different activities.
 
