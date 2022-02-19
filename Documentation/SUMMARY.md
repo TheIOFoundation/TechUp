@@ -4,6 +4,8 @@
 
 ## Guides
 
+* [Code of Conduct](https://tiof.click/PolicyCoC)
+* [Dhatam House Rule](guides/dhatam-house-rule.md)
 * [Creating your first project](guides/creating-your-first-project.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
