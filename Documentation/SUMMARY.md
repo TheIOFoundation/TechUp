@@ -4,32 +4,22 @@
 
 * [Introduction](README.md)
 * [Next Generation of Rights Defenders](<README (2).md>)
+* [Code of Conduct](https://tiof.click/PolicyCoC)
+* [Dhatam House Rule](about/dhatam-house-rule.md)
 * [Get involved](about/get-involved.md)
 
-***
+## Activities
 
-* [What is MyProduct?](<README (1).md>)
+* [Capacity Building](activities/capacity-building.md)
 
-## Guides
+## Stakeholders
 
-* [Code of Conduct](https://tiof.click/PolicyCoC)
-* [Dhatam House Rule](guides/dhatam-house-rule.md)
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Tech Communities](stakeholders/tech-communities.md)
+* [Organizations](stakeholders/organizations.md)
+* [Speakers](stakeholders/speakers.md)
+* [Sponsors](stakeholders/sponsors.md)
+* [Page 4](stakeholders/page-4.md)
 
-## Fundamentals
+## Dirty
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [What is MyProduct?](dirty/what-is-myproduct.md)
