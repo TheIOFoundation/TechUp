@@ -3,10 +3,12 @@
 ## About
 
 * [Introduction](README.md)
+* [Status](about/status.md)
 * [Next Generation of Rights Defenders](<README (2).md>)
 * [Code of Conduct](https://tiof.click/PolicyCoC)
 * [Dhatam House Rule](about/dhatam-house-rule.md)
 * [Get involved](about/get-involved.md)
+* [Donate](about/donate.md)
 
 ## Activities
 
