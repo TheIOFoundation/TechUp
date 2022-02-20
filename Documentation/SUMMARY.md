@@ -1,6 +1,12 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+## About
+
+* [Next Generation of Rights Defenders](README.md)
+
+***
+
+* [What is MyProduct?](<README (1).md>)
 
 ## Guides
 
@@ -25,7 +31,3 @@
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
