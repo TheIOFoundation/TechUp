@@ -3,6 +3,7 @@
 ## About
 
 * [Next Generation of Rights Defenders](README.md)
+* [Get involved](about/get-involved.md)
 
 ***
 
