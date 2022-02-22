@@ -12,7 +12,19 @@
 
 ## Activities
 
+* [NOTES](activities/notes.md)
 * [Capacity Building](activities/capacity-building.md)
+* [Labs](activities/labs.md)
+* [BHR in Tech](activities/bhr-in-tech.md)
+* [TIOF](activities/tiof.md)
+* [Workshops](activities/workshops.md)
+* [Working Groups](activities/working-groups.md)
+* [Events](activities/events.md)
+* [Watch Parties](activities/watch-parties.md)
+* [Fundraisers](activities/fundraisers.md)
+* [FOSS Sprints](activities/foss-sprints.md)
+* [Matchmaking](activities/matchmaking.md)
+* [Podcasts](activities/podcasts.md)
 
 ## Stakeholders
 
