@@ -16,6 +16,7 @@
 * [Capacity Building](activities/capacity-building.md)
 * [Labs](activities/labs.md)
 * [BHR in Tech](activities/bhr-in-tech.md)
+* [Pitches](activities/pitches.md)
 * [TIOF](activities/tiof.md)
 * [Workshops](activities/workshops.md)
 * [Working Groups](activities/working-groups.md)
