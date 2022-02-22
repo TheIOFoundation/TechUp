@@ -12,20 +12,23 @@
 
 ## Activities
 
+* [LEARN](activities/learn/README.md)
+  * [Capacity Building](activities/learn/capacity-building.md)
+* [BUILD](activities/build/README.md)
+  * [Labs](activities/build/labs.md)
+  * [FOSS Sprints](activities/build/foss-sprints.md)
+  * [Fundraisers](activities/build/fundraisers.md)
+* [CONNECT](activities/connect/README.md)
+  * [Matchmaking](activities/connect/matchmaking.md)
+  * [Show & Tell](activities/connect/show-and-tell.md)
+* [Watch Parties](activities/watch-parties.md)
+* [Events](activities/events.md)
 * [NOTES](activities/notes.md)
 * [Tracks](activities/tracks.md)
-* [Capacity Building](activities/capacity-building.md)
-* [Labs](activities/labs.md)
 * [BHR in Tech](activities/bhr-in-tech.md)
-* [Pitches](activities/pitches.md)
 * [TIOF](activities/tiof.md)
 * [Workshops](activities/workshops.md)
 * [Working Groups](activities/working-groups.md)
-* [Events](activities/events.md)
-* [Watch Parties](activities/watch-parties.md)
-* [Fundraisers](activities/fundraisers.md)
-* [FOSS Sprints](activities/foss-sprints.md)
-* [Matchmaking](activities/matchmaking.md)
 * [Podcasts](activities/podcasts.md)
 
 ## Stakeholders
