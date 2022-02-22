@@ -30,7 +30,8 @@
 
 ## Stakeholders
 
-* [Tech Communities](stakeholders/tech-communities.md)
+* [Tech Communities](stakeholders/tech-communities/README.md)
+  * [Tech Community Lifecycle](stakeholders/tech-communities/tech-community-lifecycle.md)
 * [Organizations](stakeholders/organizations.md)
 * [Speakers](stakeholders/speakers.md)
 * [Sponsors](stakeholders/sponsors.md)
