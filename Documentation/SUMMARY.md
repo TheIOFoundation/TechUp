@@ -13,6 +13,7 @@
 ## Activities
 
 * [NOTES](activities/notes.md)
+* [Tracks](activities/tracks.md)
 * [Capacity Building](activities/capacity-building.md)
 * [Labs](activities/labs.md)
 * [BHR in Tech](activities/bhr-in-tech.md)
