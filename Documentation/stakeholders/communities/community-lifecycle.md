@@ -1,4 +1,4 @@
-# Tech Community Lifecycle
+# Community Lifecycle
 
 
 
