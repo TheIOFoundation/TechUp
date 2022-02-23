@@ -1,4 +1,4 @@
-# Reception
+# Right Pannel
 
 ## What is it?
 

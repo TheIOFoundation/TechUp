@@ -16,7 +16,8 @@
 * [Schedule](techup-space/schedule.md)
 * [Lounge](techup-space/lounge.md)
 * [Booths](techup-space/booths.md)
-* [Page 1](techup-space/page-1.md)
+* [Right Pannel](techup-space/right-pannel.md)
+* [Leaderboard](techup-space/leaderboard.md)
 
 ## Stakeholders
 

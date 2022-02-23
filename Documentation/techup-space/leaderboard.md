@@ -1,4 +1,4 @@
-# Reception
+# Leaderboard
 
 ## What is it?
 
