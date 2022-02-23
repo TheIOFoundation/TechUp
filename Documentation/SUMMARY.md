@@ -12,6 +12,7 @@
 
 ## TechUp Space
 
+* [Participating](techup-space/participating.md)
 * [Reception](techup-space/reception.md)
 * [Schedule](techup-space/schedule.md)
 * [Lounge](techup-space/lounge.md)
@@ -33,11 +34,11 @@
   * [Speaker Lifecycle](stakeholders/speakers/speaker-lifecycle.md)
   * [Outreach Materials](stakeholders/speakers/outreach-materials.md)
   * [Speakers' Guide](stakeholders/speakers/speakers-guide.md)
+* [FOSS Projects](stakeholders/foss-projects.md)
 * [Sponsors](stakeholders/sponsors/README.md)
   * [Sponsor Lifecycle](stakeholders/sponsors/sponsor-lifecycle.md)
   * [Outreach Materials](stakeholders/sponsors/outreach-materials.md)
   * [Sponsors' Guide](stakeholders/sponsors/sponsors-guide.md)
-* [Page 4](stakeholders/page-4.md)
 
 ## Activities
 
