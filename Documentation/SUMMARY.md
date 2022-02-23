@@ -10,6 +10,34 @@
 * [Get involved](about/get-involved.md)
 * [Donate](about/donate.md)
 
+## TechUp Space
+
+* [Reception](techup-space/reception.md)
+* [Schedule](techup-space/schedule.md)
+* [Lounge](techup-space/lounge.md)
+* [Booths](techup-space/booths.md)
+* [Page 1](techup-space/page-1.md)
+
+## Stakeholders
+
+* [Communities](stakeholders/communities/README.md)
+  * [Community Lifecycle](stakeholders/communities/community-lifecycle.md)
+  * [Outreach Materials](stakeholders/communities/outreach-materials.md)
+  * [Community Partners' Guide](stakeholders/communities/community-partners-guide.md)
+* [Organizations](stakeholders/organizations/README.md)
+  * [Organization Lifecycle](stakeholders/organizations/organization-lifecycle.md)
+  * [Outreach Materials](stakeholders/organizations/outreach-materials.md)
+  * [Organization Partners' Guide](stakeholders/organizations/organization-partners-guide.md)
+* [Speakers](stakeholders/speakers/README.md)
+  * [Speaker Lifecycle](stakeholders/speakers/speaker-lifecycle.md)
+  * [Outreach Materials](stakeholders/speakers/outreach-materials.md)
+  * [Speakers' Guide](stakeholders/speakers/speakers-guide.md)
+* [Sponsors](stakeholders/sponsors/README.md)
+  * [Sponsor Lifecycle](stakeholders/sponsors/sponsor-lifecycle.md)
+  * [Outreach Materials](stakeholders/sponsors/outreach-materials.md)
+  * [Sponsors' Guide](stakeholders/sponsors/sponsors-guide.md)
+* [Page 4](stakeholders/page-4.md)
+
 ## Activities
 
 * [LEARN](activities/learn/README.md)
@@ -32,26 +60,6 @@
 * [NOTES](activities/notes.md)
 * [Tracks](activities/tracks.md)
 * [Community Caffe](activities/community-caffe.md)
-
-## Stakeholders
-
-* [Communities](stakeholders/communities/README.md)
-  * [Community Lifecycle](stakeholders/communities/community-lifecycle.md)
-  * [Outreach Materials](stakeholders/communities/outreach-materials.md)
-  * [Community Partners' Guide](stakeholders/communities/community-partners-guide.md)
-* [Organizations](stakeholders/organizations/README.md)
-  * [Organization Lifecycle](stakeholders/organizations/organization-lifecycle.md)
-  * [Outreach Materials](stakeholders/organizations/outreach-materials.md)
-  * [Organization Partners' Guide](stakeholders/organizations/organization-partners-guide.md)
-* [Speakers](stakeholders/speakers/README.md)
-  * [Speaker Lifecycle](stakeholders/speakers/speaker-lifecycle.md)
-  * [Outreach Materials](stakeholders/speakers/outreach-materials.md)
-  * [Speakers' Guide](stakeholders/speakers/speakers-guide.md)
-* [Sponsors](stakeholders/sponsors/README.md)
-  * [Sponsor Lifecycle](stakeholders/sponsors/sponsor-lifecycle.md)
-  * [Outreach Materials](stakeholders/sponsors/outreach-materials.md)
-  * [Sponsors' Guide](stakeholders/sponsors/sponsors-guide.md)
-* [Page 4](stakeholders/page-4.md)
 
 ## Dirty
 
