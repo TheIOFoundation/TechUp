@@ -25,7 +25,7 @@ By participating in TechUp you will connect with fellow technology enthusiast, s
 {% endhint %}
 
 {% hint style="info" %}
-Communities join TechUp on a season basis. Each season corresponds to a natural year, from 1st January to 31st December.
+Communities join TechUp on a [season basis](../../about/seasons/). Each season corresponds to a natural year, from 1st January to 31st December.
 {% endhint %}
 
 ## Benefits
@@ -53,23 +53,25 @@ By participating in TechUp as a Community Partner, you will be granted a number 
 * Statistics after each of your activities\
   So that you can analyze how did it go.
 
-And much more!\
-The platform used for the TechUp Space releases new features very often, of which will inform you regularly.
+**And much more!**\
+****The platform used for the TechUp Space releases new features very often, of which will inform you regularly.
 
 ## Commitments
 
-In order to maintain your status of Community Partner, you will need to make sure to:
+In order to maintain your status as Community Partner, you will need to make sure to:
 
-* Abide by The IO Foundation’s Code of Conduct
-* Provide us with up to 6 email addresses that will be associated with your booth
-* Dress up your booth no later than 3 days before the next TechUp (takes max 10 minutes - See here: https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet)
-* Promote the event among your networks (you can use your own collaterals or the customized ones we’ll provide you) Coordinate with the TechUp team to ensure the best experience
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
+* Provide us with at least 1 email address that will be associated with your booth
+* [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 3 days before the next TechUp
+* Promote TechUp and your activities among your own members and networks\
+  (you can use your own collaterals or the customized ones we’ll provide you)
+* Coordinate with the TechUp team to ensure the best experience
 
 ## Requirements
 
 To qualify as a Community Partner you must verify the following requirements:
 
-* You are a community of developers, designers, accountants or any other industry that is seeking for opportunities to create positive impact in technology.
+* You are a community of developers, designers, accountants or any other industry that wishes to create positive impact in technology
 * You do not charge your members with a fee to be a part of your community (if you do, you can still participate in TechUp as a Sponsor Partner)
 * Abide by The IO Foundation’s Code of Conduct
 * Attend at least 1 orientation session
