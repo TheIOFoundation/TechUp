@@ -31,6 +31,7 @@
 
 ## Stakeholders
 
+* [The TechUp Community](stakeholders/the-techup-community.md)
 * [Communities](stakeholders/communities/README.md)
   * [Community Lifecycle](stakeholders/communities/community-lifecycle.md)
   * [Outreach Materials](stakeholders/communities/outreach-materials.md)
@@ -49,6 +50,7 @@
   * [Sponsor Lifecycle](stakeholders/sponsors/sponsor-lifecycle.md)
   * [Outreach Materials](stakeholders/sponsors/outreach-materials.md)
   * [Sponsors' Guide](stakeholders/sponsors/sponsors-guide.md)
+* [Orientation Sessions](stakeholders/orientation-sessions.md)
 
 ## Activities
 
