@@ -14,6 +14,8 @@ where the TechUp Community  to interact with exhibitors one-one on tables and en
 Use the navigation menu to select the Booths section.
 {% endhint %}
 
+Booths This area presents with a series of booths hosting each of the projects available during the weekend as well as a collection of organizations providing pro bono services to Open Source projects and Civil Society or other equivalent type of support.
+
 ## How to use?
 
 
@@ -76,6 +78,14 @@ Prepare a video presentation and link it to the booth header when dressing it up
 Follow the recommended sizes for images (instructions on the booth when configuring) to maximize the user experience
 
 Create a booking link and use it as a Resource in the booth so people can schedule meeting you during or after TechUp
+
+
+
+
+
+### Optional features
+
+
 
 
 

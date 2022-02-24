@@ -48,7 +48,9 @@ By participating in TechUp as a Community Partner, you will be granted a number 
   * Promotion of your community in TechUp's official channels\
     We will give exposure to your community.
   * Possibility to run a session presenting your community\
-    You will have the opportunity to find more members and collaborators.
+    You will have the opportunity to showcase your community.
+  * Possibility to have a segment presenting your community in our Codefield podcast\
+    You will have the opportunity to showcase your community.
   * Global announcements\
     presenting your community and encouraging participants to reach out to you
 * Assistance before, during and after the event from the TechUp crew\
@@ -67,8 +69,10 @@ In order to maintain your status as Community Partner, you will need to make sur
 * You will not charge your members a fee to access TechUp\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Organizes at least 1 activity during the current season
-* Provide us with at least 1 email address that will be associated with your booth
-* [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 3 days before the next TechUp
+* Provide TechUp with the necessary information about your Community
+  * Name, Description, Logo, etc.
+  * At least 1 email address that will be associated with your booth
+* [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 7 natural days after joining TechUp
 * Promote TechUp and your activities among your own members and networks\
   (you can use your own collaterals or the customized ones we’ll provide you)
 * Coordinate with the TechUp team to ensure the best experience

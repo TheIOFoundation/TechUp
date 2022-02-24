@@ -22,9 +22,12 @@
 ## TechUp Space
 
 * [Participating](techup-space/participating.md)
+* [Landing Page](techup-space/landing-page.md)
 * [Reception](techup-space/reception.md)
 * [Schedule](techup-space/schedule.md)
+* [The Stage](techup-space/the-stage.md)
 * [Lounge](techup-space/lounge.md)
+* [Virtual Tables](techup-space/virtual-tables.md)
 * [Booths](techup-space/booths.md)
 * [Right Pannel](techup-space/right-pannel.md)
 * [Leaderboard](techup-space/leaderboard.md)
@@ -35,11 +38,12 @@
 * [Communities](stakeholders/communities/README.md)
   * [Community Lifecycle](stakeholders/communities/community-lifecycle.md)
   * [Outreach Materials](stakeholders/communities/outreach-materials.md)
-  * [Partner Community Agreement](stakeholders/communities/partner-community-agreement.md)
+  * [Community Partner Agreement](stakeholders/communities/community-partner-agreement.md)
   * [Community Partners' Guide](stakeholders/communities/community-partners-guide.md)
 * [Organizations](stakeholders/organizations/README.md)
   * [Organization Lifecycle](stakeholders/organizations/organization-lifecycle.md)
   * [Outreach Materials](stakeholders/organizations/outreach-materials.md)
+  * [Organization Partner Agreement](stakeholders/organizations/organization-partner-agreement.md)
   * [Organization Partners' Guide](stakeholders/organizations/organization-partners-guide.md)
 * [Speakers](stakeholders/speakers/README.md)
   * [Speaker Lifecycle](stakeholders/speakers/speaker-lifecycle.md)
@@ -51,11 +55,13 @@
   * [Outreach Materials](stakeholders/sponsors/outreach-materials.md)
   * [Sponsors' Guide](stakeholders/sponsors/sponsors-guide.md)
 * [Orientation Sessions](stakeholders/orientation-sessions.md)
+* [Page 1](stakeholders/page-1.md)
 
 ## Activities
 
 * [LEARN](activities/learn/README.md)
   * [Capacity Building](activities/learn/capacity-building.md)
+  * [Topics](activities/learn/topics.md)
 * [BUILD](activities/build/README.md)
   * [Labs](activities/build/labs.md)
   * [FOSS Sprints](activities/build/foss-sprints.md)
@@ -70,9 +76,11 @@
   * [BHR in Tech](activities/tiof/bhr-in-tech.md)
   * [PLD Policy Sprint](activities/tiof/pld-policy-sprint.md)
   * [PLD Community Caffe](activities/tiof/pld-community-caffe.md)
+  * [UDDR Steering Committee](activities/tiof/uddr-steering-committee.md)
   * [Podcasts](activities/tiof/podcasts.md)
   * [Working Groups](activities/tiof/working-groups.md)
 * [NOTES](activities/notes.md)
+* [Session Lifecycle](activities/session-lifecycle.md)
 * [Tracks](activities/tracks.md)
 * [Community Caffe](activities/community-caffe.md)
 

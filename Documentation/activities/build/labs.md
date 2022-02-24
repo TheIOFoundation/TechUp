@@ -8,6 +8,10 @@ Consider a #Tag for this.
 
 ### Labs under consideration
 
+Use Sleeplan or Gleap to ask for voting.
+
+
+
 The following is a list of Labs TechUp is considering:
 
 #### Automation

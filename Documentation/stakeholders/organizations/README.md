@@ -43,8 +43,10 @@ By participating in TechUp as an Organization Partner, you will be granted a num
     This will allow you to promote your community and activities more easily.
   * Promotion of your community in TechUp's official channels\
     We will give exposure to your community.
-  * Possibility to run a session presenting your community\
+  * Possibility to run a session presenting your organization\
     You will have the opportunity to find more members and collaborators.
+  * Possibility to have a segment presenting your organization in our Codefield podcast\
+    You will have the opportunity to showcase your community.
   * Global announcements\
     presenting your community and encouraging participants to reach out to you
 * Assistance before, during and after the event from the TechUp crew\
@@ -62,8 +64,10 @@ In order to maintain your status as Community Partner, you will need to make sur
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](../../about/dhatam-house-rule.md)
 * You will not charge your members a fee to access TechUp\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
-* Provide us with at least 1 email address that will be associated with your booth
-* [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 3 days before the next TechUp
+* Provide TechUp with the necessary information about your Community
+  * Name, Description, Logo, etc.
+  * At least 1 email address that will be associated with your booth
+* [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 7 natural days after joining TechUp
 * Promote TechUp and your activities among your own members and networks\
   (you can use your own collaterals or the customized ones we’ll provide you)
 * Coordinate with the TechUp team to ensure the best experience
@@ -73,7 +77,7 @@ In order to maintain your status as Community Partner, you will need to make sur
 To qualify as an Organization Partner you must verify the following requirements:
 
 * You are a legally registered entity (NGO, corporate, etc.) that wishes to create positive impact in technology
-* You do not belong to the list of [#organizations-not-allowed](./#organizations-not-allowed "mention")
+* You do not belong to the list of [#organizations-under-special-consideration](./#organizations-under-special-consideration "mention")
 *   You can provide
 
     * a pro bono service to FOSS projects, Civil Society and similar stakeholders
