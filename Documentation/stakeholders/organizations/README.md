@@ -73,7 +73,7 @@ In order to maintain your status as Community Partner, you will need to make sur
 To qualify as an Organization Partner you must verify the following requirements:
 
 * You are a legally registered entity (NGO, corporate, etc.) that wishes to create positive impact in technology
-* You do not belong to the list of [#organizations-under-special-consideration](./#organizations-under-special-consideration "mention")
+* You do not belong to the list of [#organizations-not-allowed](./#organizations-not-allowed "mention")
 *   You can provide
 
     * a pro bono service to FOSS projects, Civil Society and similar stakeholders
