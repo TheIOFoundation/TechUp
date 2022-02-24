@@ -73,7 +73,7 @@ In order to maintain your status as Community Partner, you will need to make sur
 To qualify as an Organization Partner you must verify the following requirements:
 
 * You are a legally registered entity (NGO, corporate, etc.) that wishes to create positive impact in technology
-* You do not belong to the list of [#undefined](./#undefined "mention")
+* You do not belong to the list of [#organizations-not-allowed](./#organizations-not-allowed "mention")
 *   You can provide
 
     * a pro bono service to FOSS projects, Civil Society and similar stakeholders
@@ -95,11 +95,29 @@ Please contact us for more details: Contact@TheIOFoundation.org
 
 ## Organizations not allowed
 
-IMPORTANT To ensure that TechUp remains independent, community oriented and committed to its objectives, the following organizations types will be under special consideration:
+**IMPORTANT**\
+****To ensure that TechUp remains independent, community oriented and committed to its objectives, the following organizations types will be under special consideration:
 
-Organizations not allowed as Organizations Partners The following organization types won’t be considered for the category of Organization Partner: Political Parties Religious organizations
+{% hint style="info" %}
+The lists below may be updated as new realities arise.
+{% endhint %}
 
-Organizations to be treated as Special Case The following organization types will be evaluated on a case-by-case basis: Governments + Ministries + Related Agencies or otherwise participated companies Foreign Missions - Embassies Supranational organizations
+### Organizations not allowed as Organizations Partners
 
-Any such organizations may propose support TechUp as Sponsor Partners, in which case The IO Foundation will evaluate the proposal’s suitability and properly disclose the result should it be positive.
+The following organization types won’t be considered for the category of Organization Partner:
+
+* Political Parties
+* Religious organizations
+
+### Organizations to be treated as Special Case
+
+The following organization types will be evaluated on a case-by-case basis:
+
+* Governments
+  * Ministries
+  * Related Agencies or otherwise participated companies
+* Foreign Missions or Embassies
+* Supranational organizations
+
+Additionally, any such organizations may propose support TechUp as [Sponsor Partners](../sponsors/), in which case The IO Foundation will evaluate the proposal’s suitability following its Funding Policy and properly disclose the result to its community should it be positive.
 

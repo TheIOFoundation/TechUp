@@ -24,11 +24,8 @@ By participating in TechUp you will connect with fellow technology enthusiast, s
 **Communities can join TechUp for free.**
 {% endhint %}
 
-{% embed url="https://tiof.click/TUSubmissionCommunity" %}
-
 {% hint style="info" %}
-Communities join TechUp on a [season basis](../../about/seasons/).\
-Each season corresponds to a natural year, from 1st January to 31st December.
+Communities join TechUp on a [season basis](../../about/seasons/). Each season corresponds to a natural year, from 1st January to 31st December.
 {% endhint %}
 
 ## Benefits
@@ -64,9 +61,6 @@ By participating in TechUp as a Community Partner, you will be granted a number 
 In order to maintain your status as Community Partner, you will need to make sure to:
 
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* You will not charge your members a fee to access TechUp\
-  (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
-* Organizes at least 1 activity during the current season
 * Provide us with at least 1 email address that will be associated with your booth
 * [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 3 days before the next TechUp
 * Promote TechUp and your activities among your own members and networks\
@@ -78,11 +72,49 @@ In order to maintain your status as Community Partner, you will need to make sur
 To qualify as a Community Partner you must verify the following requirements:
 
 * You are a community of developers, designers, accountants or any other industry that wishes to create positive impact in technology
-* You do not charge your members with a fee to be a part of your community\
-  (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../orientation-sessions.md)
+* You do not charge your members with a fee to be a part of your community (if you do, you can still participate in TechUp as a Sponsor Partner)
+* Abide by The IO Foundation’s Code of Conduct
+* Attend at least 1 orientation session
 
 If you check all the above boxes, we invite you to submit your community.
 
-{% embed url="https://tiof.click/TUSubmissionCommunity" %}
+
+
+
+
+## Timeline
+
+Participating in TechUp is very easy!
+
+This simple list of steps will guide you through all the steps. Rest assured, the TechUp team will be with you to support you all the way.
+
+Get familiar with the benefits and commitments of participating in TechUp
+
+Make sure you fulfil our requirements
+
+Register your Community
+
+Get approved (we will be quick!)
+
+Sign the Community Partner agreement
+
+Prepare your participation Get familiar with the platform (Airmeet) (Optional) Plan for activities you would want to run Attend the orientation session Dress up your booth
+
+Promote your participation across your networks & Invite your community members
+
+Attend TechUp
+
+Get your post-event stats
+
+For more information, you can check the Community Lifecycle
+
+
+
+
+
+
+
+
+
+
+
