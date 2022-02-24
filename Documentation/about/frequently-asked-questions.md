@@ -27,7 +27,17 @@ In short, and in accordance to TIOF's Funding Policy, if we are doing our job we
 
 
 
+### Is TechUp always available 24/7?
 
+Yes.
+
+You can access the TechUp Space any time you want here.
+
+### Why would I want to participate in TechUp?
+
+
+
+### Can I run my activities any time?
 
 
 

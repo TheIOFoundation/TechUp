@@ -55,6 +55,7 @@
   * [Show & Tell](activities/connect/show-and-tell.md)
 * [Watch Parties](activities/watch-parties.md)
 * [Events](activities/events.md)
+* [Running your own activities](activities/running-your-own-activities.md)
 * [TIOF](activities/tiof/README.md)
   * [BHR in Tech](activities/tiof/bhr-in-tech.md)
   * [PLD Policy Sprint](activities/tiof/pld-policy-sprint.md)
