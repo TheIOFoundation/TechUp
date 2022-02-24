@@ -10,6 +10,14 @@
 * [Get involved](about/get-involved.md)
 * [Donate](about/donate.md)
 * [Frequently Asked Questions](about/frequently-asked-questions.md)
+* [Seasons](about/seasons/README.md)
+  * [Season 2018](about/seasons/season-2018.md)
+  * [Season 2019](about/seasons/season-2019.md)
+  * [Season 2020](about/seasons/season-2020.md)
+  * [Season 2021](about/seasons/season-2021.md)
+  * [Season 2022](about/seasons/season-2022.md)
+* [Media Kit](about/media-kit/README.md)
+  * [Official Channels](about/media-kit/official-channels.md)
 
 ## TechUp Space
 

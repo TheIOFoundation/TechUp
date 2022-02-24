@@ -10,38 +10,51 @@ coverY: 29.60352422907488
 
 # Communities
 
-## About Partner Communities
+## What are Community Partners
 
 Communities are groups of technology enthusiasts that participate in TechUp to create a vibrant civic tech ecosystem that spans all over the globe.
 
-## Why patriciate in TechUp?
+## Join TechUp
 
 TechUp is a vibrant, growing ecosystem composed by tech enthusiasts wanting to be an active part of designing and creating better and safer digital communities.
 
 By participating in TechUp you will connect with fellow technology enthusiast, support FOSS Projects for impact and discover other organizations and resources that can help your own community grow.
 
+{% hint style="info" %}
+**Communities can join TechUp for free.**
+{% endhint %}
 
+{% hint style="info" %}
+Communities join TechUp on a season basis. Each season corresponds to a natural year, from 1st January to 31st December.
+{% endhint %}
 
 ## Benefits
 
 By participating in TechUp as a Community Partner, you will be granted a number of benefits, such as:
 
-* Access to the TechUp Space
-* Access to all TechUp activities
-* Ability to run sessions\
-  This includes broadcasting to your own&#x20;
-* Customized promotion materials
-* Promotion of your participation in the different Comms channels where TechUp is advertised
-* 1 Booth in the Booths area (allows participants to reach out to you even if not manned - a config list for the booth will be provided)
-* Possibility to run a session presenting your community
-* Ability to engage with TechUp participants globally
-* Scheduled event-wide announcements presenting your community and encouraging participants to reach out to you
-* Assistance before, during and after the event from the TechUp crew
-* Statistics after the event
+* Access to the TechUp Space\
+  Your members can access all activities and engage with a global community of technologists.\
+  See the full list here. [learn](../../activities/learn/ "mention") [build](../../activities/build/ "mention") [connect](../../activities/connect/ "mention")
+* Ability to run your own activities\
+  This includes broadcasting to your own media channels.
+* 1 virtual booth\
+  Allows you to showcase your community, run private activities and allow people to contact you.
+* Increased exposure
+  * Customized promotion materials\
+    This will allow you to promote your community and activities more easily.
+  * Promotion of your community in TechUp's official channels\
+    We will give exposure to your community.
+  * Possibility to run a session presenting your community\
+    You will have the opportunity to find more members and collaborators.
+  * Global announcements\
+    presenting your community and encouraging participants to reach out to you
+* Assistance before, during and after the event from the TechUp crew\
+  We provide a comprehensive help and provide regular updates with new features and activities.
+* Statistics after each of your activities\
+  So that you can analyze how did it go.
 
-And much more!
-
-Our TechUp Space has new features&#x20;
+And much more!\
+The platform used for the TechUp Space releases new features very often, of which will inform you regularly.
 
 ## Commitments
 
@@ -51,10 +64,6 @@ In order to maintain your status of Community Partner, you will need to make sur
 * Provide us with up to 6 email addresses that will be associated with your booth
 * Dress up your booth no later than 3 days before the next TechUp (takes max 10 minutes - See here: https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet)
 * Promote the event among your networks (you can use your own collaterals or the customized ones we’ll provide you) Coordinate with the TechUp team to ensure the best experience
-
-
-
-
 
 ## Requirements
 
