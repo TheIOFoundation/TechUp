@@ -9,6 +9,7 @@
 * [Dhatam House Rule](about/dhatam-house-rule.md)
 * [Get involved](about/get-involved.md)
 * [Donate](about/donate.md)
+* [Frequently Asked Questions](about/frequently-asked-questions.md)
 
 ## TechUp Space
 
@@ -25,6 +26,7 @@
 * [Communities](stakeholders/communities/README.md)
   * [Community Lifecycle](stakeholders/communities/community-lifecycle.md)
   * [Outreach Materials](stakeholders/communities/outreach-materials.md)
+  * [Partner Community Agreement](stakeholders/communities/partner-community-agreement.md)
   * [Community Partners' Guide](stakeholders/communities/community-partners-guide.md)
 * [Organizations](stakeholders/organizations/README.md)
   * [Organization Lifecycle](stakeholders/organizations/organization-lifecycle.md)
