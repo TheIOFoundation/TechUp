@@ -20,10 +20,6 @@ Use the navigation menu to select the Booths section.
 
 
 
-Give a link to the checklist.
-
-\[ ] Hello
-
 
 
 As part of the tools made available to you, you will be provided with a private booth.
@@ -42,17 +38,44 @@ Tips: When booth managers are in the booth their profile pictures are displayed 
 
 
 
-Dress up your booth Configuring your booth is done in 2 steps:
+## Dressing up your booth
 
-1. TechUp team: we will initially create your booth, for which we will need: 2. Your team: you will finish the booth’s configuration
+Configuring your booth is done in 2 steps:
 
-* Official Organization name - Organization identify (Logo, presentation video, etc)
-* List of emails (max 6) as managers for your booth - Resources & Social media links
-* Organization’s official logo - Tables & Offers (optional) (These will already be provided during the submission of your organization) Booth managers will receive an email with a magic link to configure all these.
+### TechUp team
 
-IMPORTANT: The deadline to prepare your booth is D-3 (that is, 3 days before the next TechUp). To ensure a quality experience to the participants, booths that are not configured by D-3 will be removed from that Episode.
+We will initially create your booth, for which we will need:&#x20;
 
-Some recommendations: Prepare a video presentation and link it to the booth header when dressing it up (see above) Follow the recommended sizes for images (instructions on the booth when configuring) to maximize the user experience Create a booking link and use it as a Resource in the booth so people can schedule meeting you during or after TechUp
+## Your team
+
+You will finish the booth’s configuration
+
+* [ ] Official Organization name
+* [ ] Organization identify (Logo, presentation video, etc)
+* [ ] List of emails (max 6) as managers for your booth
+* [ ] Resources & Social media links
+* [ ] Organization’s official logo
+* [ ] Tables & Offers (optional) (These will already be provided during the submission of your organization)
+
+Booth managers will receive an email with a magic link to configure all these.
+
+*
+
+{% hint style="info" %}
+**IMPORTANT**\
+****The deadline to prepare your booth is D-3 (that is, 3 days before the next TechUp).\
+To ensure a quality experience to the participants, booths that are not configured by D-3 will be removed from that Episode.
+{% endhint %}
+
+
+
+### Some recommendations
+
+Prepare a video presentation and link it to the booth header when dressing it up (see above)
+
+Follow the recommended sizes for images (instructions on the booth when configuring) to maximize the user experience
+
+Create a booking link and use it as a Resource in the booth so people can schedule meeting you during or after TechUp
 
 
 
