@@ -4,7 +4,7 @@
 
 The TechUp Lounge is the a space where the TechUp community can interact through sitting around thematic tables which offer in a mini-virtual conference experience.
 
-@vir
+@virt
 
 Lounge This area offers a number of tables assigned to speakers, projects and others. Participants can also use them to organize spontaneous working groups.
 
