@@ -1,5 +1,0 @@
-# Events
-
-## Tags
-
-Booths: `Event`

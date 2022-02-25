@@ -36,7 +36,7 @@ You can access the list of past TechUp events and related activities and capacit
 
 ## LEARN
 
-
+For more information, check the LEARN section [#learn](./#learn "mention")
 
 ## BUILD
 
@@ -46,5 +46,19 @@ You can access the list of past TechUp events and related activities and capacit
 
 
 
+## Using this Handbook
 
+
+
+
+
+### Iconography
+
+The following icons are used through this handbook to help quickly identify your art
+
+|   Icon | Type of article | What to expect |
+| -----: | --------------- | -------------- |
+| :gear: | Technical       |                |
+|        |                 |                |
+|        |                 |                |
 
