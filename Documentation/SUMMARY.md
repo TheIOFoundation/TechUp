@@ -19,6 +19,7 @@
 * [Media Kit](about/media-kit/README.md)
   * [Official Channels](about/media-kit/official-channels.md)
 * [Repository](about/repository.md)
+* [Terminology](about/terminology.md)
 
 ## TechUp Space
 
