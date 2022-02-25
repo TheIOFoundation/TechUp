@@ -8,7 +8,7 @@ Happens @ the Booths
 
 ##
 
-## What is it?
+## What are they?
 
 Booths are virtual spaces used by the Community to&#x20;
 
@@ -24,7 +24,7 @@ Use the navigation menu to select the Booths section.
 
 Booths This area presents with a series of booths hosting each of the projects available during the weekend as well as a collection of organizations providing pro bono services to Open Source projects and Civil Society or other equivalent type of support.
 
-## How to use?
+## How to use them?
 
 
 

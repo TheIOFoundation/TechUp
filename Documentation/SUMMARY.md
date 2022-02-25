@@ -24,6 +24,7 @@
 ## TechUp Space
 
 * [Participating](techup-space/participating/README.md)
+  * [Registration](techup-space/participating/registration.md)
   * [Tracks](techup-space/participating/tracks.md)
 * [Landing Page](techup-space/landing-page.md)
 * [Reception](techup-space/reception.md)
@@ -41,12 +42,12 @@
 * [The TechUp Community](stakeholders/the-techup-community.md)
 * [Audience](stakeholders/audience.md)
 * [Communities](stakeholders/communities/README.md)
-  * [Guide](stakeholders/communities/guide.md)
-  * [Agreement](stakeholders/communities/agreement.md)
-  * [Outreach Materials](stakeholders/communities/outreach-materials.md)
-  * [Lifecycle](stakeholders/communities/lifecycle.md)
+  * [Community Partners' Guide](stakeholders/communities/community-partners-guide.md)
+  * [Community Partners' Agreement](stakeholders/communities/community-partners-agreement.md)
+  * [Community Partners' Materials](stakeholders/communities/community-partners-materials.md)
+  * [Community Lifecycle](stakeholders/communities/community-lifecycle.md)
 * [Organizations](stakeholders/organizations/README.md)
-  * [Organization Partners' Guide](stakeholders/organizations/organization-partners-guide.md)
+  * [Organization's Guide](stakeholders/organizations/organizations-guide.md)
   * [Organization Partner Agreement](stakeholders/organizations/organization-partner-agreement.md)
   * [Outreach Materials](stakeholders/organizations/outreach-materials.md)
   * [Organization Lifecycle](stakeholders/organizations/organization-lifecycle.md)
@@ -61,9 +62,10 @@
   * [Outreach materials](stakeholders/foss-projects/outreach-materials.md)
   * [FOSS Project Lifecycle](stakeholders/foss-projects/foss-project-lifecycle.md)
 * [Sponsors](stakeholders/sponsors/README.md)
+  * [Sponsors' Guide](stakeholders/sponsors/sponsors-guide.md)
+  * [Agreement](stakeholders/sponsors/agreement.md)
   * [Sponsor Lifecycle](stakeholders/sponsors/sponsor-lifecycle.md)
   * [Outreach Materials](stakeholders/sponsors/outreach-materials.md)
-  * [Sponsors' Guide](stakeholders/sponsors/sponsors-guide.md)
 
 ## Activities
 
