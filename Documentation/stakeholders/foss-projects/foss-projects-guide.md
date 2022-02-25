@@ -4,7 +4,13 @@
 
 ## BEFORE
 
-### Prepate your Goals
+Deadlines
+
+### Document your project
+
+
+
+### Prepare your Goals
 
 
 
