@@ -6,6 +6,10 @@ description: >-
 
 # FOSS Projects
 
+## Tags
+
+Booths: `Open Source Project`
+
 ## What are FOSS Projects?
 
 Communities are groups of technology enthusiasts that participate in TechUp to create a vibrant civic tech ecosystem that spans all over the globe.

@@ -6,6 +6,10 @@ description: >-
 
 # Organizations
 
+## Tags
+
+Booths: `Organization`
+
 ## What are Organization Partners
 
 Organization Partners are legally registered entities that participate in TechUp to create a vibrant civic tech ecosystem that spans all over the globe by providing Pro Bono services Free services that otherwise would be paid.

@@ -85,6 +85,7 @@
 * [NOTES](activities/notes.md)
 * [Session Lifecycle](activities/session-lifecycle.md)
 * [Tracks](activities/tracks.md)
+* [Surveys](activities/surveys.md)
 * [Community Caffe](activities/community-caffe.md)
 
 ## Dirty

@@ -1,2 +1,5 @@
 # Events
 
+## Tags
+
+Booths: `Event`

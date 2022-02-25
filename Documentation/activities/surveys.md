@@ -1,0 +1,5 @@
+# Surveys
+
+## Tags
+
+Booths: `Survey`

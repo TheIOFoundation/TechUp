@@ -1,5 +1,13 @@
 # Booths
 
+## Tags
+
+Happens @ the Booths
+
+
+
+##
+
 ## What is it?
 
 Booths are virtual spaces used by the Community to&#x20;

@@ -10,6 +10,12 @@ coverY: 29.60352422907488
 
 # Communities
 
+## Tags
+
+Booths: `Community`
+
+``
+
 ## What are Community Partners
 
 Communities are groups of technology enthusiasts that participate in TechUp to create a vibrant civic tech ecosystem that spans all over the globe.
