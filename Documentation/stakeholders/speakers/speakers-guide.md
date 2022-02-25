@@ -10,6 +10,14 @@
 
 
 
+### Themes and Topics
+
+Check the 3 TechUp Themes
+
+Check the current Topics
+
+Propose new topics >> Roadmap
+
 
 
 ## BEFORE
