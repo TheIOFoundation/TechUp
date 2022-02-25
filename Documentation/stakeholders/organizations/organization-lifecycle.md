@@ -4,7 +4,7 @@ description: >-
   participation in TechUp.
 ---
 
-# Organization Lifecycle
+# Lifecycle
 
 Timeline Participating in TechUp is very easy!
 

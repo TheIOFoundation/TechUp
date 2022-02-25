@@ -1,14 +1,8 @@
-# Session Lifecycle
+# ⚙ Session Lifecycle
 
 
 
-Submit your materials
-
-
-
-Promote
-
-
+Create a Table for the Speakers
 
 
 

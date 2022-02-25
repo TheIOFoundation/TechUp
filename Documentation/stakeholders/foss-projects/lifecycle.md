@@ -1,2 +1,0 @@
-# FOSS Project Lifecycle
-
