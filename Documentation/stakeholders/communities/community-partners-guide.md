@@ -20,6 +20,19 @@ Should you need to refresh some of the functionalities (or learn about the new o
 
 
 
+### Scheduling
+
+#### Global Activities
+
+Book your preferred time here:
+
+#### Private Activities
+
+As of time of writing, there is no integrated way to communicate your private activities.\
+We are working in this.
+
+####
+
 ## Engage your audience
 
 

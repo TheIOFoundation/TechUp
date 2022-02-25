@@ -27,7 +27,7 @@ By participating in TechUp you will connect with fellow technology enthusiast, s
 {% embed url="https://tiof.click/TUSubmissionCommunity" %}
 
 {% hint style="info" %}
-Communities join TechUp on a [season basis](../about/seasons/).\
+Communities join TechUp on a [season basis](../../about/seasons/).\
 Each season corresponds to a natural year, from 1st January to 31st December.
 {% endhint %}
 
@@ -37,7 +37,7 @@ By participating in TechUp as a Community Partner, you will be granted a number 
 
 * Access to the TechUp Space\
   Your members can access all activities and engage with a global community of technologists.\
-  See the full list here. [learn](../activities/learn/ "mention") [build](../activities/build/ "mention") [connect](../activities/connect/ "mention")
+  See the full list here. [learn](../../activities/learn/ "mention") [build](../../activities/build/ "mention") [connect](../../activities/connect/ "mention")
 * Ability to run your own activities\
   This includes broadcasting to your own media channels.
 * 1 virtual booth\
@@ -65,12 +65,13 @@ By participating in TechUp as a Community Partner, you will be granted a number 
 
 In order to maintain your status as Community Partner, you will need to make sure to:
 
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](../about/dhatam-house-rule.md)
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](../../about/dhatam-house-rule.md)
 * You will not charge your members a fee to access TechUp\
-  (If you do, you can still participate in TechUp as a [Sponsor Partner](sponsors/))
+  (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Organizes at least 1 activity during the current season
-* Provide TechUp with the necessary information about your Community
-  * Name, Description, Logo, etc.
+* Provide TechUp with the necessary information about your FOSS project
+  * Name, Description, Logo, Website, etc.
+  * Your public repo URL
   * At least 1 email address that will be associated with your booth
 * [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 7 natural days after joining TechUp
 * Promote TechUp and your activities among your own members and networks\
@@ -89,7 +90,7 @@ To qualify as a FOSS Project you must verify the following requirements:
 
     The project can be in any implementation phase (from ideation to deployed)
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](orientation-sessions.md)
+* Attend at least 1 [orientation session](../orientation-sessions.md)
 
 {% hint style="danger" %}
 **Important**\

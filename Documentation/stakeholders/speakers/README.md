@@ -72,6 +72,16 @@ In order to maintain your status as Community Partner, you will need to make sur
 
 
 
+Profile pic
+
+Bio
+
+Fields as in the submission form
+
+
+
+
+
 Be on the Speakers table @The Lounge after your session for at least 15 minutes.
 
 
