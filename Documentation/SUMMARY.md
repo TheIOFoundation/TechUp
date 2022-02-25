@@ -32,6 +32,7 @@
 * [Virtual Tables](techup-space/virtual-tables.md)
 * [Booths](techup-space/booths.md)
 * [Right Pannel](techup-space/right-pannel.md)
+* [Page 2](techup-space/page-2.md)
 * [Leaderboard](techup-space/leaderboard.md)
 
 ## Stakeholders
