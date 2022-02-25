@@ -1,3 +1,9 @@
+---
+description: >-
+  Welcome to the TechUp initiative. This Handbook will provide you with all the
+  information you need to understand and participate
+---
+
 # Introduction
 
 {% embed url="https://youtu.be/eUi1xfM5Wvo" %}
