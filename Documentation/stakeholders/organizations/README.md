@@ -90,7 +90,7 @@ To qualify as an Organization Partner you must verify the following requirements
 
     * a service or product that, while generally having a cost, will be provided for free to active TechUp community members
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../orientation-sessions.md)
+* Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
 
 If you check all the above boxes, we invite you to submit your organization.
 

@@ -91,7 +91,7 @@ To qualify as a Community Partner you must verify the following requirements:
 * You do not charge your members with a fee to be a part of your community\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../orientation-sessions.md)
+* Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
 
 If you check all the above boxes, we invite you to submit your community.
 

@@ -90,7 +90,7 @@ To qualify as a FOSS Project you must verify the following requirements:
 
     The project can be in any implementation phase (from ideation to deployed)
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../orientation-sessions.md)
+* Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
 
 {% hint style="danger" %}
 **Important**\

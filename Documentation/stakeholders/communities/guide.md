@@ -1,4 +1,4 @@
-# Community Partners' Guide
+# Guide
 
 ## Understanding Activities
 
@@ -8,11 +8,17 @@ We recommend you to familiarize yourself with the Activities Lifecycle.
 
 
 
-Should you need to refresh some of the functionalities (or learn about the new ones), feel free to attend one of the scheduled [Orientation Sessions](../orientation-sessions.md) or reach out to us.
+Should you need to refresh some of the functionalities (or learn about the new ones), feel free to attend one of the scheduled [Orientation Sessions](../../activities/space-management/orientation-sessions.md) or reach out to us.
 
 
 
 ## Dress up your booth
+
+
+
+
+
+## Run your own activities
 
 
 
