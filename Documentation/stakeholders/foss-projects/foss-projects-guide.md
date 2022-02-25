@@ -2,6 +2,8 @@
 
 
 
+## Enrolling
+
 ## BEFORE
 
 Deadlines
@@ -76,5 +78,5 @@ Feedback session
 
 
 
-
+## LEAVING
 
