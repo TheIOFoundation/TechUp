@@ -14,6 +14,10 @@ Booths: `Organization`
 
 Organization Partners are legally registered entities that participate in TechUp to create a vibrant civic tech ecosystem that spans all over the globe by providing Pro Bono services Free services that otherwise would be paid.
 
+## How can you help?
+
+
+
 ## Join TechUp
 
 TechUp is a vibrant, growing ecosystem composed by tech enthusiasts wanting to be an active part of designing and creating better and safer digital communities.
@@ -30,6 +34,10 @@ By participating in TechUp you will connect with fellow technology enthusiast, s
 Organizations join TechUp on a [season basis](../../about/seasons/).\
 Each season corresponds to a natural year, from 1st January to 31st December.
 {% endhint %}
+
+### How can you help?
+
+
 
 ## Benefits
 

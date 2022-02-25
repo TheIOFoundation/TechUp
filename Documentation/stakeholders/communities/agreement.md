@@ -4,7 +4,7 @@ description: >-
   Partner Agreement and how to proceed with it.
 ---
 
-# Community Partner Agreement
+# Agreement
 
 ## About
 

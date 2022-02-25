@@ -1,4 +1,4 @@
-# Organization Partners' Guide
+# Guide
 
 ## Organization's Lifecycle
 
