@@ -3,20 +3,16 @@
 {% hint style="info" %}
 **Want to spread the word?**
 
-Use these these hashtags in your posts: `NextGenRightsDefenders`
+Use these these hashtags in your posts:
 
-
-{% endhint %}
-
-Tags
-
-`#NextGenRightsDefenders`
+\#NextGenRightsDefenders
 
 \#CodersNextGen
 
 \#DevsNextGen
 
-
+\#RightsTech
+{% endhint %}
 
 
 
