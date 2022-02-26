@@ -104,5 +104,10 @@
 
 * [Products](operations/products.md)
 * [Resource Allocation](operations/resource-allocation.md)
+* [Platform](operations/platform/README.md)
+  * [Page 4](operations/platform/page-4.md)
+  * [Page 3](operations/platform/page-3.md)
+  * [Page 2](operations/platform/page-2.md)
+  * [Page 1](operations/platform/page-1.md)
 * [Comms](operations/comms/README.md)
   * [Campaigns](operations/comms/campaigns.md)
