@@ -4,7 +4,7 @@ description: >-
   information you need to understand and participate
 ---
 
-# Introduction
+# 🚧 Introduction
 
 {% embed url="https://youtu.be/eUi1xfM5Wvo" %}
 

@@ -1,4 +1,4 @@
-# Next Generation of Rights Defenders
+# 🚧 Next Generation of Rights Defenders
 
 {% hint style="info" %}
 **Want to spread the word?**
