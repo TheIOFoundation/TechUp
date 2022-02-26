@@ -1,2 +1,2 @@
-# 🚧 Terminology
+# Terminology
 

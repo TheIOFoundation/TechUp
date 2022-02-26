@@ -2,7 +2,7 @@
 description: This page explains all the different ways to get involved with TechUp.
 ---
 
-# 🚧 Join Us
+# Join Us
 
 {% hint style="success" %}
 **EVERYONE IS INVITED TO TECHUP**

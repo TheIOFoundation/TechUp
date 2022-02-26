@@ -1,2 +1,2 @@
-# 🚧 Dhatam House Rule
+# Dhatam House Rule
 

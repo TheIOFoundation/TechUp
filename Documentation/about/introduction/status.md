@@ -1,4 +1,4 @@
-# 🚧 Status
+# Status
 
 Insert Repo insights.
 

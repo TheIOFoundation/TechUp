@@ -1,4 +1,4 @@
-# 🚧 Seasons
+# Seasons
 
 ## What is a Season?
 
