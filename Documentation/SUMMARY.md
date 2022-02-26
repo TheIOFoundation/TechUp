@@ -99,3 +99,10 @@
 
 * [NOTES](activities/notes.md)
 * [What is MyProduct?](dirty/what-is-myproduct.md)
+
+## Operations
+
+* [Products](operations/products.md)
+* [Resource Allocation](operations/resource-allocation.md)
+* [Comms](operations/comms/README.md)
+  * [Campaigns](operations/comms/campaigns.md)
