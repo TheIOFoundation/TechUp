@@ -40,14 +40,6 @@ For all information about TechUp, check our [presentation](https://opencollectiv
 
 You can access the list of past TechUp events and related activities and capacity building in the [TechUp Library](https://opencollective.com/redirect?url=https%3A%2F%2FTIOF.Click%2FTULibrary).
 
-
-
-### **Code of Conduct**
-
-To ensure a conducive and respectful environment, TehUp and its community are guided by The IO Foundation’s Code of Conduct.
-
-We encourage you to read it (and copy it if you find it useful!). For any doubts don’t hesitate to find us on the Event Support table at the Lounge.
-
 ## LEARN
 
 For more information, check the LEARN section [#learn](./#learn "mention")
