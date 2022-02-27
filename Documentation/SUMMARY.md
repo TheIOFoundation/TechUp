@@ -3,14 +3,16 @@
 ## About
 
 * [🚧 Introduction](README.md)
+  * [Theory of Change](about/introduction/theory-of-change.md)
+  * [Business Plan](about/introduction/business-plan.md)
   * [🚧 Status](about/introduction/status.md)
-  * [Code of Conduct](https://tiof.click/PolicyCoC)
-  * [🚧 Dhatam House Rule](about/introduction/dhatam-house-rule.md)
+  * [🚧 Repository](about/introduction/repository.md)
   * [🚧 Media Kit](about/introduction/media-kit/README.md)
     * [🚧 Official Channels](about/introduction/media-kit/official-channels.md)
   * [🚧 Terminology](about/introduction/terminology.md)
   * [🚧 Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
-  * [🚧 Repository](about/introduction/repository.md)
+  * [Code of Conduct](https://tiof.click/PolicyCoC)
+  * [🚧 Dhatam House Rule](about/introduction/dhatam-house-rule.md)
 * [🚧 Next Generation of Rights Defenders](<README (2).md>)
 * [🚧 Seasons](about/seasons/README.md)
   * [🚧 Season 2018](about/seasons/season-2018.md)
@@ -19,7 +21,7 @@
   * [🚧 Season 2021](about/seasons/season-2021.md)
   * [🚧 Season 2022](about/seasons/season-2022.md)
 * [🚧 Join Us](about/join-us.md)
-* [Support Us](about/support-us.md)
+* [🚧 Support Us](about/support-us.md)
 
 ## TechUp Space
 
@@ -100,7 +102,6 @@
 
 * [NOTES](activities/notes.md)
 * [What is MyProduct?](dirty/what-is-myproduct.md)
-* [\[TIOF TU\] GitHub Wiki Content ENG v1.0](dirty/tiof-tu-github-wiki-content-eng-v1.0.md)
 * [\[TIOF TU\] Events Email Invites ENG v1.0](dirty/tiof-tu-events-email-invites-eng-v1.0.md)
 * [TechUp Stuff](dirty/techup-stuff.md)
 * [\[TIOF TU\] TechUp 2021 Intro Copy](dirty/tiof-tu-techup-2021-intro-copy.md)

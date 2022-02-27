@@ -124,6 +124,40 @@ For more information, check the LEARN section [#learn](./#learn "mention")
 
 
 
+### Structure
+
+#### Common Sections
+
+The basic of this handbook follows TIOF's [Documentation Guidelines](https://tiof.click/TIOFHBDG).
+
+* About
+* Operations
+
+#### Custom Sections
+
+The following are custom sections specific to TechUp:
+
+* TechUp Space\
+  Explaining the organization of the platform used for Techup.
+* Stakeholders\
+  Introducing the different stakeholders involved in TechUp.
+* Activities\
+  Detailing the different activities in TechUp and their implementation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 TechUp is a monthly, global event ran over 48h bringing you
 
 TechUp is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government.
@@ -131,16 +165,4 @@ TechUp is a convergence project between tech capacity building and tech solution
 TechUp is The IO Foundation’s engagement program aiming at nurturing digital societies that are transparently safer by implementing technology under the principle of Rights by Design.
 
 Learn more about DCDR Principles here.
-
-
-
-### Iconography
-
-The following icons are used through this handbook to help quickly identify your art
-
-|   Icon | Type of article | What to expect |
-| -----: | --------------- | -------------- |
-| :gear: | Technical       |                |
-|        |                 |                |
-|        |                 |                |
 
