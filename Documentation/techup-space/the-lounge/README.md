@@ -4,6 +4,10 @@
 
 The TechUp Lounge is the a space where the TechUp community can interact through sitting around thematic tables which offer in a mini-virtual conference experience.
 
+
+
+The Lounge area on Airmeet is where participants get to meet and interact with the TechUp Community— Speakers, Projects etc. All you have to do is join a table.
+
 @virt
 
 Lounge This area offers a number of tables assigned to speakers, projects and others. Participants can also use them to organize spontaneous working groups.

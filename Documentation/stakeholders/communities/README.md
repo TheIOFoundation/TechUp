@@ -16,6 +16,8 @@ Booths: `Community`
 
 ``
 
+Through TechUp, civic tech organizations will be able to grow their member base and network with possible volunteers and donors. They will also get the chance to promote their events and find potential collaborators.
+
 ## What are Community Partners
 
 Communities are groups of technology enthusiasts that participate in TechUp to create a vibrant civic tech ecosystem that spans all over the globe.

@@ -40,3 +40,19 @@ The wiki is not used (see why) and a simple notification is posted in it to redi
 
 
 
+
+
+## Quickbar
+
+### Project Status
+
+Alpha Beta vX.Y
+
+### Website
+
+### OVIO Profile
+
+### Summon Label
+
+### Running Status
+

@@ -4,6 +4,20 @@
 
 ## Enrolling
 
+### Proposing an Open Source Project
+
+TechUp offers support to Open Source projects via a global network of programmers and technologists.
+
+During the TechUp weekend, selected Open Source projects get 10 minutes to pitch to the community, after which they can spend the weekend running sprints with help from the community.
+
+In order for an Open Source project to be featured in TechUp, the following criteria must be met;
+
+* The project must be hosted on platform such as GutHub, GitLab etc
+* There must be a publicly available Repository
+* The project should have at least 10 stars on the Git platform
+
+To propose an Open Source project, please reach out to us via this [form](https://tiof.click/TechUpForms), and we'll reach to make the necessary arrangements.
+
 ## BEFORE
 
 Deadlines

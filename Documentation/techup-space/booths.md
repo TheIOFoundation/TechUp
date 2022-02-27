@@ -6,6 +6,14 @@ Happens @ the Booths
 
 
 
+ags
+
+* Open Source Project
+* Vendor
+* Event
+* Community
+* Education
+
 ##
 
 ## What are they?

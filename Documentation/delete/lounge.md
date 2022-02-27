@@ -4,4 +4,3 @@
 
 #### NOTE: Welcome to the TechUp wiki! This section will be used for technical reference on TIOF's TechUp project and is currently a work in progress.
 
-The Lounge area on Airmeet is where participants get to meet and interact with the TechUp Community— Speakers, Projects etc. All you have to do is join a table.

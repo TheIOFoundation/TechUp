@@ -4,6 +4,4 @@
 
 ### NOTE: Welcome to the TechUp wiki! This section will be used for technical reference on TIOF's TechUp project and is currently a work in progress.
 
-#### TechUp::Bridge
-
-Events where Civil Society meets the Tech Community and explore together their current and future needs in the technological realm.
+#### TechUp::

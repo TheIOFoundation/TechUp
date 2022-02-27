@@ -70,3 +70,9 @@ Learn how to participate in a specific working group and make the change you wis
 
 Extra: Internet Governance | Open Standard working groups | Supranational orgs?
 
+
+
+#### Bridge
+
+Where Civil Society meets the Tech Community and explore together their current and future needs in the technological realm.
+
