@@ -2,7 +2,7 @@
 
 **About Us**
 
-The IO Foundation \[TIOF] is an organization whose advocacy is data-centric Digital Rights; that is, Human Rights applied to digital domains. TIOF wishes to implement TechUp in its vision of human-driven technology that respects the Digital Rights of its citizens.
+
 
 For any society to be able to observe a proper implementation and respect of Digital Rights the following elements must converge:
 
@@ -11,18 +11,7 @@ For any society to be able to observe a proper implementation and respect of Dig
 
 TechUp is a TIOF project encompassing both Awareness and Engagement activities, that works towards enabling a conducive environment for Digital Rights, working with all sectors of society: from programmers to academia, corporate and bodies of governance.
 
-In short, TechUp is a convergence program between tech capacity building and tech solution development for NGOs aimed at nurturing a Social Tech society that will demand the observance, respect and enforcement of Digital Rights. TechUp aims to create a meaningful impact in society that will translate into new social policies in government.
 
-**Objectives**
-
-TechUp is designed with a specific set of objectives:
-
-* To build tech capacities in citizens (with a strong focus on coders) and raise their awareness on Digital Rights.
-* To encourage a collaborative ambiance between Tech groups to share their resources and knowledge.
-* To provide effective tech solutions to NGOs.
-* To foster community engagement via Tech volunteering.
-* To create the necessary momentum for policy making on Digital Rights.
-* To benefit Civil Society in their transition to an ever-growing interaction with digital domains.
 
 **Stakeholders**
 
@@ -59,55 +48,4 @@ Expected outcome:
 
 Regularity: Once a month. Activities can span from 4 to 48 hours, depending on the selected topics and projects.
 
-~~**Initial proposed activities**~~
-
-~~While a round of consultation among the Tech Community will be implemented, the following subjects give an idea of the type of workshops that will be pursued. A strong emphasis towards tech useful to implement Digital Rights will be applied. All workshops will involve a specific Tech subject and a component of awareness on Digital Rights.~~
-
-* ~~Technology~~
-  * ~~Programming languages~~
-  * ~~DAGs~~
-  * ~~DLTs~~
-  * ~~DApps~~
-  * ~~Productivity tools & platforms~~
-  * ~~Protocols~~
-  * ~~DevOps~~
-  * ~~Security~~
-  * ~~Product Management~~
-  * ~~IoT~~
-  * ~~Cryptography~~
-  * ~~SSI & Digital IDs~~
-* ~~Data~~
-  * ~~Open Data~~
-  * ~~Analytics~~
-  * ~~Big Data~~
-* ~~Digital Security~~
-  * ~~Best daily practices~~
-  * ~~Securing systems (OWASP)~~
-  * ~~2FA & MFA~~
-* ~~Policy~~
-  * ~~Internet governance~~
-  * ~~Governing structures~~
-  * ~~Smart Communities (CAAS)~~
-* ~~Soft Skills~~
-  * ~~Public speaking~~
-  * ~~Leadership~~
-  * ~~Writing CFPs~~
-  * ~~Grant writing~~
-  * ~~Negotiation~~
-  * ~~Presentations~~
-  * ~~Conflict resolution~~
-  * ~~Design thinking~~
-* ~~Human Rights & Digital Rights~~
-  * ~~Concepts of HR~~
-  * ~~Concepts of DR (TIOF POV)~~
-  * ~~History~~
-  * ~~Mapping~~
-  * ~~Monitoring~~
-
-~~All active learning activities, ice-breakers and case scenarios showcased during the workshops will pivot around observing Human and Digital Rights as well as issues that different NGOs are struggling with. Some of those scenarios may be provided by the NGOs themselves to foster collaboration at the planning stage.~~
-
-~~Hope that wasn't too long? Please kindly connect me with your community manager so that I can share our event information with them in case any of your colleagues/network might be interested.~~
-
-~~If you would like to pitch your open source project, submit a session proposal or volunteer, please select the appropriate~~ [~~form here~~](https://tiof.click/TechUpForms) ~~or https://TIOF.Click/TechUpForms~~
-
-~~I look forward to your reply. Have a great day!~~
+~~****~~

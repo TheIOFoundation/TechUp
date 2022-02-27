@@ -1,16 +1,6 @@
 # \[TIOF TU] BiT \[I] Tech Engagement RTD Concept Note ENG v1.0
 
-BiT Tech Engagement RTD
 
-Concept Note (WiP)
-
-Title: BHR in Tech;
-
-Session type: Round Table Discussion
-
-Date: Jul 17, 2021
-
-Time: 11:00-13:00
 
 ### Overview <a href="#_x7oejvklssa4" id="_x7oejvklssa4"></a>
 

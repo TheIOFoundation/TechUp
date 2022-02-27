@@ -76,9 +76,7 @@
 
 * [LEARN](activities/learn/README.md)
   * [Capacity Building](activities/learn/capacity-building/README.md)
-    * [Running CBs](activities/learn/capacity-building/running-cbs.md)
     * [⚙ Session Lifecycle](activities/session-lifecycle.md)
-    * [Session Lifecycle](activities/learn/capacity-building/session-lifecycle.md)
   * [Topics](activities/learn/topics.md)
   * [Watch Parties](activities/learn/watch-parties.md)
 * [BUILD](activities/build/README.md)
@@ -104,15 +102,14 @@
 ## Dirty
 
 * [NOTES](activities/notes.md)
-* [What is MyProduct?](dirty/what-is-myproduct.md)
-* [\[TIOF TU\] Events Email Invites ENG v1.0](dirty/tiof-tu-events-email-invites-eng-v1.0.md)
 * [TechUp Stuff](dirty/techup-stuff.md)
 * [\[TIOF TU\] TechUp 2021 Intro Copy](dirty/tiof-tu-techup-2021-intro-copy.md)
-* [\[TIOF TU\] BiT \[I\] Tech Engagement RTD Concept Note ENG v1.0](dirty/tiof-tu-bit-i-tech-engagement-rtd-concept-note-eng-v1.0.md)
 * [Home](dirty/home.md)
 * [Agenda   General Structure](dirty/agenda-general-structure.md)
 * [Email](dirty/email.md)
+* [\[TIOF TU\] Events Email Invites ENG v1.0](dirty/tiof-tu-events-email-invites-eng-v1.0.md)
 * [TechUp 2021\_ Text copy](dirty/techup-2021\_-text-copy.md)
+* [\[TIOF TU\] BiT \[I\] Tech Engagement RTD Concept Note ENG v1.0](dirty/tiof-tu-bit-i-tech-engagement-rtd-concept-note-eng-v1.0.md)
 
 ## Operations
 
