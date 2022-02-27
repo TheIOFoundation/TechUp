@@ -8,6 +8,10 @@ description: >-
 
 {% embed url="https://youtu.be/eUi1xfM5Wvo" %}
 
+{% hint style="info" %}
+This documentation repository follows The IO Foundation's documentation guidelines.
+{% endhint %}
+
 ## About TechUp
 
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital.\
