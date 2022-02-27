@@ -132,13 +132,7 @@ TIOF Publications link
 
 ### Block - About TechUp <a href="#_j7x191ydw5og" id="_j7x191ydw5og"></a>
 
-TechUp is a monthly, global event ran over 48h bringing you
 
-TechUp is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government.
-
-TechUp is The IO Foundation’s engagement program aiming at nurturing digital societies that are transparently safer by implementing technology under the principle of Rights by Design.
-
-Learn more about DCDR Principles here.
 
 ### Airmeet <a href="#_o4nm7fuuw8j1" id="_o4nm7fuuw8j1"></a>
 
