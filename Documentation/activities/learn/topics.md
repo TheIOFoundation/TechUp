@@ -6,6 +6,10 @@ description: >-
 
 # Topics
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
 ## Current active topics
 
 ### Technology skills
