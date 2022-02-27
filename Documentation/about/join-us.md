@@ -5,7 +5,7 @@ description: This page explains all the different ways to get involved with Tech
 # 🚧 Join Us
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="success" %}
