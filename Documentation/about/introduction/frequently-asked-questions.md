@@ -4,6 +4,10 @@ description: Find here the answers to the most common doubts.
 
 # 🚧 Frequently Asked Questions
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
 ## The obvious ones
 
 ### Is it really free?
