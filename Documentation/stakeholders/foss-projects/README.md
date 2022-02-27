@@ -65,7 +65,7 @@ By participating in TechUp as a Community Partner, you will be granted a number 
 
 In order to maintain your status as Community Partner, you will need to make sure to:
 
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](../../about/introduction/dhatam-house-rule.md)
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](../../about/dhatam-house-rule.md)
 * You will not charge your volunteers a fee to access TechUp\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Provide TechUp with the necessary information about your FOSS project

@@ -3,17 +3,17 @@
 ## About
 
 * [🚧 Introduction](README.md)
-  * [Theory of Change](about/introduction/theory-of-change.md)
-  * [Business Plan](about/introduction/business-plan.md)
+  * [🚧 Theory of Change](about/introduction/theory-of-change.md)
+  * [🚧 Business Plan](about/introduction/business-plan.md)
   * [🚧 Status](about/introduction/status.md)
   * [🚧 Repository](about/introduction/repository.md)
   * [🚧 Media Kit](about/introduction/media-kit/README.md)
     * [🚧 Official Channels](about/introduction/media-kit/official-channels.md)
   * [🚧 Terminology](about/introduction/terminology.md)
   * [🚧 Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
-  * [Code of Conduct](https://tiof.click/PolicyCoC)
-  * [🚧 Dhatam House Rule](about/introduction/dhatam-house-rule.md)
-* [🚧 Next Generation of Rights Defenders](<README (2).md>)
+* [Code of Conduct](https://tiof.click/PolicyCoC)
+* [🚧 Dhatam House Rule](about/dhatam-house-rule.md)
+* [🚧 NextGen Rights Defenders](about/nextgen-rights-defenders.md)
 * [🚧 Seasons](about/seasons/README.md)
   * [🚧 Season 2018](about/seasons/season-2018.md)
   * [🚧 Season 2019](about/seasons/season-2019.md)
@@ -22,6 +22,8 @@
   * [🚧 Season 2022](about/seasons/season-2022.md)
 * [🚧 Join Us](about/join-us.md)
 * [🚧 Support Us](about/support-us.md)
+* [🚧 Acknowlegdments](about/acknowlegdments.md)
+* [🚧 Media Archive](about/media-archive.md)
 
 ## TechUp Space
 
