@@ -8,7 +8,7 @@ This Agreement is to be subscribed between
 
 * The IO Foundation as the host of the TechUp initiative, hereinafter TechUp\
   and
-* `<Community>` hereinafter The Community
+* `<Community                                 >`  hereinafter The Community
 
 with official email `<Community Email>`\
 ``signed on the `<Signature Date>` hereinafter The Date\
