@@ -2,6 +2,8 @@
 description: >-
   Welcome to the TechUp initiative. This Handbook will provide you with all the
   information you need to understand and participate
+cover: .gitbook/assets/[TIOF TU] Comms [P] Airmeet Landing Page ENG v1.1.jpg
+coverY: 0
 ---
 
 # 🚧 Introduction
@@ -25,16 +27,22 @@ TechUp is a collaborative space uniting capacity building and social participati
 > _**Programmers are the next generation of Rights defenders.**_
 
 \
-How do we engage them in a meaningful and effective way? How can we bring together the tech community to become the agents of change that digital societies need right now?\
+How do we engage them in a meaningful and effective way?
+
+How can we bring together the tech community to become the agents of change that digital societies need right now?\
 \
-For all information about TechUp, check our [presentation](https://opencollective.com/redirect?url=https%3A%2F%2FTIOF.Click%2FTUPresentation).\
-\
+Join us TechUp event to make your personal impact in technology by:
+
 
 
 #### **Summary of Activities**
 
-* Design, produce and run all 12 monthly TechUp events
-* Manage the FOSS fund
+*
+* Learning new skills and where to apply them
+* Meet engaging and inspiring speakers
+* Collaborate in FOSS projects
+* Engage in the latest conversations in technology
+* Network with our global community
 * Generate opportunities for the audience to make a positive impact in digital societies
 
 #### **Outcomes**
@@ -152,9 +160,11 @@ The following are custom sections specific to TechUp:
 
 
 
+*
 
+**In what world do you want to code?**
 
-
+**Come make your impact!**
 
 
 

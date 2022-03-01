@@ -2,33 +2,9 @@
 
 ### Ticket Page <a href="#_sxzl5gj8074b" id="_sxzl5gj8074b"></a>
 
-### Summary <a href="#_qd80anr3b7tv" id="_qd80anr3b7tv"></a>
-
-A collaborative space uniting capacity building and social participation to build better and safer digital societies.
-
 ### Block - About this event <a href="#_j45no2okzgwj" id="_j45no2okzgwj"></a>
 
-Programmers are the next generation of Human and Digital Rights defenders.
 
-How do we engage them in a meaningful and effective way?
-
-How can we bring together the tech community to become the agents of change that digital societies need right now?
-
-Join us for our monthly TechUp event to make your personal impact in technology by:
-
-* Learning new skills and where to apply them
-* Meet engaging and inspiring speakers
-* Collaborate in FOSS projects
-* Engage in the latest conversations in technology
-* Network with our global community
-
-All within a 48 hours tech-a-thon all across the world!
-
-\[IMAGE?]
-
-**In what world do you want to code?**
-
-**Come make your impact!**
 
 ### Block - Featured speakers \[IMAGE?] <a href="#_g63dh1vvy91i" id="_g63dh1vvy91i"></a>
 
