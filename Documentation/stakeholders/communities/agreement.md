@@ -31,8 +31,7 @@ For TechUp (The IO Foundation)\
 
 Both parties enter this Agreement with the intention of bringing The Community into TechUp, an initiative by The IO Foundation, to support The Community and the broader TechUp Community.
 
-This Agreement will enter in effect immediately from The Date until the end of the last of The Seasons.
-
+This Agreement will enter in effect immediately from The Date until the end of the last of The Seasons.\
 This agreement can be made void by any of the parties with a prior notice of 2 months to be filed through the [Community Management Interface](https://tiof.click/TUTarianCommunityLifecycleManagement).
 
 ## Requirements
