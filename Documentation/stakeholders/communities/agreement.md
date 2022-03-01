@@ -48,7 +48,7 @@ This agreement can be made void by any of the parties with a prior notice of 2 m
 
 ## Requirements
 
-To qualify as a Community Partner must verify, and by signing this Agreement The Community confirms the following requirements:
+To qualify as a Community Partner must verify the following requirements (hereinafter The Requirements):
 
 * You are a community of developers, designers, accountants or any other industry that wishes to create positive impact in technology
 * You do not charge your members with a fee to be a part of your community\
@@ -57,9 +57,11 @@ To qualify as a Community Partner must verify, and by signing this Agreement The
 * Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
 * Provide the TechUp team with all the necessary on your side to run high quality activities
 
+&#x20;By signing this Agreement The Community confirms to verify The Requirements.
+
 ## Benefits
 
-By participating in TechUp as a Community Partner, The IO Foundation will ensure that you will be granted the following benefits:
+By participating in TechUp as a Community Partner, The IO Foundation will ensure that you will be granted the following benefits (hereinafter The Benefits):
 
 * Access to the TechUp Space\
   Your community members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/introduction/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
@@ -88,6 +90,12 @@ By participating in TechUp as a Community Partner, The IO Foundation will ensure
 
 **Platform updates**\
 ****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
+
+&#x20;By signing this Agreement The Community acknowledges The Requirements.
+
+&#x20;By signing this Agreement TechUp commits to upholding The Requirements.
+
+
 
 ## Commitments
 
