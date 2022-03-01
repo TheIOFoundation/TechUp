@@ -80,38 +80,6 @@ In order to maintain your status as Community Partner, you will need to make sur
   (you can use your own collaterals or the customized ones we’ll provide you)
 * Coordinate with the TechUp team to ensure the best experience
 
-## Requirements
-
-To qualify as a FOSS Project you must verify the following requirements:
-
-*   You manage a FOSS Project for which you are seeking for support which:
-
-    * is managed by an individual, a Community Partner or an Organization Partner
-    * is licensed under a recognized license by the [Open Source Initiative](https://opensource.org/licenses)
-    * does not have a parallel licensing model under which it is sold commercially
-
-    The project can be in any implementation phase (from ideation to deployed)
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
-
-{% hint style="danger" %}
-**Important**\
-Please keep in mind that TechUp is an initiative dedicated to foster collaboration among its community.
-
-Projects that are attempting, in any form or shape, to
-
-* benefit of free labor by engaging volunteers or
-* evaluate prospect candidates’ performance
-
-will be immediately removed from the event
-
-
-
-Should you detect this situation, please find a TechUp crew member at the Event Support table @ the Lounge or contact us: Contact@TheIOFoundation.org
-
-\>> Insert means of reporting.
-{% endhint %}
-
-If you check all the above boxes, we invite you to submit your community.
+##
 
 {% embed url="https://tiof.click/TUSubmissionCommunity" %}

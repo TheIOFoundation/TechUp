@@ -30,7 +30,7 @@ Lounge This area offers a number of tables assigned to speakers, projects and ot
 
 ### TechUp Space
 
-#### Meet & Greet
+#### Meet & Greet (Event Support)
 
 Provides an easy way for members to reach out to the organization for assistance.
 

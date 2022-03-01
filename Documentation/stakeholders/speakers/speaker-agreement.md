@@ -4,7 +4,7 @@ description: Version 1.0
 
 # Speaker Partner Agreement
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 This Agreement is to be subscribed between
 

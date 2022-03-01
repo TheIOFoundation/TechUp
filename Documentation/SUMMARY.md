@@ -63,7 +63,7 @@
   * [Lifecycle](stakeholders/speakers/speaker-lifecycle.md)
 * [FOSS Projects](stakeholders/foss-projects/README.md)
   * [Guide](stakeholders/foss-projects/foss-projects-guide.md)
-  * [Agreement](stakeholders/foss-projects/foss-project-agreement.md)
+  * [FOSS Partner Agreement](stakeholders/foss-projects/foss-partner-agreement.md)
   * [Materials](stakeholders/foss-projects/outreach-materials.md)
   * [Lifecycle](stakeholders/foss-projects/foss-project-lifecycle.md)
 * [Sponsors](stakeholders/sponsors/README.md)
