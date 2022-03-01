@@ -12,6 +12,24 @@ The following is a copy of the content of the Community Partner Agreement you wi
 
 
 
+This Agreement is to be subscribed between
+
+* The IO Foundation\
+  and
+* `<Community>`
+
+with official email `<Community Email>`
+
+signed on the `<Signature Date>`
+
+for the following seasons `<List of Seasons>`
+
+Signatures
+
+This agreement can be made void by any of the parties with a prior notice of 2 months to be filed through the [Community Management Interface](https://tiof.click/TUTarianCommunityLifecycleManagement).
+
+
+
 ## Requirements
 
 To qualify as a Community Partner you must verify the following requirements:
@@ -45,31 +63,32 @@ By participating in TechUp as a Community Partner, The IO Foundation will ensure
     You will have the opportunity to showcase your community.
   * Possibility to have a segment presenting your community in our Codefield productions\
     You will have the opportunity to showcase your community
-  * Global announcements\
-    presenting your community and encouraging participants to reach out to you
+  * Global platform announcements\
+    Presenting your community and encouraging participants to reach out to you
 * Assistance before, during and after the event from the TechUp crew\
   We provide a comprehensive help and provide regular updates with new features and activities.
 * Statistics after each of your activities\
   So that you can analyze how did it go.
 
-**And much more!**\
-****The platform used for the TechUp Space releases new features very often, of which will inform you regularly.
+**Platform updates**\
+****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
 
 ## Commitments
 
 In order to maintain your status as Community Partner, you will need to make sure to:
 
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference) at all times and in all your activities
-* You will not charge your members a fee to access TechUp\
+* Not charge your members, or anyone you invite to your activities, a fee to access TechUp\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
-* Organizes at least 1 activity during the current season
+* Organize at least 1 activity during the current season
 * Provide TechUp with the necessary information about your Community
   * Name, Description, Logo, etc.
   * At least 1 email address that will be associated with your booth
+  * The necessary to connect your broadcast channels, shoud you decide to do so
 * [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 7 natural days after joining TechUp
 * Promote TechUp and your activities among your own members and networks\
-  (you can use your own collaterals or the customized ones we’ll provide you)
-* Coordinate with the TechUp team to ensure the best experience
+  (you can use your own collaterals or the customized ones TechUp will provide you)
+* Coordinate with the TechUp team to ensure the best experience across your activities and the whole TechUp Space.
 
 {% hint style="danger" %}
 Not compliance with this Commitments will trigger a review of your TechUp Membership.

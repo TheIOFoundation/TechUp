@@ -34,13 +34,7 @@ Booths This area presents with a series of booths hosting each of the projects a
 
 ## How to use them?
 
-## Uses
 
-Showcase Communities or Organizations
-
-Showcase Events
-
-Showcase Surveys?
 
 
 

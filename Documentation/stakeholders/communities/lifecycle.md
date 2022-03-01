@@ -6,11 +6,7 @@
 
 {% embed url="https://cawemo.com/share/d51a5f53-8a97-4a24-9c45-a82593a07f9f" %}
 
-## Read the Agreement
 
-
-
-## Sign the Agreement
 
 ## Timeline
 
