@@ -4,6 +4,16 @@
 
 We recommend you to familiarize yourself with the Activities Lifecycle.
 
+
+
+## Agreement
+
+The following is a copy of the content of the Community Partner Agreement you will receive when formalizing your joining of TechUp.
+
+
+
+
+
 ## Getting familiar with the TechUp Space
 
 

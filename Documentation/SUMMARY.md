@@ -48,7 +48,7 @@
 * [Audience](stakeholders/audience.md)
 * [Communities](stakeholders/communities/README.md)
   * [Guide](stakeholders/communities/guide.md)
-  * [Community Partner Agreement](stakeholders/communities/community-partner-agreement.md)
+  * [Community Partner Agreement](stakeholders/communities/agreement.md)
   * [Materials](stakeholders/communities/outreach-materials.md)
   * [Lifecycle](stakeholders/communities/lifecycle.md)
 * [Organizations](stakeholders/organizations/README.md)
