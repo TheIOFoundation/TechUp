@@ -2,7 +2,7 @@
 description: Version 1.0
 ---
 
-# Organization Partner Agreement
+# 🤝 Organization Partner Agreement
 
 ![](https://686492558-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M\_K54SuAkrrbCKMqyze%2Fuploads%2FXbjQAueChyhYoMcljave%2F\[TIOF%20TU]%20Comms%20\[I]%20Document%20Header%20ENG%20v1.0.png?alt=media\&token=e580ced9-a57e-4946-9305-74365e3ed848)
 

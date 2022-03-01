@@ -27,6 +27,12 @@ The Lounge area on Airmeet is where participants get to meet and interact with t
 
 Lounge This area offers a number of tables assigned to speakers, projects and others. Participants can also use them to organize spontaneous working groups.
 
+
+
+
+
+Join the community and sit on a table to participate in the FOSS Sprints, meet your favorite speakers and participate in the Working Groups. You can also participate in networking sessions to meet the community. For more information on timings, check the Schedule.
+
 ## How to use?
 
 

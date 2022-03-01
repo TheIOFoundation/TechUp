@@ -2,7 +2,7 @@
 description: Version 1.1
 ---
 
-# Community Partner Agreement
+# 🤝 Community Partner Agreement
 
 ![](<../../.gitbook/assets/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
 

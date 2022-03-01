@@ -1,2 +1,0 @@
-# PLD Community Caffe
-

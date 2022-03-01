@@ -1,4 +1,4 @@
-# Show & Tell
+# Guide
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

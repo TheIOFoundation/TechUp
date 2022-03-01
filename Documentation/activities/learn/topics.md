@@ -10,6 +10,17 @@ description: >-
 **ShortURL | Playbook | Assistant**
 {% endhint %}
 
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
+
+
 ## Current active topics
 
 ### Technology skills
@@ -73,11 +84,11 @@ description: >-
 
 ## Topics under consideration
 
-
+\>> Sleekplan
 
 
 
 ## Propose new topics
 
-
+\>> Sleekplan
 

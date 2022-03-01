@@ -2,7 +2,7 @@
 description: Version 1.0
 ---
 
-# Speaker Partner Agreement
+# 🤝 Speaker Partner Agreement
 
 ![](<../../.gitbook/assets/image (1).png>)
 

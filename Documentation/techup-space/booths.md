@@ -47,7 +47,23 @@ Use the navigation menu to select the Booths section.
 
 Booths This area presents with a series of booths hosting each of the projects available during the weekend as well as a collection of organizations providing pro bono services to Open Source projects and Civil Society or other equivalent type of support.
 
+
+
+Find organizations that may support your FOSS project or your civil society organization.
+
+
+
 ## How to use them?
+
+
+
+
+
+Booths - Find opportunities
+
+* Meet organizations that support FOSS project and CSOs
+* Find all the details from the featured FOSS projects
+* Learn about The IO Foundation’s projects
 
 ## Uses
 

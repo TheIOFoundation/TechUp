@@ -33,11 +33,13 @@ Focusing on civic tech, TechUp by The IO Foundation aims to build an empowered c
 
 In one packed weekend, there is much to learn and take away from TechUp’s monthly events.
 
+
+
+Learn new tech capacities, interpersonal skills and discover fora where you can put your talent to social use.
+
+
+
 Registration
-
-
-
-
 
 Become a TechUp Partner
 

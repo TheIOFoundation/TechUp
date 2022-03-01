@@ -2,7 +2,7 @@
 description: Version 1.0
 ---
 
-# FOSS Partner Agreement
+# 🤝 FOSS Partner Agreement
 
 ![](../../.gitbook/assets/image.png)
 

@@ -1,4 +1,31 @@
-# \[TIOF TU] BiT \[I] Tech Engagement RTD Concept Note ENG v1.0
+# Temp Text
+
+
+
+
+
+Encoding
+
+|       |                         |   |
+| ----- | ----------------------- | - |
+| SPK   | Speakers                |   |
+| CY    | Community               |   |
+| ORG   | Organization            |   |
+| FOSS  | FOSS Projects           |   |
+| CPPOD | Codefield Podcast Guest |   |
+| CWRT  | Codefield Writer Guest  |   |
+|       |                         |   |
+|       |                         |   |
+
+
+
+
+
+Day 1: Compile + Interpret
+
+Day 2: Build + Commit
+
+
 
 
 
@@ -68,3 +95,4 @@ Register here: https://TIOF.click/EventsRSVP
 **Data** **proliferation**: The fusion of physical and digital worlds has blurred industry boundaries, twisted value chains, and disrupted traditional value creation models—
 
 **Speed** **&** **volatility**: Cloud computing and other technologies have lowered barriers to entry, allowing new business models to be developed and launched quickly and at scale—
+

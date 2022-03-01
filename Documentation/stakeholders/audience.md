@@ -1,6 +1,23 @@
 # Audience
 
-As a TechUp weekend participant, you will have the opportunity to learn new soft and technical skills, meet new people from all walks of life and engage in conversations and activities geared towards creating a meaningful impact on technology and policy.
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
+
+
+
+
+As a TechUp participant, you will have the opportunity to learn new soft and technical skills, meet new people from all walks of life and engage in conversations and activities geared towards creating a meaningful impact on technology and policy.
 
 ### Programmers
 

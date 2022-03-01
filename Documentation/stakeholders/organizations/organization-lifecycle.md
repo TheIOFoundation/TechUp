@@ -6,6 +6,21 @@ description: >-
 
 # Lifecycle
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
+
+
 Timeline Participating in TechUp is very easy!
 
 This simple list of steps will guide you through all the steps. Rest assured, the TechUp team will be with you to support you all the way.
