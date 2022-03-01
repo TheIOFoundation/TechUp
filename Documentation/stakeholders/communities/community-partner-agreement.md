@@ -4,9 +4,11 @@ description: >-
   Partner Agreement and how to proceed with it.
 ---
 
-# Agreement
+# Community Partner Agreement
 
-## Community Partner Agreement
+![](<../../.gitbook/assets/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
+
+## About this Agreement
 
 The following is a copy of the content of the Community Partner Agreement you will receive when formalizing your joining of TechUp.
 
