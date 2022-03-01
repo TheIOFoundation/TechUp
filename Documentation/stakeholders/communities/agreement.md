@@ -8,23 +8,26 @@ This Agreement is to be subscribed between
 
 * The IO Foundation as the host of the TechUp initiative, hereinafter TechUp\
   and
-* `<Community                                 >`  hereinafter The Community
+* `Community` \
+  hereinafter The Community
 
-with official email `<Community Email>`\
-``signed on the `<Signature Date>` hereinafter The Date\
-for the following seasons `<List of Seasons>` hereinafter The Seasons
+with official email `Community Email`\
+``signed on the `Signature Date`\
+``hereinafter The Date\
+for the following seasons `List of Seasons` \
+hereinafter The Seasons
 
 **Signatures**
 
 For the Community\
-`<Community Representative Name>`\
-`<Community Representative Title>`\
-`<Community Representative Signature>`
+`Community Representative Name`\
+`Community Representative Title`\
+`Community Representative Signature`
 
 For TechUp (The IO Foundation)\
-`<TechUp Representative Name>`\
-`<TechUp Representative Title>`\
-`<TechUp Representative Signature>`
+`TechUp Representative Name`\
+`TechUp Representative Title`\
+`TechUp Representative Signature`
 
 Both parties enter this Agreement with the intention of bringing The Community into TechUp, an initiative by The IO Foundation, to support The Community and the broader TechUp Community.
 
