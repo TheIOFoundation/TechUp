@@ -39,7 +39,7 @@ Each season corresponds to a natural year, from 1st January to 31st December.
 
 
 
-## Benefits
+## xBenefits
 
 By participating in TechUp as an Organization Partner, you will be granted a number of benefits, such as:
 
@@ -84,7 +84,7 @@ In order to maintain your status as Community Partner, you will need to make sur
   (you can use your own collaterals or the customized ones we’ll provide you)
 * Coordinate with the TechUp team to ensure the best experience
 
-## Requirements
+## xRequirements
 
 To qualify as an Organization Partner you must verify the following requirements:
 
@@ -109,7 +109,7 @@ Please contact us for more details: Contact@TheIOFoundation.org
 
 {% embed url="https://tiof.click/TUSubmissionOrg" %}
 
-## Organizations under special consideration
+## xOrganizations under special consideration
 
 **IMPORTANT**\
 ****To ensure that TechUp remains independent, community oriented and committed to its objectives, the following organizations types will be under special consideration:
