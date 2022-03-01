@@ -1,5 +1,20 @@
 # The Lounge
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
+
+
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
 ## What is it?
 
 The TechUp Lounge is the a space where the TechUp community can interact through sitting around thematic tables which offer in a mini-virtual conference experience.

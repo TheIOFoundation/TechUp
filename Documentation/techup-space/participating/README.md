@@ -1,6 +1,27 @@
 # Participating
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
 
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
+
+
+
+
+{% hint style="warning" %}
+**IMPORTANT**\
+All activity times are created in UTC (GMT+0).\
+When consulting the schedule, the platform should be offering you the times converted to your local time zone.
+{% endhint %}
 
 
 
@@ -42,7 +63,7 @@ will be **immediately** suspended from the community.
 Should you detect this situation, please find a TechUp crew member at the [Event Support table](../the-lounge/#meet-and-greet-event-support) `@The Lounge` or [contact us](https://tiof.click/TUTarianVirtualAssistant).
 {% endhint %}
 
-* You are&#x20;
+
 
 
 

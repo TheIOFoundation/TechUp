@@ -1,12 +1,14 @@
 ---
 description: >-
   Welcome to the TechUp initiative. This Handbook will provide you with all the
-  information you need to understand and participate
+  information you need to understand and participate in the TechUp Community.
 cover: .gitbook/assets/[TIOF TU] Comms [P] Airmeet Landing Page ENG v1.1.jpg
 coverY: 0
 ---
 
 # 🚧 Introduction
+
+
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
@@ -14,26 +16,23 @@ coverY: 0
 
 {% embed url="https://youtu.be/eUi1xfM5Wvo" %}
 
-{% hint style="info" %}
-This documentation repository follows The IO Foundation's documentation guidelines.
+{% hint style="success" %}
+This documentation repository follows [The IO Foundation's documentation guidelines.](https://tiof.click/TIOFHBDG)
 {% endhint %}
 
 ## About TechUp
 
-TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital.\
-\
-
+TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital.
 
 > _**Programmers are the next generation of Rights defenders.**_
 
-\
 How do we engage them in a meaningful and effective way?
 
 How can we bring together the tech community to become the agents of change that digital societies need right now?\
 \
-Join us TechUp event to make your personal impact in technology by:
+Join us in our TechUp Community to make your personal impact in technology.
 
-
+> _**In what world do you want to code?**_
 
 #### **Summary of Activities**
 
@@ -112,7 +111,7 @@ For anyone who signs up, TechUp presents opportunities for learning, growth and 
 
 ### **Code of Conduct**
 
-To ensure a conducive and respectful environment, TehUp and its community are guided by The IO Foundation’s Code of Conduct.
+To ensure a conducive and respectful environment, TechUp and its community are guided by The IO Foundation’s Code of Conduct.
 
 We encourage you to read it (and copy it if you find it useful!). For any doubts don’t hesitate to find us on the Event Support table at the Lounge.
 
