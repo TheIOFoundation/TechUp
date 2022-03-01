@@ -19,7 +19,7 @@ with official email `Organization Email` \
 for the following seasons `List of Seasons` \
 _hereinafter_ The Seasons
 
-**For the Community**\
+**For the Organization**\
 ****`Organization Representative Name`\
 `Organization Representative Title`\
 `Organization Representative Signature`

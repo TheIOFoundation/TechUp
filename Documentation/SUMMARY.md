@@ -58,7 +58,7 @@
   * [Lifecycle](stakeholders/organizations/organization-lifecycle.md)
 * [Speakers](stakeholders/speakers/README.md)
   * [Guide](stakeholders/speakers/speakers-guide.md)
-  * [Speaker Partner Agreement](stakeholders/speakers/speaker-partner-agreement.md)
+  * [Speaker Partner Agreement](stakeholders/speakers/speaker-agreement.md)
   * [Materials](stakeholders/speakers/outreach-materials.md)
   * [Lifecycle](stakeholders/speakers/speaker-lifecycle.md)
 * [FOSS Projects](stakeholders/foss-projects/README.md)
