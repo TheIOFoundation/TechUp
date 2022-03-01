@@ -6,16 +6,16 @@
 
 This Agreement is to be subscribed between
 
-* The IO Foundation as the host of the TechUp initiative, hereinafter TechUp\
+* The IO Foundation as the host of the TechUp initiative, _hereinafter_ TechUp\
   and
-* `Community` \
-  hereinafter The Community
+* `Community Name` \
+  _hereinafter_ The Community
 
 with official email `Community Email`\
 ``signed on the `Signature Date`\
-``hereinafter The Date\
+``_hereinafter_ The Date\
 for the following seasons `List of Seasons` \
-hereinafter The Seasons
+_hereinafter_ The Seasons
 
 **Signatures**
 
@@ -37,7 +37,7 @@ This agreement can be made void by any of the parties with a prior notice of 2 m
 
 ## Requirements
 
-To qualify as a Community Partner must verify the following requirements (hereinafter The Requirements):
+To qualify as a Community Partner must verify the following requirements (_hereinafter_ The Requirements):
 
 * You are a community of developers, designers, accountants or any other industry that wishes to create positive impact in technology
 * You do not charge your members with a fee to be a part of your community\
@@ -56,7 +56,7 @@ By signing this Agreement TechUp commits to not update The Requirements without 
 
 ## Benefits
 
-By participating in TechUp as a Community Partner, The IO Foundation will ensure that you will be granted the following benefits (hereinafter The Benefits):
+By participating in TechUp as a Community Partner, The IO Foundation will ensure that you will be granted the following benefits (_hereinafter_ The Benefits):
 
 * Access to the TechUp Space\
   Your community members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/introduction/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
