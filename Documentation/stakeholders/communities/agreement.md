@@ -14,25 +14,41 @@ The following is a copy of the content of the Community Partner Agreement you wi
 
 This Agreement is to be subscribed between
 
-* The IO Foundation\
+* The IO Foundation \
   and
-* `<Community>`
+* `<Community>` hereinafter The Community
 
 with official email `<Community Email>`
 
-signed on the `<Signature Date>`
+signed on the `<Signature Date>` hereinafter The Date
 
-for the following seasons `<List of Seasons>`
+for the following seasons `<List of Seasons>` hereinafter The Seasons
 
 Signatures
 
+For the Community
+
+`<Community Representative Name>`\
+`<Community Representative Title>`\
+`<Community Representative Signature>`
+
+For TechUp (The IO Foundation)
+
+`<TechUp Representative Name>`\
+`<TechUp Representative Title>`\
+`<TechUp Representative Signature>`
+
+
+
+Both parties enter this Agreement with the intention of bringing The Community into TechUp, an initiative by The IO Foundation, to support The Community and the broader TechUp Community.
+
+This Agreement will enter in effect immediately from The Date until the end of the last of The Seasons.
+
 This agreement can be made void by any of the parties with a prior notice of 2 months to be filed through the [Community Management Interface](https://tiof.click/TUTarianCommunityLifecycleManagement).
-
-
 
 ## Requirements
 
-To qualify as a Community Partner you must verify the following requirements:
+To qualify as a Community Partner must verify, and by signing this Agreement The Community confirms the following requirements:
 
 * You are a community of developers, designers, accountants or any other industry that wishes to create positive impact in technology
 * You do not charge your members with a fee to be a part of your community\
