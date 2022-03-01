@@ -2,7 +2,19 @@
 
 ## About
 
+## Stage Session Requirements
+
+The content of the session must fit Techup’s topics The session must content 5-10 minutes of Ecosystem mapping: Events, Open Standard working groups The length of the session would be between 60 to 90 minutes Max speakers on stage: 4 (+ Moderator, when necessary)
+
+Note: A TechUp Crew member will be there to assist you with the session. If would be possible to delegate the management of the sessions before it starts. For this, the Speaker/Moderator needs to be familiar with the Airmeet platform or attend a training sessions.
+
+###
+
 ### Where does it happen?
+
+
+
+
 
 
 

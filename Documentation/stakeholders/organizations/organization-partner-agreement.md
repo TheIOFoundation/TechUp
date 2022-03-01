@@ -1,3 +1,7 @@
+---
+description: Version 1.0
+---
+
 # Organization Partner Agreement
 
 ![](https://686492558-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M\_K54SuAkrrbCKMqyze%2Fuploads%2FXbjQAueChyhYoMcljave%2F\[TIOF%20TU]%20Comms%20\[I]%20Document%20Header%20ENG%20v1.0.png?alt=media\&token=e580ced9-a57e-4946-9305-74365e3ed848)
@@ -69,7 +73,7 @@ By participating in TechUp as an Organization Partner, The IO Foundation will en
 * Ability to run your own activities to present your organization and the support you provide \
   This includes the possibility of broadcasting to your own media channels.
 * 1 virtual booth\
-  Allows you to showcase your organization, run private activities and allow TechUp community members to contact you.
+  Allows you to showcase your organization, run private activities and allow TechUp Community members to contact you.
 * 1 optional virtual booth for a specific event you may organize.\
   Allows you to showcase and promote such event separately.
 * Increased exposure
@@ -82,11 +86,11 @@ By participating in TechUp as an Organization Partner, The IO Foundation will en
   * Possibility to have a segment presenting your organization in our Codefield productions\
     You will have the opportunity to showcase your organization and the support you provide.
   * Global announcements\
-    Presenting your community and encouraging participants to reach out to you
-* Assistance before, during and after the event from the TechUp crew\
+    Presenting your organization and encouraging participants to reach out to you
+* Assistance before, during and after your activities from the TechUp crew\
   We provide a comprehensive help and provide regular updates with new features and activities.
 * Statistics after each of your activities\
-  So that you can analyze how did it go.
+  So that you can analyze how did your activities perform.
 
 **Platform Updates**\
 ****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
@@ -106,8 +110,6 @@ By signing this Agreement, The Organization also acknowledges that while the pla
 ## The Commitments
 
 By participating in TechUp as an Organization Partner, and in order to maintain your status, The Organization will need to make sure to comply with the following Commitments (hereinafter The Commitments):
-
-In order to maintain your status as Community Partner, you will need to make sure to:
 
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference)
 * Not charge your members, or anyone you invite to your activities, a fee to access TechUp\

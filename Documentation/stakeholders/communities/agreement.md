@@ -1,3 +1,7 @@
+---
+description: Version 1.1
+---
+
 # Community Partner Agreement
 
 ![](<../../.gitbook/assets/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
@@ -77,10 +81,10 @@ By participating in TechUp as a Community Partner, The IO Foundation will ensure
     You will have the opportunity to showcase your community
   * Global platform announcements\
     Presenting your community and encouraging participants to reach out to you
-* Assistance before, during and after the event from the TechUp crew\
+* Assistance before, during and after your activities from the TechUp crew\
   We provide a comprehensive help and provide regular updates with new features and activities.
 * Statistics after each of your activities\
-  So that you can analyze how did it go.
+  So that you can analyze how did your activities perform.
 
 **Platform updates**\
 ****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
