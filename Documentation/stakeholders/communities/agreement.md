@@ -6,7 +6,7 @@ description: >-
 
 # Agreement
 
-## Community Partner Agreement Sample
+## Community Partner Agreement
 
 The following is a copy of the content of the Community Partner Agreement you will receive when formalizing your joining of TechUp.
 
@@ -57,7 +57,13 @@ To qualify as a Community Partner must verify the following requirements (herein
 * Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
 * Provide the TechUp team with all the necessary on your side to run high quality activities
 
-&#x20;By signing this Agreement The Community confirms to verify The Requirements.
+{% hint style="success" %}
+By signing this Agreement The Community confirms to verify The Requirements.
+{% endhint %}
+
+{% hint style="success" %}
+By signing this Agreement TechUp commits to not update The Requirements without prior notice. Any such updates would be reflected on a posterior Agreement.
+{% endhint %}
 
 ## Benefits
 
@@ -91,35 +97,46 @@ By participating in TechUp as a Community Partner, The IO Foundation will ensure
 **Platform updates**\
 ****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
 
-&#x20;By signing this Agreement The Community acknowledges The Requirements.
+{% hint style="success" %}
+By signing this Agreement The Community acknowledges The Benefits.
+{% endhint %}
 
-&#x20;By signing this Agreement TechUp commits to upholding The Requirements.
+{% hint style="success" %}
+By signing this Agreement TechUp commits to upholding The Benefits.
+{% endhint %}
 
-
+{% hint style="warning" %}
+By signing this Agreement, The Community also acknowledges that while the platform used by TechUp may deploy new features, these will may not be immediately available,
+{% endhint %}
 
 ## Commitments
 
-In order to maintain your status as Community Partner, you will need to make sure to:
+By participating in TechUp as a Community Partner, and in order to maintain your status, The Community will need to make sure to comply with the following Commitments (hereinafter The Commitments):
 
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference) at all times and in all your activities
 * Not charge your members, or anyone you invite to your activities, a fee to access TechUp\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Organize at least 1 activity during the current season
-* Provide TechUp with the necessary information about your Community
-  * Name, Description, Logo, etc.
-  * At least 1 email address that will be associated with your booth
-  * The necessary to connect your broadcast channels, shoud you decide to do so
+*   Provide TechUp with the necessary information about The Community
+
+    such as Name, Description, Logo, etc.
+
+    * At least 1 email address that will be associated with your booth(s)\
+      (Provided in the signature of this Agreement)
+    * The necessary to connect your broadcast channels, should you decide to do so
 * [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 7 natural days after joining TechUp
 * Promote TechUp and your activities among your own members and networks\
   (you can use your own collaterals or the customized ones TechUp will provide you)
 * Coordinate with the TechUp team to ensure the best experience across your activities and the whole TechUp Space.
 
-{% hint style="danger" %}
-Not compliance with this Commitments will trigger a review of your TechUp Membership.
+{% hint style="success" %}
+By signing this Agreement The Community commits to abide by The Commitments.
 {% endhint %}
 
+{% hint style="danger" %}
+Not compliance with The Commitments will trigger a review of your TechUp Membership.
+{% endhint %}
 
-
-
-
-##
+{% hint style="success" %}
+By signing this Agreement TechUp commits to not update The Commitments without prior notice. Any such updates would be reflected on a posterior Agreement.
+{% endhint %}
