@@ -31,54 +31,9 @@ Communities join TechUp on a [season basis](../../about/seasons/).\
 Each season corresponds to a natural year, from 1st January to 31st December.
 {% endhint %}
 
-## Benefits
+##
 
-By participating in TechUp as a Community Partner, you will be granted a number of benefits, such as:
-
-* Access to the TechUp Space\
-  Your members can access all activities and engage with a global community of technologists.\
-  See the full list here. [learn](../../activities/learn/ "mention") [build](../../activities/build/ "mention") [connect](../../activities/connect/ "mention")
-* Ability to run your own activities\
-  This includes broadcasting to your own media channels.
-* 1 virtual booth\
-  Allows you to showcase your community, run private activities and allow people to contact you.
-* Increased exposure
-  * Customized promotion materials\
-    This will allow you to promote your community and activities more easily.
-  * Promotion of your community in TechUp's official channels\
-    We will give exposure to your community.
-  * Possibility to run a session presenting your community\
-    You will have the opportunity to showcase your community.
-  * Possibility to have a segment presenting your community in our Codefield podcast\
-    You will have the opportunity to showcase your community.
-  * Global announcements\
-    presenting your community and encouraging participants to reach out to you
-* Assistance before, during and after the event from the TechUp crew\
-  We provide a comprehensive help and provide regular updates with new features and activities.
-* Statistics after each of your activities\
-  So that you can analyze how did it go.
-
-**And much more!**\
-****The platform used for the TechUp Space releases new features very often, of which will inform you regularly.
-
-## Commitments
-
-In order to maintain your status as Community Partner, you will need to make sure to:
-
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference)
-* You will not charge your volunteers a fee to access TechUp\
-  (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
-* Provide TechUp with the necessary information about your FOSS project
-  * Name, Description, Logo, Website, etc.
-  * Your public repo URL
-  * At least 1 email address that will be associated with your booth
-* Participation (during current season)
-  * Organize at least 1 activity
-  * Participate in at least one FOSS Sprint
-* [Dress up your booth](https://help.airmeet.com/support/solutions/articles/82000443874-how-to-setup-booths-in-airmeet) no later than 7 natural days after joining TechUp
-* Promote TechUp, your project and your activities among your own networks\
-  (you can use your own collaterals or the customized ones we’ll provide you)
-* Coordinate with the TechUp team to ensure the best experience
+##
 
 ##
 

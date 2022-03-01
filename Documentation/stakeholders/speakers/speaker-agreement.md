@@ -65,7 +65,7 @@ By participating in TechUp as a Speaker Partner, The IO Foundation will ensure t
   * Promotion of your activities in TechUp's official channels\
     We will give exposure to your organization and the support you provide.
   * Possibility to have a segment presenting your work in our Codefield productions\
-    You will have the opportunity to showcase your work and maybe find support.
+    You will have the opportunity to showcase your work and maybe find support across TIOF's Codefield audience.
   * Global announcements\
     Presenting your activities and encouraging participants to join and reach out to you
 * Assistance before, during and after your activities from the TechUp crew\

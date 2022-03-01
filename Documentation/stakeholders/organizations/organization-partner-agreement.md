@@ -84,7 +84,7 @@ By participating in TechUp as an Organization Partner, The IO Foundation will en
   * Possibility to run a session presenting your organization\
     You will have the opportunity to find more members to support as well as collaborators.
   * Possibility to have a segment presenting your organization in our Codefield productions\
-    You will have the opportunity to showcase your organization and the support you provide.
+    You will have the opportunity to showcase your organization and the support you provide across TIOF's Codefield audience.
   * Global announcements\
     Presenting your organization and encouraging participants to reach out to you
 * Assistance before, during and after your activities from the TechUp crew\

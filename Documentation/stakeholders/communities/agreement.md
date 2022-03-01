@@ -78,7 +78,7 @@ By participating in TechUp as a Community Partner, The IO Foundation will ensure
   * Possibility to run a session presenting your community\
     You will have the opportunity to showcase your community.
   * Possibility to have a segment presenting your community in our Codefield productions\
-    You will have the opportunity to showcase your community
+    You will have the opportunity to showcase your community and your work across TIOF's Codefield audience.
   * Global platform announcements\
     Presenting your community and encouraging participants to reach out to you
 * Assistance before, during and after your activities from the TechUp crew\
