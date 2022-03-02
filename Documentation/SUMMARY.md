@@ -68,7 +68,7 @@
   * [Lifecycle](stakeholders/foss-projects/foss-project-lifecycle.md)
 * [Sponsors](stakeholders/sponsors/README.md)
   * [Guide](stakeholders/sponsors/guide.md)
-  * [Agreement](stakeholders/sponsors/agreement.md)
+  * [Sponsor Agreement](stakeholders/sponsors/sponsor-agreement.md)
   * [Sponsor Lifecycle](stakeholders/sponsors/sponsor-lifecycle.md)
   * [Outreach Materials](stakeholders/sponsors/outreach-materials.md)
 
@@ -98,11 +98,6 @@
 * [Events](activities/events/README.md)
   * [::Assembly](activities/events/assembly.md)
 
-## Dirty
-
-* [Temp Text](dirty/temp-text.md)
-* [Email Templates](dirty/email-templates.md)
-
 ## Operations
 
 * [Comms](operations/comms/README.md)
@@ -111,3 +106,8 @@
   * [Airmeet](operations/products/airmeet.md)
   * [Eventbrite](operations/products/eventbrite.md)
 * [Resource Allocation](operations/resource-allocation.md)
+
+## Dirty
+
+* [Temp Text](dirty/temp-text.md)
+* [Email Templates](dirty/email-templates.md)
