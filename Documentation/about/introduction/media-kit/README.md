@@ -48,3 +48,23 @@ Techup adheres to the same values as The IO Foundation to delivers its mission:
 > **Impact:** The project and its activities are designed and implemented only to serve the broader DCDR advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for digital citizens.
 
 Back to top
+
+
+
+
+
+
+
+| **Platform**  | Events                                                    | Public Calendar                          | Live Events                         | Events RSVP                   |
+| ------------- | --------------------------------------------------------- | ---------------------------------------- | ----------------------------------- | ----------------------------- |
+| **Short URL** | http://TIOF.Click/Events                                  | http://TIOF.Click/EventsCal              | https://TIOF.Click/EventsLive       | https://TIOF.Click/EventsRSVP |
+| **Status**    | Active                                                    | Active                                   | Active                              | Active                        |
+| **Content**   | Events listing                                            | Events calendar                          | Events access                       | TIOF Events RSVP              |
+| **Usage**     | Communicate events from TIOF and those it participates in | Public events calendar that can be added | Access to the current running event | RSVP for TIOF events          |
+
+Back to top
+
+### Donations & Crowdfunding
+
+
+
