@@ -19,7 +19,9 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+The TechUp community is composed by tech communities from all over the world, individual technologists and other organizations.
 
+and citizens like YOU
 
 ### Active members
 
