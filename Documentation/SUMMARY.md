@@ -99,6 +99,7 @@
 
 ## Operations
 
+* [Tasks](operations/tasks.md)
 * [🚧 Comms](operations/comms/README.md)
   * [🚧 Campaigns](operations/comms/campaigns.md)
   * [🚧 Official Channels](operations/comms/official-channels.md)

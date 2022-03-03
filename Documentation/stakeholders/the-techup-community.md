@@ -39,3 +39,87 @@ organization participating&#x20;
 
 \>> Folder in Github
 
+
+
+
+
+
+
+## The TechUp Community
+
+### Participants
+
+
+
+### Communities
+
+
+
+
+
+### Organizations
+
+
+
+
+
+### Speakers
+
+
+
+
+
+### FOSS Projects
+
+
+
+
+
+### Sponsors
+
+
+
+## The TechUp Team
+
+
+
+### Employees
+
+
+
+### Board of Consultants
+
+
+
+### Volunteers
+
+
+
+### Interns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
