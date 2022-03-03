@@ -100,11 +100,11 @@ TechUp is a collaborative space designed to support technologists in their role 
 
 The following are the official logos for The IO Foundation.
 
-|                                                              |                                                                                      |                                                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| <p><strong>TechUp</strong><br><strong>Full Logo</strong></p> | ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>) | ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo Grey W HiRes XXX v1.0.png>) |
-| **Format**                                                   | Full Color                                                                           | White Variant                                                                          |
-| **Usage**                                                    | General use.                                                                         | Monochromatic or dark backgrounds.                                                     |
+|                                                              |                                                                                          |                                                                                        |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <p><strong>TechUp</strong><br><strong>Full Logo</strong></p> | ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0 (1).png>) | ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo Grey W HiRes XXX v1.0.png>) |
+| **Format**                                                   | Full Color                                                                               | White Variant                                                                          |
+| **Usage**                                                    | General use                                                                              | Monochromatic or dark backgrounds                                                      |
 
 {% hint style="info" %}
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
@@ -116,7 +116,7 @@ For more information, please refer to [TIOF's Branding Guidelines](https://tiof.
 
 ### Fonts (typeface)
 
-{% hint style="info" %}
+{% hint style="success" %}
 TechUp follows the same font guidelines as The IO Foundation.
 
 For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOFMediaKit#fonts-typeface).
@@ -124,7 +124,7 @@ For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOF
 
 ### Color palette
 
-{% hint style="info" %}
+{% hint style="success" %}
 TechUp follows the same color palette as The IO Foundation.
 
 For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOFMediaKit#color-palette).
@@ -161,26 +161,139 @@ Each [TIOF initiative](https://tiof.click/TIOFInitiatives) has its own set of #T
 Please refer to the corresponding initiative's Media Kit for their #Tags list.
 {% endhint %}
 
+## Official Channels
 
+The following are the official, sanctioned, Media Channels used by TechUp for its activities.
 
+{% hint style="danger" %}
+Any other Media Channel not listed here is to be considered not affiliated with TechUp and therefore any opinions expressed are not to be associated with it.
+{% endhint %}
 
+### Official Website
 
+The following is the official website for TechUp.
 
+| **Full URL**         | [https://TheIOFoundation.org/TechUp](https://theiofoundation.org/TechUp) |
+| -------------------- | ------------------------------------------------------------------------ |
+| **Alternative URLs** | None                                                                     |
+| **Short URL**        | [https://TIOF.Click/TUWeb](https://tiof.click/TUWeb)                     |
+| **Contents**         | General information about TechUp + Events + Library                      |
 
+### Official Documentation
 
+The following is the official documentation site for The IO Foundation and its initiatives.
 
+| **Full URL**         | [https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction](https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction) |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alternative URLs** | None                                                                                                                                                             |
+| **Short URL**        | [https://TIOF.Click/TUDocs](https://tiof.click/TUDocs)                                                                                                           |
+| **Contents**         | Publishing of all documentation relative to TechUp                                                                                                               |
 
+### URL Shorteners
 
-| **Platform**  | Events                                                    | Public Calendar                          | Live Events                         | Events RSVP                   |
-| ------------- | --------------------------------------------------------- | ---------------------------------------- | ----------------------------------- | ----------------------------- |
-| **Short URL** | http://TIOF.Click/Events                                  | http://TIOF.Click/EventsCal              | https://TIOF.Click/EventsLive       | https://TIOF.Click/EventsRSVP |
-| **Status**    | Active                                                    | Active                                   | Active                              | Active                        |
-| **Content**   | Events listing                                            | Events calendar                          | Events access                       | TIOF Events RSVP              |
-| **Usage**     | Communicate events from TIOF and those it participates in | Public events calendar that can be added | Access to the current running event | RSVP for TIOF events          |
+{% hint style="success" %}
+TechUp uses the same URL shortener The IO Foundation.
 
-Back to top
+For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOFMediaKit#url-shorteners).
+{% endhint %}
+
+### Initiative's Repository
+
+The following are the official repositories used by The IO Foundation.
+
+| **Full URL**         | [https://github.com/TheIOFoundation/TechUp](https://github.com/TheIOFoundation/TechUp) |
+| -------------------- | -------------------------------------------------------------------------------------- |
+| **Alternative URLs** | None                                                                                   |
+| **Short URL**        | [https://TIOF.Click/TURepo](https://tiof.click/TURepo)                                 |
+| **Content**          | Public repository showcasing TechUp's work.                                            |
+| **Usage**            | Initiative Management + Community Collaboration + Transparency platform                |
+
+### Email
+
+The following are the official email domains used by TechUp.
+
+{% hint style="danger" %}
+Only email received from these domains are to be considered originated by TechUp or its members.
+{% endhint %}
+
+| **Domains**             | @TheIOFoundation.org                                                       |
+| ----------------------- | -------------------------------------------------------------------------- |
+| **Alternative Domains** | None                                                                       |
+| **Usage**               | Official communications from TechUp Members both internally and externally |
+
+The following are the official public email addresses used by TechUp.
+
+| **Email** | TechUp@TheIOFoundation.org            |
+| --------- | ------------------------------------- |
+| **Usage** | Official communications and inquiries |
+
+### Social Media
+
+The following are the official social media platforms where TechUp has some sort of active presence.
+
+{% hint style="info" %}
+The IO Foundation, in general, uses social media reluctantly.
+
+To learn more about TIOF's position on this matter, check our [Hey Big Tech! declaration.](https://tiof.click/HeyBigTech)
+{% endhint %}
+
+{% hint style="success" %}
+TechUp currently uses the same Media Channels as The IO Foundation.
+
+For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOFMediaKit#social-media).
+{% endhint %}
+
+{% hint style="warning" %}
+The IO Foundation has profiles in other platforms, sometimes in preparation for its use, sometimes to avoid impersonation.
+{% endhint %}
+
+### Calendars
+
+The following is the official calendar through which TechUp publishes events:
+
+* organized by TechUp (including all TIOF's and its initiatives')
+* those it may participate in
+* other events that are deemed relevant
+
+| **Platform**  | Google Calendar                                              |
+| ------------- | ------------------------------------------------------------ |
+| **Short URL** | [https://TIOF.Click/EventsCal](https://tiof.click/EventsCal) |
+| **Content**   | Events calendar                                              |
+| **Usage**     | Public events calendar                                       |
 
 ### Donations & Crowdfunding
 
+{% hint style="info" %}
+The IO Foundation accepts financial donations on both Fiat and Crypto currencies.
+{% endhint %}
 
+{% hint style="success" %}
+TechUp currently uses the same Donation & Crowdfunding platforms as The IO Foundation.
+
+For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOFMediaKit#donations-and-crowdfunding).
+{% endhint %}
+
+### Human Resources
+
+The following is the official recruitment platform through which The IO Foundation publishes its open positions.
+
+| **Platform**  | QPage                                                                |
+| ------------- | -------------------------------------------------------------------- |
+| **Full URL**  | [https://Join.TheIOFoundation.org](https://join.theiofoundation.org) |
+| **Short URL** | [https://TIOF.Click/TUJoinUs](https://tiof.click/TUJoinUs)           |
+| **Content**   | Posting of open positions for TechUp                                 |
+
+## TIOF Initiatives
+
+The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.&#x20;
+
+|                                                                                          |                   |                                              |
+| ---------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6.png>) | The IO Foundation | [Media Kit](https://tiof.click/TIOFMediaKit) |
+|                                                                                          | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
+| ![](<../../../.gitbook/assets/\[TIOF BiT] Comms \[P] Logo FC T HiRes XXX v1.0.png>)      | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
+| ![](../../../.gitbook/assets/CrowdShape-01.png)                                          | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
+| ![](<../../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>) | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
+| ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)     | TechUp            | This document                                |
+| ![](<../../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)     | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
 
