@@ -5,7 +5,7 @@ description: This page provides you will all the information about TechUp's Busi
 # 🚧 Business Plan
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUBP) **| Playbook | Assistant**
 {% endhint %}
 
 
