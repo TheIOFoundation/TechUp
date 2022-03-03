@@ -1,4 +1,4 @@
-# 🚧 Media Kit
+# Media Kit
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TUMediaKit) **| Playbook | Assistant**
