@@ -7,8 +7,7 @@
   * [🚧 Business Plan](about/introduction/business-plan.md)
   * [🚧 Status](about/introduction/status.md)
   * [🚧 Repository](about/introduction/repository.md)
-  * [Media Kit](about/introduction/media-kit/README.md)
-    * [🚧 Official Channels](about/introduction/media-kit/official-channels.md)
+  * [Media Kit](about/introduction/media-kit.md)
   * [🚧 Terminology](about/introduction/terminology.md)
   * [🚧 Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [🚧 Seasons](about/seasons/README.md)
@@ -100,11 +99,12 @@
 
 ## Operations
 
-* [Comms](operations/comms/README.md)
-  * [Campaigns](operations/comms/campaigns.md)
-* [Products](operations/products/README.md)
-  * [Airmeet](operations/products/airmeet.md)
-  * [Eventbrite](operations/products/eventbrite.md)
+* [🚧 Comms](operations/comms/README.md)
+  * [🚧 Campaigns](operations/comms/campaigns.md)
+  * [🚧 Official Channels](operations/comms/official-channels.md)
+* [🚧 Products](operations/products/README.md)
+  * [🚧 Airmeet](operations/products/airmeet.md)
+  * [🚧 Eventbrite](operations/products/eventbrite.md)
 * [Resource Allocation](operations/resource-allocation.md)
 
 ## Dirty
