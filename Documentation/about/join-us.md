@@ -45,24 +45,36 @@ There are many ways to contribute:
 {% endhint %}
 
 {% hint style="success" %}
-**ALSO, IT'S FREE  >>** :tickets: **** [**COME JOIN**](https://tiof.click/TechUp)****
+**ALSO, IT'S FREE  >>** :tickets: **** [**COME JOIN**](https://tiof.click/TechUp)
 {% endhint %}
 
 ### Join the TechUp Space
 
-If you are a member or a tech community (or any other type) or an
+If you are a member of a tech community you can join TechUp to run your own activities.
 
-
+{% hint style="success" %}
+Check the @comm for your community.
+{% endhint %}
 
 ### Support TechUp
 
-If you are an organization&#x20;
+If you are an organization supporting civic tech, providinga ser
+
+{% hint style="success" %}
+Check the @org for your organization.
+{% endhint %}
 
 
 
 And if you are interested in sponsoring TechUp, get in touch with us.
 
 
+
+
+
+{% hint style="success" %}
+Check the [#benefits](../stakeholders/communities/#benefits "mention") for your community.
+{% endhint %}
 
 ### Participate as a TechUp Member
 
@@ -113,18 +125,4 @@ How to contribute on tasks? **Check the** [**Tasks Handbook**](../operations/tas
 {% embed url="https://tiof.click/TUTasks" %}
 <mark style="color:orange;">**Check the available tasks @ TechUp**</mark>
 {% endembed %}
-
-##
-
-
-
-###
-
-
-
-
-
-## TechUp Team
-
-
 

@@ -54,24 +54,12 @@ Each season corresponds to a natural year, from 1st January to 31st December.
 
 
 
-## xBenefits
 
-
-
-## Commitments
-
-
-
-## xRequirements
-
-T
 
 {% hint style="info" %}
 Individuals who can provide similar support are welcomed.\
 Please contact us for more details: Contact@TheIOFoundation.org
 {% endhint %}
-
-{% embed url="https://tiof.click/TUSubmissionOrg" %}
 
 ## xOrganizations under special consideration
 
