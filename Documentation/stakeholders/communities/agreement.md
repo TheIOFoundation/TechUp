@@ -1,5 +1,5 @@
 ---
-description: Version 1.1
+description: Version 1.2
 ---
 
 # 🤝 Community Partner Agreement
