@@ -16,10 +16,8 @@ This Agreement is to be subscribed between
   _hereinafter_ The Community
 
 with official email `Community Email`\
-``signed on the `Signature Date`\
-``_hereinafter_ The Date\
-for the following seasons `List of Seasons` \
-_hereinafter_ The Seasons
+``signed on the `Signature Date`                            _hereinafter_ The Date\
+for the following seasons `List of Seasons` _hereinafter_ The Seasons
 
 **Signatures**
 

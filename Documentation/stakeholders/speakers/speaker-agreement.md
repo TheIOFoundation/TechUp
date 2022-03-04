@@ -14,10 +14,8 @@ This Agreement is to be subscribed between
   ``_hereinafter_ The Speaker
 
 with official email `Speaker Email` \
-``signed on the `Signature Date` \
-``_hereinafter_ The Date\
-for the following seasons `List of Seasons` \
-_hereinafter_ The Seasons
+``signed on the `Signature Date`                            _hereinafter_ The Date\
+for the following seasons `List of Seasons` _hereinafter_ The Seasons
 
 **For the Speaker**\
 `Organization Representative Signature`

@@ -15,11 +15,9 @@ This Agreement is to be subscribed between
 * `FOSS Project Name` \
   _hereinafter_ The Project
 
-with official email `FOSS Project Email`\
-``signed on the `Signature Date`\
-``_hereinafter_ The Date\
-for the following seasons `List of Seasons` \
-_hereinafter_ The Seasons
+with official email `FOSS Project Email` \
+signed on the `Signature Date`                            _hereinafter_ The Date\
+for the following seasons `List of Seasons` _hereinafter_ The Seasons
 
 **Signatures**
 
