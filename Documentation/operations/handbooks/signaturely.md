@@ -4,9 +4,13 @@
 
 
 
+### Community Partner
 
+#### Document Title
 
-Community Partner
+\[TIOF TU] Legal \[I] IT Society MMU Community Partner Agreement ENG v1.0
+
+#### Optional Message
 
 Greetings from TechUp! We are excited to have you in our TechUp Community and look forward to make a positive impact in technology together.
 
