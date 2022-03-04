@@ -102,6 +102,7 @@
 
 * [Handbooks](operations/handbooks/README.md)
   * [🚧 Eventbrite](operations/handbooks/eventbrite.md)
+  * [Signaturely](operations/handbooks/signaturely.md)
   * [🚧 Airmeet](operations/handbooks/airmeet/README.md)
     * [Session Types](operations/handbooks/airmeet/session-types.md)
 * [Tasks](operations/tasks.md)
