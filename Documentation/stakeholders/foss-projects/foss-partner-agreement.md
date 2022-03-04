@@ -145,7 +145,7 @@ By signing this Agreement The Project commits to abide by The Commitments.
 {% endhint %}
 
 {% hint style="danger" %}
-Not compliance with The Commitments will trigger a review of your TechUp Membership.
+Failure of compliance with The Commitments at any time during The Seasons will trigger a review of your TechUp Membership.
 {% endhint %}
 
 {% hint style="success" %}

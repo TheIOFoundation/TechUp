@@ -39,6 +39,7 @@
 * [Booths](techup-space/booths.md)
 * [Others](techup-space/others/README.md)
   * [Event Panel](techup-space/others/event-panel.md)
+  * [Private Meetings](techup-space/others/private-meetings.md)
   * [Leaderboard](techup-space/others/leaderboard.md)
 
 ## Stakeholders
@@ -99,13 +100,15 @@
 
 ## Operations
 
+* [Handbooks](operations/handbooks/README.md)
+  * [🚧 Eventbrite](operations/handbooks/eventbrite.md)
+  * [🚧 Airmeet](operations/handbooks/airmeet/README.md)
+    * [Session Types](operations/handbooks/airmeet/session-types.md)
 * [Tasks](operations/tasks.md)
 * [🚧 Comms](operations/comms/README.md)
   * [🚧 Campaigns](operations/comms/campaigns.md)
   * [🚧 Official Channels](operations/comms/official-channels.md)
-* [🚧 Products](operations/products/README.md)
-  * [🚧 Airmeet](operations/products/airmeet.md)
-  * [🚧 Eventbrite](operations/products/eventbrite.md)
+* [🚧 Products](operations/products.md)
 * [Resource Allocation](operations/resource-allocation.md)
 
 ## Dirty

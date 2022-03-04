@@ -47,6 +47,12 @@ Should you need to refresh some of the functionalities (or learn about the new o
 
 
 
+
+
+Deciding the type of activity: TYPEBOT
+
+
+
 ## Prepare your activities
 
 
