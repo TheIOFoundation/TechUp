@@ -192,7 +192,7 @@ The following is the official documentation site for The IO Foundation and its i
 ### URL Shorteners
 
 {% hint style="success" %}
-TechUp uses the same URL shortener The IO Foundation.
+TechUp uses the same URL shortener as The IO Foundation.
 
 For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOFMediaKit#url-shorteners).
 {% endhint %}
