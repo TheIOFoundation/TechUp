@@ -1,5 +1,5 @@
 ---
-description: Version 1.0
+description: Version 1.1
 ---
 
 # 🤝 Organization Partner Agreement
@@ -156,10 +156,18 @@ The following organization types won’t be considered for the category of Organ
 
 * Political Parties
 * Religious organizations
+* Gambling activities (or any other addiction-related activities)
+* Any organizations deemed illegal under Estonian law.
 
 ### Organizations to be treated as Special Case
 
-The following organization types will be evaluated on a case-by-case basis:
+Due to their very sensitive nature and the commitment for TechUp to remain focused on its own impact without compromising its principles, the following organization types will be evaluated on a case-by-case basis:
+
+{% hint style="success" %}
+This clause does not imply that the listed organizations are not welcomed to TechUp; on the contrary, we consider them crucial in advancement of the [DCDR advocacy](https://tiof.click/DCDRAdvocacy).
+
+TechUp only wishes to ensure that any such partnerships benefit all parties in alignment with its mission.
+{% endhint %}
 
 * Governments
   * Ministries
