@@ -4,7 +4,7 @@ description: >-
   participation in TechUp.
 ---
 
-# Lifecycle
+# 🚧 Lifecycle
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

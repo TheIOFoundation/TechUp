@@ -1,4 +1,4 @@
-# Registration
+# 🚧 Registration
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

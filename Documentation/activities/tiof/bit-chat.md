@@ -1,4 +1,4 @@
-# BiT Chat
+# 🚧 BiT Chat
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
