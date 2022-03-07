@@ -275,7 +275,7 @@ For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOF
 
 ### Human Resources
 
-The following is the official recruitment platform through which The IO Foundation publishes its open positions.
+The following is the official recruitment platform through which TechUp initiative publishes its open positions.
 
 | **Platform**  | QPage                                                                |
 | ------------- | -------------------------------------------------------------------- |
