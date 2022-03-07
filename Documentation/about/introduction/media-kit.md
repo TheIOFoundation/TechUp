@@ -10,7 +10,7 @@
 
 This document employs terms related to TIOF's [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology), [TechUp's Terminology](https://tiof.click/TUTerminology) as well as the [DCDR Terminology](https://tiof.click/DCDRTerminology).
 
-For a structure of The IO Foundation, please visit
+For a structure of The IO Foundation and the TechUp initiative, please visit
 
 * The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
 * The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
