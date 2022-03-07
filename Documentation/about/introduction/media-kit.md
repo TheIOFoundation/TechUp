@@ -205,7 +205,7 @@ The following are the official repositories used by The IO Foundation.
 | -------------------- | -------------------------------------------------------------------------------------- |
 | **Alternative URLs** | None                                                                                   |
 | **Short URL**        | [https://TIOF.Click/TURepo](https://tiof.click/TURepo)                                 |
-| **Content**          | Public repository showcasing TechUp's work.                                            |
+| **Content**          | Public repository showcasing TechUp's work                                             |
 | **Usage**            | Initiative Management + Community Collaboration + Transparency platform                |
 
 ### Email
