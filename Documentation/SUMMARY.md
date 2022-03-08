@@ -21,7 +21,7 @@
 * [NextGen Rights Defenders](https://tiof.click/TIOFNextGen)
 * [Dhatham House Rule](https://tiof.click/Dhatham)
 * [🚧 Join Us](about/join-us.md)
-* [🚧 Support Us](about/support-us.md)
+* [Support Us](about/support-us.md)
 * [🚧 Acknowlegdments](about/acknowlegdments.md)
 * [🚧 Media Archive](about/media-archive.md)
 
