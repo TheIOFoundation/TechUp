@@ -1,14 +1,36 @@
 # 🚧 Signaturely
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
 
 
 
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
+## About
+
+This document provides the necessary guidance to use and configure Signaturely for the TechUp initiative.
+
+## Usage
+
+Signaturely is used to handle the sharing and digital signature of
+
+* TechUp's Partner Agreements
+* TechUp's Sponsor Agreements
+
+## Templates
 
 ### Community Partner
 
 #### Document Title
 
-\[TIOF TU] Legal \[I] IT Society MMU Community Partner Agreement ENG v1.0
+\[TIOF TU] Legal \[I] IT Society MMU Community Partner Agreement ENG {Version}
 
 #### Optional Message
 

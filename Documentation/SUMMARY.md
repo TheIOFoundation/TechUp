@@ -101,11 +101,11 @@
 ## Operations
 
 * [🚧 Handbooks](operations/handbooks/README.md)
+  * [Tasks](operations/handbooks/tasks.md)
   * [🚧 Eventbrite](operations/handbooks/eventbrite.md)
   * [🚧 Signaturely](operations/handbooks/signaturely.md)
   * [🚧 Airmeet](operations/handbooks/airmeet/README.md)
     * [Session Types](operations/handbooks/airmeet/session-types.md)
-* [Tasks](operations/tasks.md)
 * [🚧 Comms](operations/comms/README.md)
   * [🚧 Campaigns](operations/comms/campaigns.md)
   * [🚧 Official Channels](operations/comms/official-channels.md)
