@@ -6,11 +6,16 @@
 
 
 
-|                |              |        |           |
-| -------------- | ------------ | ------ | --------- |
-| Access Control | Who can talk | Public | Broadcast |
-| Yes            | Stage        | Yes    | Yes       |
-|                |              |        |           |
+|                |              |
+| -------------- | ------------ |
+| Access Control | Who can talk |
+| Yes            | Stage        |
+| Public         | Broadcast    |
+| Yes            | Yes          |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
 
 
 
