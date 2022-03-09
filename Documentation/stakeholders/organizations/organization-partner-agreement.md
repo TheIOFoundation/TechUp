@@ -175,4 +175,4 @@ TechUp only wishes to ensure that any such partnerships benefit all parties in a
 * Foreign Missions or Embassies
 * Supranational organizations
 
-Additionally, any such organizations may propose support TechUp as [Sponsor Partners](../sponsors/), in which case The IO Foundation will evaluate the proposal’s suitability following its [Funding Policy](https://tiof.click/TIOFPolicyFunding) and properly disclose the result to its community should it be positive.
+Additionally, any such organizations may propose to support TechUp as [Sponsor Partners](../sponsors/), in which case The IO Foundation will evaluate the proposal’s suitability following its [Funding Policy](https://tiof.click/TIOFPolicyFunding) and properly disclose the result to its community should it be positive.
