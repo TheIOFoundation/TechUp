@@ -37,9 +37,13 @@ To qualify as an Organization Partner, The Organization must verify the followin
 
 * You are a legally registered entity (NGO, corporate, etc.) that wishes to create positive impact in technology
 * You do not belong to the list of [#organizations-under-special-consideration](organization-partner-agreement.md#organizations-under-special-consideration "mention") (see below)
-*   You can provide
+*   You can
 
-    * a pro bono service to FOSS projects, Civil Society or any other [active member](../../about/introduction/terminology.md#active-member) of the TechUp Community
+    * organize activities that are valuable for the TechUp community and its mission
+
+    OR
+
+    * provide a pro bono service to FOSS projects, Civil Society or any other [active member](../../about/introduction/terminology.md#active-member) of the TechUp Community
 
     OR
 
@@ -72,7 +76,7 @@ By participating in TechUp as an Organization Partner, The IO Foundation will en
   This includes the possibility of broadcasting to your own media channels.
 * 1 virtual booth\
   Allows you to showcase your organization, run private activities and allow TechUp Community members to contact you.
-* 1 optional virtual booth for a specific event you may organize.\
+* 1 optional virtual booth for a specific event you may organize\
   Allows you to showcase and promote such event separately.
 * Increased exposure
   * Customized promotion materials\
