@@ -33,6 +33,9 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 * Data science
 * Cryptography
 * Communication Protocols
+* Modeling
+  * UML
+  * BPMN
 * DevOps
 * IoT
 * Artificial Intelligence & Machine Learning
