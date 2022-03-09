@@ -9,7 +9,7 @@
 |                |              |        |           |
 | -------------- | ------------ | ------ | --------- |
 | Access Control | Who can talk | Public | Broadcast |
-|                |              |        |           |
+| Yes            | Stage        | Yes    | Yes       |
 |                |              |        |           |
 
 
