@@ -6,6 +6,16 @@
 
 
 
+|                |              |        |           |
+| -------------- | ------------ | ------ | --------- |
+| Access Control | Who can talk | Public | Broadcast |
+|                |              |        |           |
+|                |              |        |           |
+
+
+
+
+
 
 
 {% hint style="warning" %}
