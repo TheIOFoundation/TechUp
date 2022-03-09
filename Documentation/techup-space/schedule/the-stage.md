@@ -13,8 +13,8 @@
 | **Replay**         | **Broadcast**    | **Accept donations** |
 | Yes                | Yes              | Yes                  |
 |                    |                  |                      |
-|                    |                  |                      |
-|                    |                  |                      |
+| **Teach**          | **Collaborate**  | **Showcase**         |
+| Yes                | Somehow          | Yes                  |
 |                    |                  |                      |
 
 
