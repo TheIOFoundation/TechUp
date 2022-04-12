@@ -1,7 +1,7 @@
 # 🚧 Labs
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+**ShortURL | Playbook | Assistant | Status | Apply**
 {% endhint %}
 
 

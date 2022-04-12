@@ -2,10 +2,6 @@
 description: >-
   This document contains all you need to know to introduce your community and
   maximize its participation in TechUp.
-cover: >-
-  ../../.gitbook/assets/[TIOF TU] Comms [P] Guide - Community Partners ENG
-  v1.0.png
-coverY: 29.60352422907488
 ---
 
 # 🚧 Communities
