@@ -15,12 +15,12 @@ coverY: 0
 {% endhint %}
 
 {% hint style="warning" %}
-This website contains the **documentation** relative to The IO Foundation and its initiatives.
+This website contains the **documentation** relative to the BHR in Tech (BiT) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
 
 You may be looking for:
 
-* [Official Website](https://tiof.click/TIOFWeb)
-* [TIOF Management](https://tiof.click/TIOFRepo)
+* [Official Website](https://tiof.click/BiTWeb)
+* [BHR in Tech Initiative Management](https://tiof.click/BiTRepo)
 
 To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
