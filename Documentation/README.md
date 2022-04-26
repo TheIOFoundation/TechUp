@@ -9,16 +9,16 @@ coverY: 0
 # 🚧 Introduction
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/PLDDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
-This website contains the **documentation** relative to the TechUp Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
+This website contains the **documentation** relative to the Project Lockdown Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
 
 You may be looking for:
 
-* [Official Website](https://tiof.click/TUWeb)
-* [TechUp Initiative Management](https://tiof.click/TURepo)
+* [Official Website](https://tiof.click/PLDWeb)
+* [Project Lockdown Initiative Management](https://tiof.click/PLDRepo)
 
 To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
