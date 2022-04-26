@@ -8,19 +8,17 @@ coverY: 0
 
 # 🚧 Introduction
 
-
-
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFDocs) **| Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
-This website contains the **documentation** relative to the BHR in Tech (BiT) Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
+This website contains the **documentation** relative to the TechUp Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
 
 You may be looking for:
 
-* [Official Website](https://tiof.click/BiTWeb)
-* [BHR in Tech Initiative Management](https://tiof.click/BiTRepo)
+* [Official Website](https://tiof.click/TUWeb)
+* [TechUp Initiative Management](https://tiof.click/TURepo)
 
 To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
@@ -56,10 +54,6 @@ The IO Foundation delivers its mission through the observance of the following v
 > **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in the organization, our [DCDR Principles](https://tiof.click/DCDRPrinciples) and the advocacy at large.
 
 > **Impact:** Our initiatives are designed and implemented only to serve the broader advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for citizens.
-
-{% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
-{% endhint %}
 
 {% embed url="https://youtu.be/eUi1xfM5Wvo" %}
 
