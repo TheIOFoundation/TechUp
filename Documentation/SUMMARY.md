@@ -106,7 +106,7 @@
   * [🚧 Comms](operations/handbooks/comms/README.md)
     * [🚧 Campaigns](operations/handbooks/comms/campaigns.md)
     * [🚧 Official Channels](operations/handbooks/comms/official-channels.md)
-  * [Tasks](operations/handbooks/tasks.md)
+  * [🚧 Tasks](operations/handbooks/tasks.md)
   * [🚧 Eventbrite](operations/handbooks/eventbrite.md)
   * [🚧 Signaturely](operations/handbooks/signaturely.md)
   * [🚧 Airmeet](operations/handbooks/airmeet/README.md)
