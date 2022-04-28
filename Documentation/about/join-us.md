@@ -2,7 +2,7 @@
 description: This page explains all the different ways to get involved with TechUp.
 ---
 
-# 🚧 Join Us
+# 🖖 Join Us
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TUJoinUs) **| Playbook | Assistant**
@@ -20,21 +20,17 @@ Do you want to support technologists in their role as [NextGen Rights Defenders]
 
 Are you a member of a community contributing to making tech better and safer?\
 \
-Do you want to participate in our [initiatives](https://tiof.click/TIOFInitiatives)?
+**Together we can work towards protecting citizens' Data-Centric Digital Rights.**
 
 {% hint style="success" %}
-**Together we can work towards protecting citizens' Data-Centric Digital Rights.**
+**Together we can work towards enabling the NextGen Rights Defenders.**
 
 **Let’s talk!**
 {% endhint %}
 
-## How can I contribute?
+## How can I participate?
 
 Contributing in TechUp and its initiatives is easy!
-
-There are many ways to contribute:
-
-### Participate in the activities
 
 {% hint style="success" %}
 **EVERYONE IS INVITED TO TECHUP**
@@ -48,37 +44,18 @@ There are many ways to contribute:
 **ALSO, IT'S FREE  >>** :tickets: **** [**COME JOIN**](https://tiof.click/TechUp)
 {% endhint %}
 
-### Join the TechUp Space
+### Join the TechUp community
 
-If you are a member of a tech community you can join TechUp to run your own activities.
+You can join the TechUp community as a
 
-{% hint style="success" %}
-Check the @comm for your community.
-{% endhint %}
-
-### Support TechUp
-
-If you are an organization supporting civic tech, providinga ser
-
-{% hint style="success" %}
-Check the @org for your organization.
-{% endhint %}
-
-
-
-And if you are interested in sponsoring TechUp, get in touch with us.
-
-
-
-
-
-{% hint style="success" %}
-Check the [#benefits](../stakeholders/communities/#benefits "mention") for your community.
-{% endhint %}
+* [Tech Community](../stakeholders/communities/)
+* [Organization](../stakeholders/organizations/)
+* [Speaker](../stakeholders/speakers/)
+* [FOSS Project](../stakeholders/foss-projects/)
 
 ### Participate as a TechUp Member
 
-By joining as a TechUp Member you will officially join one of the TechUp [Teams](broken-reference), participate in organized tasks and have access to tools and other resources as well as training.
+By joining as a TechUp Member you will officially join one of the [TechUp Teams](../institutional/structures/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
 
 TechUp Members can be:
 
@@ -96,13 +73,9 @@ As an active TechUp Member, you must be able to commit according to the responsi
 Orebela Gbenga
 {% endhint %}
 
-
-
 {% embed url="https://tiof.click/TUJoinUs" %}
 <mark style="color:orange;">**Check the available positions @ TechUp**</mark>
 {% endembed %}
-
-
 
 ### Participate as a Collaborator
 
@@ -125,4 +98,3 @@ How to contribute on tasks? **Check the** [**Tasks Handbook**](../operations/han
 {% embed url="https://tiof.click/TUTasks" %}
 <mark style="color:orange;">**Check the available tasks @ TechUp**</mark>
 {% endembed %}
-
