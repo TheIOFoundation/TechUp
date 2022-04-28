@@ -102,7 +102,7 @@
 
 ## Operations
 
-* [🚧 Handbooks](operations/handbooks/README.md)
+* [Handbooks](operations/handbooks/README.md)
   * [Tasks](operations/handbooks/tasks.md)
   * [🚧 Eventbrite](operations/handbooks/eventbrite.md)
   * [🚧 Signaturely](operations/handbooks/signaturely.md)
