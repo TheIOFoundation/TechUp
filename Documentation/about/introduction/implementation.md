@@ -4,6 +4,17 @@
 ****[**ShortURL**](https://tiof.click/TURepo) **| Playbook | Assistant**
 {% endhint %}
 
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
+
+
 ## About
 
 In accordance to TIOF's [Transparency and Accountability policy](https://tiof.click/TIOFPolicyTA), TechUp uses a repository to manage its tasks, document the initiative and provide all assets related to it.
