@@ -103,14 +103,14 @@
 ## Operations
 
 * [Handbooks](operations/handbooks/README.md)
+  * [🚧 Comms](operations/handbooks/comms/README.md)
+    * [🚧 Campaigns](operations/handbooks/comms/campaigns.md)
+    * [🚧 Official Channels](operations/handbooks/comms/official-channels.md)
   * [Tasks](operations/handbooks/tasks.md)
   * [🚧 Eventbrite](operations/handbooks/eventbrite.md)
   * [🚧 Signaturely](operations/handbooks/signaturely.md)
   * [🚧 Airmeet](operations/handbooks/airmeet/README.md)
     * [Session Types](operations/handbooks/airmeet/session-types.md)
-* [🚧 Comms](operations/comms/README.md)
-  * [🚧 Campaigns](operations/comms/campaigns.md)
-  * [🚧 Official Channels](operations/comms/official-channels.md)
 * [🚧 Products](operations/products.md)
 * [🚧 Resource Allocation](operations/resource-allocation.md)
 

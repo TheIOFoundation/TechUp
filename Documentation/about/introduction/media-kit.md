@@ -287,13 +287,13 @@ The following is the official recruitment platform through which TechUp initiati
 
 The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.&#x20;
 
-|                                                                                       |                   |                                              |
-| ------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6.png>) | The IO Foundation | [Media Kit](https://tiof.click/TIOFMediaKit) |
-| <mark style="color:orange;">**\[PENDING]**</mark>                                     | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
-| ![](<../../.gitbook/assets/\[TIOF BiT] Comms \[P] Logo FC T HiRes XXX v1.0.png>)      | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
-| ![](../../.gitbook/assets/CrowdShape-01.png)                                          | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
-| ![](<../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>) | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
-| ![](<../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)     | TechUp            | This document                                |
-| ![](<../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)     | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
+|                                                                                                                  |                   |                                              |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
+| <img src="../../.gitbook/assets/[TIOF] Comms [P] Hex Logo TIOF FC T HiRes XXX v1.6.png" alt="" data-size="line"> | The IO Foundation | [Media Kit](https://tiof.click/TIOFMediaKit) |
+| <mark style="color:orange;">**\[PENDING]**</mark>                                                                | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
+| <img src="../../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">      | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
+| <img src="../../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line">                                      | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
+| <img src="../../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
+| <img src="../../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | TechUp            | This document                                |
+| <img src="../../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
 
