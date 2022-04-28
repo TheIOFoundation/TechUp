@@ -82,10 +82,10 @@ By joining as a TechUp Member you will officially join one of the TechUp [Teams]
 
 TechUp Members can be:
 
-* [Employees](../stakeholders/the-techup-community.md#employees)
-* [Interns](../stakeholders/the-techup-community.md#interns)
-* [Volunteers](../stakeholders/the-techup-community.md#volunteers)
-* [Member of the Board of Consultants](../stakeholders/the-techup-community.md#board-of-consultants)
+* [Employees](https://tiof.click/TIOFOrgChartDocs#employees)
+* [Interns](https://tiof.click/TIOFOrgChartDocs#interns)
+* [Volunteers](https://tiof.click/TIOFOrgChartDocs#volunteers)
+* [Members of a Board](https://tiof.click/TIOFOrgChartDocs#members-of-a-board)
 
 {% hint style="warning" %}
 As an active TechUp Member, you must be able to commit according to the responsibilities acquired.
