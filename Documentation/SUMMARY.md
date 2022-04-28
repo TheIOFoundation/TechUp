@@ -16,7 +16,7 @@
   * [🚧 Season 2020](about/seasons/season-2020.md)
   * [🚧 Season 2021](about/seasons/season-2021.md)
   * [🚧 Season 2022](about/seasons/season-2022.md)
-* [Code of Conduct](https://tiof.click/PolicyCoC)
+* [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
 * [DCDR Principles](https://tiof.click/DCDRPrinciples)
 * [NextGen Rights Defenders](https://tiof.click/TIOFNextGen)
 * [Dhatham House Rule](https://tiof.click/Dhatham)
