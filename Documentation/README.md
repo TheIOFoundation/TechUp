@@ -24,6 +24,8 @@ To learn how to navigate this documentation, please check the [HELP](https://tio
 {% endhint %}
 
 {% embed url="https://tiof.click/TUPresentation" %}
+Introduction to the TechUp initiative
+{% endembed %}
 
 ## The Initiative
 
