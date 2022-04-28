@@ -99,6 +99,10 @@
 * [🚧 Events](activities/events/README.md)
   * [🚧 ::Assembly](activities/events/assembly.md)
 
+## INSTITUTIONAL
+
+* [Structures](institutional/structures.md)
+
 ## Operations
 
 * [Handbooks](operations/handbooks/README.md)
