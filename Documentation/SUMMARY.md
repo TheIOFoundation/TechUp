@@ -80,7 +80,7 @@
   * [🚧 Watch Parties](activities/learn/watch-parties.md)
 * [🚧 BUILD](activities/build/README.md)
   * [🚧 Labs](activities/build/labs/README.md)
-    * [�� Secure Usability and Accessibility Lab (SUA Lab)](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/README.md)
+    * [🚧 Secure Usability and Accessibility Lab (SUA Lab)](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/README.md)
       * [SUA Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/sua-lab-agreement.md)
   * [🚧 FOSS Sprints](activities/build/foss-sprints.md)
   * [🚧 Fundraisers](activities/build/fundraisers.md)
@@ -102,7 +102,7 @@
 ## INSTITUTIONAL
 
 * [Structures](institutional/structures.md)
-  * [Page 1](institutional/structures/page-1.md)
+  * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
   * [Teams](institutional/structures/teams.md)
 
 ## Operations

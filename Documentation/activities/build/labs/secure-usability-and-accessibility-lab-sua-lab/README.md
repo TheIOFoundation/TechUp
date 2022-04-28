@@ -1,4 +1,4 @@
-# �� Secure Usability and Accessibility Lab (SUA Lab)
+# 🚧 Secure Usability and Accessibility Lab (SUA Lab)
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Status | Apply**
