@@ -73,19 +73,21 @@
 
 ## Activities
 
-* [LEARN](activities/learn/README.md)
+* [🧑🏫 LEARN](activities/learn/README.md)
   * [Capacity Building](activities/learn/capacity-building/README.md)
     * [⚙ 🚧 Session Lifecycle](activities/session-lifecycle.md)
   * [Topics](activities/learn/topics.md)
   * [Watch Parties](activities/learn/watch-parties.md)
-* [BUILD](activities/build/README.md)
+* [🏗 BUILD](activities/build/README.md)
   * [⚗ Labs](activities/build/labs/README.md)
     * [Secure Usability & Accessibility](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/README.md)
       * [📃 SUA Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/sua-lab-agreement.md)
   * [🏃 FOSS Sprints](activities/build/foss-sprints.md)
   * [Fundraisers](activities/build/fundraisers.md)
   * [Working Groups](activities/tiof/working-groups.md)
-* [CONNECT](activities/connect/README.md)
+* [🤝 CONNECT](activities/connect/README.md)
+  * [Events](activities/connect/events/README.md)
+    * [::Assembly](activities/connect/events/assembly.md)
   * [Matchmaking](activities/connect/matchmaking.md)
   * [Show & Tell](activities/connect/show-and-tell.md)
 * [TIOF](activities/tiof/README.md)
@@ -97,8 +99,6 @@
   * [PLD Policy Sprint](activities/tiof/pld-policy-sprint.md)
   * [Community Caffe](activities/tiof/community-caffe.md)
   * [Surveys](activities/surveys.md)
-* [Events](activities/events/README.md)
-  * [::Assembly](activities/events/assembly.md)
 
 ## INSTITUTIONAL
 

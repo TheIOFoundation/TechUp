@@ -1,4 +1,4 @@
-# 🚧 Season 2018
+# Season 2018
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

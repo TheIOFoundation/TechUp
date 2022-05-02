@@ -1,4 +1,4 @@
-# 🚧 UDDR Steering Committee
+# UDDR Steering Committee
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

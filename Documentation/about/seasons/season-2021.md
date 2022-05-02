@@ -1,4 +1,4 @@
-# 🚧 Season 2021
+# Season 2021
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

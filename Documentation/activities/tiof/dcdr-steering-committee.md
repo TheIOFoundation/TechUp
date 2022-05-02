@@ -1,4 +1,4 @@
-# 🚧 DCDR Steering Committee
+# DCDR Steering Committee
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

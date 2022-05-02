@@ -1,10 +1,8 @@
-# 🚧 Event Panel
+# Event Panel
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
-
-
 
 
 

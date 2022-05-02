@@ -2,7 +2,7 @@
 description: Find here the answers to the most common doubts.
 ---
 
-# 🚧 Frequently Asked Questions
+# Frequently Asked Questions
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

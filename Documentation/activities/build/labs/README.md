@@ -1,4 +1,4 @@
-# 🚧 Labs
+# ⚗ Labs
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | Status | Apply**

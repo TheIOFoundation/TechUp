@@ -1,4 +1,4 @@
-# 🚧 Board of Consultants
+# Board of Consultants
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

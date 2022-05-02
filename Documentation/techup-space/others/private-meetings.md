@@ -1,4 +1,4 @@
-# 🚧 Private Meetings
+# Private Meetings
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

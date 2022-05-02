@@ -1,4 +1,4 @@
-# 🚧 Products
+# Products
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

@@ -4,7 +4,7 @@ description: >-
   maximize its participation in TechUp.
 ---
 
-# 🚧 Communities
+# Communities
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

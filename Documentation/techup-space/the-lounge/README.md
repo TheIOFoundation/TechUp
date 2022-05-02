@@ -1,10 +1,8 @@
-# 🚧 The Lounge
+# The Lounge
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
-
-
 
 
 

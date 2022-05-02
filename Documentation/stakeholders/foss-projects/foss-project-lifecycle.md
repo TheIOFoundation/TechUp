@@ -1,4 +1,4 @@
-# 🚧 Lifecycle
+# Lifecycle
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

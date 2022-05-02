@@ -4,7 +4,7 @@ description: Version 1.2
 
 # 🤝 Community Partner Agreement
 
-![](<../../.gitbook/assets/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
+![](<../../../Identity/Document templates/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
 
 ## About this Agreement
 

@@ -1,4 +1,4 @@
-# 🚧 Audience
+# Audience
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

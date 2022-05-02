@@ -1,4 +1,4 @@
-# 🚧 Community Caffe
+# Community Caffe
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

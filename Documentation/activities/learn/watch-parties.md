@@ -1,4 +1,4 @@
-# 🚧 Watch Parties
+# Watch Parties
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

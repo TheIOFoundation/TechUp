@@ -1,4 +1,4 @@
-# 🚧 Virtual Tables
+# Virtual Tables
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

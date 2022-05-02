@@ -1,4 +1,4 @@
-# 🚧 PLD Policy Sprint
+# PLD Policy Sprint
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

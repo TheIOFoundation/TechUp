@@ -1,4 +1,4 @@
-# 🚧 Capacity Building
+# Capacity Building
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

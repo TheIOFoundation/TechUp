@@ -1,4 +1,4 @@
-# 🚧 Working Groups
+# Working Groups
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

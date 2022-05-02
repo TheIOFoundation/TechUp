@@ -1,4 +1,4 @@
-# 🚧 Signaturely
+# Signaturely
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

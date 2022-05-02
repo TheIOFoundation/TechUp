@@ -1,10 +1,8 @@
-# 🚧 Schedule
+# Schedule
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
-
-
 
 
 

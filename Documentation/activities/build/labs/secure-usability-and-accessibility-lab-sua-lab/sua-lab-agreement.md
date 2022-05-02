@@ -2,7 +2,7 @@
 description: v1.0
 ---
 
-# SUA Lab Agreement
+# 📃 SUA Lab Agreement
 
 ## About this Agreement
 

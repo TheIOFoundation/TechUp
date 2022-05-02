@@ -1,4 +1,4 @@
-# 🚧 Surveys
+# Surveys
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

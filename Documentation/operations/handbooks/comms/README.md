@@ -1,4 +1,4 @@
-# 🚧 Comms
+# Comms
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)****

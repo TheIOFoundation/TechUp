@@ -4,7 +4,7 @@ description: Version 1.0
 
 # 🤝 FOSS Partner Agreement
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ## About this Agreement
 

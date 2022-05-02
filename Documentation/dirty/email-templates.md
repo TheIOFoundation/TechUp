@@ -18,17 +18,17 @@ Together, let’s create a conducive environment for our Digital rights!
 
 For more information, please visit the following websites:
 
-[https://www.theiofoundation.org/#ReachOut](https://www.theiofoundation.org/#ReachOut)![](../.gitbook/assets/0)
+[https://www.theiofoundation.org/#ReachOut](https://www.theiofoundation.org/#ReachOut)![](../.gitbook/assets/4)
 
-https://www.theiofoundation.org/techup/![](../.gitbook/assets/1)
+https://www.theiofoundation.org/techup/![](../.gitbook/assets/5)
 
 You may also contact us:&#x20;
 
-![](../.gitbook/assets/2)
+![](../.gitbook/assets/6)
 
 Contact@TheIOFoundation.org&#x20;
 
-[@ContactTIOF](https://telegram.me/ContactTIOF)![](../.gitbook/assets/3)
+[@ContactTIOF](https://telegram.me/ContactTIOF)![](../.gitbook/assets/7)
 
 **EMAIL (For Individual Programmers)**
 
@@ -56,17 +56,17 @@ Admission to this event is free of charge. Together, let’s create a conducive 
 
 For more information, please visit the following websites:
 
-[https://www.theiofoundation.org/#ReachOut](https://www.theiofoundation.org/#ReachOut)![](../.gitbook/assets/4)
+[https://www.theiofoundation.org/#ReachOut](https://www.theiofoundation.org/#ReachOut)![](../.gitbook/assets/0)
 
-https://www.theiofoundation.org/techup/![](../.gitbook/assets/5)
+https://www.theiofoundation.org/techup/![](../.gitbook/assets/1)
 
 You may also contact us:&#x20;
 
-![](../.gitbook/assets/6)
+![](../.gitbook/assets/2)
 
 Contact@TheIOFoundation.org&#x20;
 
-[@ContactTIOF](https://telegram.me/ContactTIOF)![](../.gitbook/assets/7)
+[@ContactTIOF](https://telegram.me/ContactTIOF)![](../.gitbook/assets/3)
 
 
 

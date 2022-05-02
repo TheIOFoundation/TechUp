@@ -1,4 +1,4 @@
-# 🚧 Orientation Sessions
+# Orientation Sessions
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

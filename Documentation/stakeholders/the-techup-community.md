@@ -1,4 +1,4 @@
-# 🚧 The TechUp Community
+# The TechUp Community
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

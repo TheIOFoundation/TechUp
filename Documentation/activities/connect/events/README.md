@@ -1,4 +1,4 @@
-# 🚧 ::Assembly
+# Events
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -15,6 +15,20 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
-#### Assembly
+## Tags
 
-A multi-stakeholder event to convene and build actual solutions to address subjects shaping digital spaces such as Digital Rights, BHR or Internet Governance.
+Booths: `Event`
+
+``
+
+``
+
+## International Events
+
+
+
+## Community Events
+
+
+
+``

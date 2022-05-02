@@ -2,11 +2,13 @@
 description: >-
   Welcome to the TechUp initiative. This Handbook will provide you with all the
   information you need to understand and participate in the TechUp Community.
-cover: .gitbook/assets/[TIOF TU] Comms [P] Airmeet Landing Page ENG v1.1.jpg
+cover: >-
+  ../Identity/Channels/Airmeet/[TIOF TU] Comms [P] Airmeet Landing Page ENG
+  v1.1.jpg
 coverY: 0
 ---
 
-# 🚧 Introduction
+# Introduction
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**

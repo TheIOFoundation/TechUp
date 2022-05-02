@@ -4,7 +4,7 @@ description: >-
   to TechUp and maximizing your participation.
 ---
 
-# 🚧 FOSS Projects
+# FOSS Projects
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

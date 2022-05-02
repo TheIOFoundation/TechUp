@@ -1,4 +1,4 @@
-# 🚧 Campaigns
+# Campaigns
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

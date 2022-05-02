@@ -1,4 +1,4 @@
-# 🚧 Guide
+# Guide
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TUFPGuide) **| Playbook | Assistant**
