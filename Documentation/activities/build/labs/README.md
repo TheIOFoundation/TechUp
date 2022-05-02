@@ -4,18 +4,15 @@
 **ShortURL | Playbook | Assistant | Tag: `TechUp Lab`**
 {% endhint %}
 
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
 ## About
 
-TechUp Labs are organized support around a specific topic.
+TechUp Labs are organized support around a specific topic and designed to help TechUp members with their communities, organizations or projects.
 
+{% hint style="success" %}
+TechUp Labs are free for TechUp members.
+{% endhint %}
 
+Some Labs may be composed by a number of [LEARN](../../learn/) - [BUILD](../) - [CONNECT](../../connect/) activities such as Capacity Building sessions or a FOSS Sprint.
 
 ## Current Labs
 
@@ -23,10 +20,6 @@ The current active Labs can be found
 
 * on the navigation menu on the left of this documentation
 * on the Booths area of the TechUp Space (#Tag: `TechUp Lab`)&#x20;
-
-
-
-
 
 ## Labs under consideration
 
@@ -52,21 +45,29 @@ Extra: Creative Commons
 
 #### Consent Commons
 
+Learn how to use the Consent Commons library to structure your Terms and Condition documents in a way that is more easy to understand by citizens.
+
 #### Funding
 
-Support to identify and apply for funding for your Tech NGO or FOSS project.
+Learn how to support to identify and apply for funding for your Tech NGO or FOSS project.
 
 #### Tech NGO incubator
 
-How to start and run your own Tech NGO.
+Learn how to start and run your own Tech NGO.
 
 Extra: eResidency
 
 #### Virtualization
 
+Learn how to virtualize part of your tech infrastructure.
+
 #### Policy Making
 
+Learn how to understand and participate in policy making procedures.
+
 #### Leadership
+
+Learn how to&#x20;
 
 #### Project management
 
