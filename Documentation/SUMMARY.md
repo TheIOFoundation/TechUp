@@ -89,7 +89,7 @@
   * [Events](activities/connect/events/README.md)
     * [::Assembly](activities/connect/events/assembly.md)
   * [👁🗨 Matchmaking](activities/connect/matchmaking.md)
-  * [Show & Tell](activities/connect/show-and-tell.md)
+  * [📣 Show & Tell](activities/connect/show-and-tell.md)
 * [TIOF](activities/tiof/README.md)
   * [Orientation Sessions](activities/space-management/orientation-sessions.md)
   * [🎙 Podcasts](activities/tiof/podcasts.md)
@@ -97,7 +97,7 @@
   * [DCDR Steering Committee](activities/tiof/dcdr-steering-committee.md)
   * [UDDR Steering Committee](activities/tiof/uddr-steering-committee.md)
   * [PLD Policy Sprint](activities/tiof/pld-policy-sprint.md)
-  * [Community Caffe](activities/tiof/community-caffe.md)
+  * [🍹 Community Caffe](activities/tiof/community-caffe.md)
   * [Surveys](activities/surveys.md)
 
 ## INSTITUTIONAL
@@ -108,7 +108,7 @@
 
 ## Operations
 
-* [Handbooks](operations/handbooks/README.md)
+* [📓 Handbooks](operations/handbooks/README.md)
   * [Comms](operations/handbooks/comms/README.md)
     * [Campaigns](operations/handbooks/comms/campaigns.md)
     * [Official Channels](operations/handbooks/comms/official-channels.md)
@@ -118,7 +118,7 @@
   * [Airmeet](operations/handbooks/airmeet/README.md)
     * [Session Types](operations/handbooks/airmeet/session-types.md)
 * [Products](operations/products.md)
-* [Resource Allocation](operations/resource-allocation.md)
+* [💰 Resource Allocation](operations/resource-allocation.md)
 
 ## Dirty
 

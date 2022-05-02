@@ -1,7 +1,7 @@
 # Capacity Building
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | #Tag `LEARN`**
+**ShortURL | Playbook | Assistant**
 {% endhint %}
 
 

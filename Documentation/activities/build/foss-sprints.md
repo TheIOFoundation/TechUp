@@ -1,7 +1,7 @@
 # 🏃 FOSS Sprints
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | #Tag `SPRINT`**
+**ShortURL | Playbook | Assistant**
 {% endhint %}
 
 
@@ -12,8 +12,6 @@
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
-
-## About
 
 
 
@@ -60,10 +58,6 @@ Checkpoint
 
 
 
-
-#### Bridge
-
-Where Civil Society meets the Tech Community and explore together their current and future needs in the technological realm.
 
 
 
