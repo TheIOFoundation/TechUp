@@ -1,18 +1,11 @@
-# 🚧 Secure Usability and Accessibility Lab (SUA Lab)
+# Secure Usability & Accessibility
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | **<mark style="color:green;">**Status**</mark>** | Apply**
-{% endhint %}
-
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+****[**ShortURL**](https://tiof.click/TULABSUA) **| Playbook | Assistant | **<mark style="color:green;">**Status**</mark>** |** [**Apply**](https://tiof.click/TULABSUAApply)****
 {% endhint %}
 
 {% hint style="success" %}
-APPLY TO THIS LAB
+****[**APPLY TO THIS LAB**](https://tiof.click/TULABSUAApply)****
 {% endhint %}
 
 ## About
@@ -62,6 +55,10 @@ If you are interested in getting support by this Lab, applying is very easy:
 * The Lab team will review your application and keep you promptly updated
 * Once accepted, the SUA Lab Agreement will be signed
 * Lab Services start right after&#x20;
+
+{% hint style="success" %}
+****[**APPLY TO THIS LAB**](https://tiof.click/TULABSUAApply)****
+{% endhint %}
 
 ### Lifecycle
 
