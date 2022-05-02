@@ -59,6 +59,10 @@ Checkpoint
 
 
 
+#### Bridge
+
+Where Civil Society meets the Tech Community and explore together their current and future needs in the technological realm.
+
 
 
 

@@ -67,11 +67,11 @@ Learn how to understand and participate in policy making procedures.
 
 #### Leadership
 
-Learn how to&#x20;
+Learn how to develop skills to lead the change you want to see in tech.
 
 #### Project management
 
-#### Mentorship
+Learn how to manage projects and products in tech.
 
 #### BHR in Tech compliant
 
@@ -82,10 +82,3 @@ Learn how to incorporate the UNGPs on BHR in your tech organization.
 Learn how to participate in a specific working group and make the change you wish.
 
 Extra: Internet Governance | Open Standard working groups | Supranational orgs?
-
-
-
-#### Bridge
-
-Where Civil Society meets the Tech Community and explore together their current and future needs in the technological realm.
-
