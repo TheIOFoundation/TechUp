@@ -1,10 +1,8 @@
 # ⚗ Labs
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | Status | Apply**
+**ShortURL | Playbook | Assistant | Tag: `TechUp Lab`**
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -13,21 +11,28 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+## About
 
-
-## :fire: Pending
-
-Consider a #Tag for this.
-
-
-
-### Labs under consideration
-
-Use Sleeplan or Gleap to ask for voting.
+TechUp Labs are organized support around a specific topic.
 
 
 
-The following is a list of Labs TechUp is considering:
+## Current Labs
+
+The current active Labs can be found
+
+* on the navigation menu on the left of this documentation
+* on the Booths area of the TechUp Space (#Tag: `TechUp Lab`)&#x20;
+
+
+
+
+
+## Labs under consideration
+
+The following is a list of Labs TechUp is considering or actively working to organize.
+
+\[Use Sleeplan or Gleap to ask for voting.]
 
 #### Automation
 
@@ -46,14 +51,6 @@ Learn the different licensing options for your project and productions.
 Extra: Creative Commons
 
 #### Consent Commons
-
-
-
-#### Accessibility
-
-
-
-Extra: OKThanks
 
 #### Funding
 
