@@ -17,6 +17,8 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Session type: Session
 
+1 hour length
+
 
 
 ## About

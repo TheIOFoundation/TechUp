@@ -1,10 +1,8 @@
 # 🧑🏫 LEARN
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+**ShortURL | Playbook | Assistant | #Tag `LEARN`**
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -13,9 +11,11 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+## About
 
+LEARN activities are designed to develop and reinforce knowledge among the TechUp Community.&#x20;
 
-1 hour length
+&#x20;
 
 Where do they happen?
 

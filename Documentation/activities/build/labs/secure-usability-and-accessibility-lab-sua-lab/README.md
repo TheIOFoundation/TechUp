@@ -30,7 +30,7 @@ The booth provides&#x20;
 
 ### Accessibility Coaching
 
-Guidance to help projects to improve their usability and accessibility capacity, helping them to understand secure usability and accessibility to better plan and develop their technology.
+Guidance to help projects to improve their accessibility capacity, helping them to understand secure usability and accessibility to better plan and develop their technology.
 
 ### Accessibility Consultation
 
