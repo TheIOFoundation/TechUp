@@ -1,7 +1,7 @@
 # ⚗ Labs
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | Tag: `TechUp Lab`**
+****[**ShortURL**](http://tiof.click/TULabs) **| Playbook | Assistant | Tag: `TechUp Lab`**
 {% endhint %}
 
 ## About
