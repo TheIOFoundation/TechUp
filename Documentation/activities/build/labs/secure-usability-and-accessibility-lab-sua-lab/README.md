@@ -1,11 +1,11 @@
 # Secure Usability & Accessibility
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TULABSUA) **| Playbook | Assistant | **<mark style="color:green;">**Status**</mark>** |** [**Apply**](https://tiof.click/TULABSUAApply)****
+****[**ShortURL**](https://tiof.click/TULABSUA) **| Playbook | Assistant | **<mark style="color:green;">**Status**</mark>** |** [**Apply**](http://tiof.click/TULABSUASubmission)****
 {% endhint %}
 
 {% hint style="success" %}
-****[**APPLY TO THIS LAB**](https://tiof.click/TULABSUAApply)****
+****[**APPLY TO THIS LAB**](http://tiof.click/TULABSUASubmission)****
 {% endhint %}
 
 ## About
@@ -57,7 +57,7 @@ If you are interested in getting support by this Lab, applying is very easy:
 * Lab Services start right after&#x20;
 
 {% hint style="success" %}
-****[**APPLY TO THIS LAB**](https://tiof.click/TULABSUAApply)****
+****[**APPLY TO THIS LAB**](http://tiof.click/TULABSUASubmission)****
 {% endhint %}
 
 ### Lifecycle
