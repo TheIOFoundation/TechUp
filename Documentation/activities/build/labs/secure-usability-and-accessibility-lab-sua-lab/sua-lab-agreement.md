@@ -40,7 +40,7 @@ All parties enter this Agreement with the intention of supporting the Beneficiar
 
 This Agreement will enter in effect immediately upon signature of all parties and the Services will be provided during The Period.
 
-This agreement can be made void by any of the parties with a prior notice of 2 months to be filed through the [Community Management Interface](https://tiof.click/TUTarianCommunityLifecycleManagement).
+This Agreement can be made void by any of the parties with a prior notice of 2 months to be filed through the [Community Management Interface](https://tiof.click/TUTarianCommunityLifecycleManagement).
 
 ## Requirements
 
@@ -49,7 +49,7 @@ To qualify as a Beneficiary, applicant must verify the following requirements (_
 * You are a registered TechUp Community member
 * You have a project (in any stage of completion) that could benefit from [The Services](https://tiof.click/TULABSUA#services)
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../../../space-management/orientation-sessions.md)
+* Attend at least 1 evaluation session (as part of the submission process)
 
 {% hint style="success" %}
 By signing this Agreement, The Beneficiary confirms to verify The Requirements.
@@ -91,15 +91,11 @@ By participating in this TechUp Lab, The IO Foundation will ensure that you will
   So that you can analyze how did your activities perform.
 
 {% hint style="success" %}
-By signing this Agreement, The Beneficiaty acknowledges The Benefits.
+By signing this Agreement, The Beneficiary acknowledges The Benefits.
 {% endhint %}
 
 {% hint style="success" %}
 By signing this Agreement, both the Implementer and TechUp commit to upholding The Benefits.
-{% endhint %}
-
-{% hint style="warning" %}
-By signing this Agreement, The Beneficiary also acknowledges that while the platform used by TechUp may deploy new features, these will may not be immediately available.
 {% endhint %}
 
 ## Commitments
