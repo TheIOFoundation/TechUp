@@ -77,7 +77,7 @@
   * [Capacity Building](activities/learn/capacity-building/README.md)
     * [⚙ 🚧 Session Lifecycle](activities/session-lifecycle.md)
   * [📄 Topics](activities/learn/topics.md)
-  * [Watch Parties](activities/learn/watch-parties.md)
+  * [🎥 Watch Parties](activities/learn/watch-parties.md)
 * [🏗 BUILD](activities/build/README.md)
   * [⚗ Labs](activities/build/labs/README.md)
     * [Secure Usability & Accessibility](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/README.md)
