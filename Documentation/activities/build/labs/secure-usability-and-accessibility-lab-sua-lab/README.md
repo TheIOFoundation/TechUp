@@ -30,20 +30,20 @@ The booth provides&#x20;
 
 ### Accessibility Coaching
 
-Guidance to help projects to improve their accessibility capacity, helping them to understand secure usability and accessibility to better plan and develop their technology.
+Guidance to help projects to improve their accessibility capacity, helping them to understand accessibility to better plan and develop their technology.
 
 ### Accessibility Consultation
 
-Consultations to help projects to increase their capacity to address the most difficult usability and accessibility problems they face in a secure and privacy-preserving manner. These consultation services include research, design and implementation.
+Consultations to help projects to increase their capacity to address the most difficult accessibility problems they face in a secure and privacy-preserving manner. These consultation services include research, design and implementation.
 
 ### Usability & Accessibility Audits
 
-Secure usability and/or accessibility audits to provide projects with inputs such as
+Accessibility audits to provide projects with inputs such as
 
-* assessment of the usability and/or accessibility of the project in relation to standards and best practices
+* assessment of the accessibility of the project in relation to standards and best practices
 * highlight problems that need to be fixed and suggest areas of improvement
 * analyze and identify any pitfalls that might make it difficult for users under threat to use your tool
-* help tools better understand the needs of their users and articulate them in the design of their tools.
+* help tools better understand the needs of their users and articulate them in the design of their tools
 
 ## Applying
 
