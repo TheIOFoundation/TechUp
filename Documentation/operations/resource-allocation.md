@@ -1,4 +1,4 @@
-# Resource Allocation
+# 💰 Resource Allocation
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

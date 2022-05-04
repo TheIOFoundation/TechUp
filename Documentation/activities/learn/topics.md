@@ -1,10 +1,4 @@
----
-description: >-
-  This document contains all you need to know about the topics for Capacity
-  Building sessions in TechUp.
----
-
-# Topics
+# 📄 Topics
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -18,6 +12,10 @@ description: >-
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
+
+## About
+
+This document contains all you need to know about the topics for Capacity Building sessions in TechUp.
 
 
 

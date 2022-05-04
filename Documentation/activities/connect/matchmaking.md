@@ -1,7 +1,7 @@
-# Matchmaking
+# 👁🗨 Matchmaking
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+**ShortURL | Playbook | Assistant | #Tag `CONNECT`**
 {% endhint %}
 
 
@@ -12,4 +12,6 @@
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
+
+## About
 
