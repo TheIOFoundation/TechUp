@@ -146,7 +146,7 @@ By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), te
 
 
 
-The DCDR initiative aims at encourage a shift in the current technology paradigms by providing
+The DCDR initiative aims at encouraging a shift in the current technology paradigms by providing
 
 * [DCDR Principles](https://tiof.click/DCDRPrinciples)
 * [Sagan Oath](https://tiof.click/DCDRSaganOath)
