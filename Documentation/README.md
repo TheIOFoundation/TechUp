@@ -175,7 +175,7 @@ While the DCDR initiative is designed in order to support TIOF's [mission](https
 
 ## Values
 
-The DCDR initiative adheres to the same [values](https://tiof.click/TIOFValues) as The IO Foundation to delivers its mission.
+The DCDR initiative adheres to the same [values](https://tiof.click/TIOFValues) as The IO Foundation to deliver its mission.
 
 ## **Activities**
 
