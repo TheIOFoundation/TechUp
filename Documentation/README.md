@@ -158,6 +158,16 @@ You can support The IO Foundation by
 * Partner with us
 {% endhint %}
 
+
+
+{% hint style="success" %}
+*
+{% endhint %}
+
+{% hint style="info" %}
+Check our [Partners and Collaborators](https://tiof.click/TIOFPartners).
+{% endhint %}
+
 ## About TechUp
 
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital.
