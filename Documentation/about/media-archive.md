@@ -1,10 +1,8 @@
-# Media Archive
+# 🗄 Media Archive
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
