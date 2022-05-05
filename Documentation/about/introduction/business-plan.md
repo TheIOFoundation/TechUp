@@ -1,5 +1,5 @@
 ---
-description: This page provides you will all the information about TechUp's Business Plan.
+description: Version 1.0 | This Business Plan was approved on DD MMMM YYYY.
 ---
 
 # 📊 Business Plan
