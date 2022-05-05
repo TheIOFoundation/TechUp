@@ -3,12 +3,12 @@
 ## About
 
 * [Introduction](README.md)
-  * [Theory of Change](about/introduction/theory-of-change.md)
-  * [Business Plan](about/introduction/business-plan.md)
-  * [Implementation](about/introduction/implementation.md)
-  * [Media Kit](about/introduction/media-kit.md)
-  * [Terminology](about/introduction/terminology.md)
-  * [Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
+  * [🔀 Theory of Change](about/introduction/theory-of-change.md)
+  * [📊 Business Plan](about/introduction/business-plan.md)
+  * [📈 Implementation](about/introduction/implementation.md)
+  * [🎨 Media Kit](about/introduction/media-kit.md)
+  * [🗃 Terminology](about/introduction/terminology.md)
+  * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [Seasons](about/seasons/README.md)
   * [Season 2018](about/seasons/season-2018.md)
   * [Season 2019](about/seasons/season-2019.md)
@@ -109,11 +109,11 @@
 
 ## Operations
 
-* [📓 Handbooks](operations/handbooks/README.md)
-  * [Comms](operations/handbooks/comms/README.md)
+* [📚 Handbooks](operations/handbooks/README.md)
+  * [📓 Comms](operations/handbooks/comms/README.md)
     * [Campaigns](operations/handbooks/comms/campaigns.md)
     * [Official Channels](operations/handbooks/comms/official-channels.md)
-  * [Tasks](operations/handbooks/tasks.md)
+  * [📓 Tasks](operations/handbooks/tasks.md)
   * [Eventbrite](operations/handbooks/eventbrite.md)
   * [Signaturely](operations/handbooks/signaturely.md)
   * [Airmeet](operations/handbooks/airmeet/README.md)
