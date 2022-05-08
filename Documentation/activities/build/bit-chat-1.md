@@ -1,4 +1,4 @@
-# 🗺 International Events
+# 🗣 BiT Chat
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

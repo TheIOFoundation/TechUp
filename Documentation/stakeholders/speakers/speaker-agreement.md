@@ -36,7 +36,7 @@ To qualify as a Speaker Partner, The Speaker must verify the following requireme
 * You are an individual that wishes to create positive impact in technology through sharing your knowledge and expertise with the TechUp Community
 * You are planning to run a number of TechUp activities [learn](../../activities/learn/ "mention") - [build](../../activities/build/ "mention") - [connect](../../activities/connect/ "mention")
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../../activities/learn/orientation-sessions.md)
+* Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
 * Provide the TechUp team with all the necessary on your side to run high quality activities
 
 {% hint style="success" %}

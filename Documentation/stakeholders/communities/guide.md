@@ -33,7 +33,7 @@ The following is a copy of the content of the Community Partner Agreement you wi
 
 
 
-Should you need to refresh some of the functionalities (or learn about the new ones), feel free to attend one of the scheduled [Orientation Sessions](../../activities/learn/orientation-sessions.md) or reach out to us.
+Should you need to refresh some of the functionalities (or learn about the new ones), feel free to attend one of the scheduled [Orientation Sessions](../../activities/space-management/orientation-sessions.md) or reach out to us.
 
 
 
