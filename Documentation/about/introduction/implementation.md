@@ -4,8 +4,6 @@
 ****[**ShortURL**](https://tiof.click/TURepo) **| Playbook | Assistant**
 {% endhint %}
 
-
-
 {% hint style="warning" %}
 **NOTICE**
 
@@ -13,9 +11,9 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-
-
 ## About
+
+This section provides an understanding of the infrastructure, tools and procedures that The IO Foundation uses to implement the TechUp initiative.
 
 In accordance to TIOF's [Transparency and Accountability policy](https://tiof.click/TIOFPolicyTA), TechUp uses a repository to manage its tasks, document the initiative and provide all assets related to it.
 
