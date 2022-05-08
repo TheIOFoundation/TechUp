@@ -48,7 +48,7 @@ To qualify as a FOSS Partner, The Project must verify the following requirements
   * does not charge contributors with a fee to collaborate in it\
     (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* Attend at least 1 [orientation session](../../activities/space-management/orientation-sessions.md)
+* Attend at least 1 [orientation session](../../activities/learn/orientation-sessions.md)
 * Provide the TechUp team with all the necessary on your side to run high quality activities
 
 {% hint style="danger" %}

@@ -2,10 +2,6 @@
 description: >-
   Welcome to the TechUp initiative. This Handbook will provide you with all the
   information you need to understand and participate in the TechUp Community.
-cover: >-
-  ../Identity/Channels/Airmeet/[TIOF TU] Comms [P] Airmeet Landing Page ENG
-  v1.1.jpg
-coverY: 0
 ---
 
 # Introduction
@@ -150,7 +146,7 @@ By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), te
 
 
 
-The DCDR initiative aims at encourage a shift in the current technology paradigms by providing
+The DCDR initiative aims at encouraging a shift in the current technology paradigms by providing
 
 * [DCDR Principles](https://tiof.click/DCDRPrinciples)
 * [Sagan Oath](https://tiof.click/DCDRSaganOath)
