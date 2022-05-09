@@ -21,9 +21,10 @@ Audience
 
 * Upcoming activties
 * Available Labs
+* Available FOSS Projects
 * CTAs
   * Invite people
-  * Propose topics
+  * Propose/vote topics
 
 Community
 
