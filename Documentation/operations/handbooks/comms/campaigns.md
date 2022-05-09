@@ -15,6 +15,32 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+## Newsletters
+
+Audience
+
+* Upcoming activties
+* Available Labs
+* CTAs
+  * Invite people
+  * Propose topics
+
+Community
+
+* New Features
+* Available Labs
+* CTAs
+  * Create your own activity
+  * Invite Community
+
+
+
+
+
+
+
+
+
 
 
 ## Campaign Types
@@ -32,6 +58,8 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 | \[TIOF TU] CFSPK  | Call for Speakers      |   |
 | \[TIOF TU] CFW    | Call for Wishes        |   |
 | \[TIOF TU] CFF    | Call for Feedback      |   |
+|                   |                        |   |
+| \[TIOF TU]        | Announcing Lab         |   |
 |                   |                        |   |
 |                   |                        |   |
 
