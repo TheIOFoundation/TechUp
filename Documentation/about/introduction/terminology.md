@@ -1,7 +1,7 @@
 # 🗃 Terminology
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUTerminology) **| Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)****
 {% endhint %}
 
 

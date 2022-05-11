@@ -5,7 +5,7 @@ description: Version 1.0 | This Media Kit was approved on 15 January 2022.
 # 🎨 Media Kit
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUMediaKit) **| Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)****
 {% endhint %}
 
 ## Introduction
