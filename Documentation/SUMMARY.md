@@ -101,7 +101,7 @@
 * [🤝 CONNECT](activities/connect/README.md)
   * [🗺 International Events](activities/connect/bit-chat/README.md)
     * [::Assembly](activities/connect/bit-chat/assembly.md)
-  * [👁🗨 Matchmaking](activities/connect/matchmaking.md)
+  * [👁🗨 Networking](activities/connect/matchmaking.md)
   * [🎙 Podcasts](activities/tiof/podcasts.md)
   * [🍹 Community Caffe](activities/tiof/community-caffe.md)
   * [📣 Show & Tell](activities/connect/show-and-tell.md)

@@ -15,3 +15,30 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
+
+
+
+
+
+
+## Operations
+
+Airmeet
+
+Come join our monthly deep dive into Business and Human Rights in the Tech sector.
+
+
+
+
+
+G CAl
+
+Come join our monthly deep dive into Business and Human Rights in the Tech sector.\
+\
+RSVP now!\
+[https://TIOF.Click/EventsRSVP](https://tiof.click/EventsRSVP)
+
+
+
+
+
