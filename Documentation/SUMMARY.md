@@ -73,6 +73,7 @@
 
 ## Activities
 
+* [🔸 Summary](activities/summary.md)
 * [🧑🏫 LEARN](activities/learn/README.md)
   * [🧱 Capacity Building](activities/learn/capacity-building/README.md)
     * [📄 Topics](activities/learn/topics.md)
