@@ -1,7 +1,7 @@
 # 📄 Topics
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUCBTopics) **| Playbook | Assistant**
 {% endhint %}
 
 
