@@ -80,6 +80,7 @@
     * [⚙ 🚧 Session Lifecycle](activities/session-lifecycle.md)
   * [🎥 Watch Parties](activities/learn/watch-parties.md)
   * [🔶 Orientation Sessions](activities/space-management/orientation-sessions.md)
+  * [🔶 TIOF Training](activities/learn/orientation-sessions-1.md)
 * [🏗 BUILD](activities/build/README.md)
   * [⚗ Labs](activities/build/labs/README.md)
     * [Secure Usability & Accessibility](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/README.md)
