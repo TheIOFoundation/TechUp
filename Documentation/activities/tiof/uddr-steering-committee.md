@@ -1,7 +1,7 @@
 # 📑 UDDR Steering Committee
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUUDDRSC) **| Playbook | Assistant**
 {% endhint %}
 
 

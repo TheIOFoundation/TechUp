@@ -1,7 +1,7 @@
 # 🗣 BiT Chat
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUBitChat) **| Playbook | Assistant**
 {% endhint %}
 
 

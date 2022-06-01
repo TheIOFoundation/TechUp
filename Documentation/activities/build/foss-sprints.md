@@ -1,7 +1,7 @@
 # 🏃 FOSS Sprints
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | #Tag `SPRINT`**
+****[**ShortURL**](https://tiof.click/TUFS) **| Playbook | Assistant | #Tag `SPRINT`**
 {% endhint %}
 
 

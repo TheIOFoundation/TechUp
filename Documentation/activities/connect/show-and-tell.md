@@ -1,7 +1,7 @@
 # 📣 Show & Tell
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | #Tag `CONNECT`**
+****[**ShortURL**](https://tiof.click/TUSaT) **| Playbook | Assistant | #Tag `CONNECT`**
 {% endhint %}
 
 

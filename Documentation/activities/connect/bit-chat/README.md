@@ -1,7 +1,7 @@
 # 🗺 International Events
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TUIE) **| Playbook | Assistant**
 {% endhint %}
 
 
