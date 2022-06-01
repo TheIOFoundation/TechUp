@@ -56,3 +56,13 @@ You can access the TechUp Space any time you want here.
 
 
 
+## Can I bring my own exhibitors?
+
+At the time of writing, we do not have a clear position on this topic.
+
+The practical status is that as a TechUp Community Partner you can bring your own exhibitors and we will charge a small % on the price of the bundle you sold them. Any money will go to run TechUp.
+
+
+
+
+

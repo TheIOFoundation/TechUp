@@ -68,7 +68,7 @@ TIOF is looking into new ways to unify business, technology and Human Rights obj
   * Data engineers
   * Data architects
 * Government officials overseeing advancement of technology
-* Government institutions i.e. [Malaysian Digital Economy Corporation (MDEC)](https://mdec.my), [Malaysian Global Innovation and Creativity Center (MaGIC)](https://www.mymagic.my), [Malaysian Communications and Multimedia Commission (MCMC)](https://www.mcmc.gov.my/en/home), [National Human Rights Commission (SUHAKAM)](https://suhakam.org.my), [Ministry of Foreign Affairs (Wisma Putra)](https://www.kln.gov.my), Khazanah Research Institute, etc.
+* Government institutions i.e. [Malaysian Digital Economy Corporation (MDEC)](https://mdec.my/), [Malaysian Global Innovation and Creativity Center (MaGIC)](https://www.mymagic.my/), [Malaysian Communications and Multimedia Commission (MCMC)](https://www.mcmc.gov.my/en/home), [National Human Rights Commission (SUHAKAM)](https://suhakam.org.my/), [Ministry of Foreign Affairs (Wisma Putra)](https://www.kln.gov.my/), Khazanah Research Institute, etc.
 * Foreign missions, embassies, institutions in Malaysia
 * International institutions, government agencies, think tanks, civil society organizations
 

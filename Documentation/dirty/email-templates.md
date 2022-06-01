@@ -274,7 +274,7 @@ Date: 17th July, 2021
 
 Time: 01:00 (UTC +0)
 
-Location: Online ([Airmeet](https://airmeet.com))
+Location: Online ([Airmeet](https://airmeet.com/))
 
 Register
 

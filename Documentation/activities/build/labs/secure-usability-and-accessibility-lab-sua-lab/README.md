@@ -74,10 +74,10 @@ To help the advancement of all communities and the accumulation of practical kno
 
 This Lab is made possible by partnering with the following organizations and individuals:
 
-[Accessibility Lab](http://www.a11ylab.com)
+[Accessibility Lab](http://www.a11ylab.com/)
 
 ### Funding
 
 This Lab is made possible with the funding and support of:
 
-[Open Technology Fund](https://www.opentech.fund)
+[Open Technology Fund](https://www.opentech.fund/)
