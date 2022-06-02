@@ -4,8 +4,6 @@
 ****[**ShortURL**](https://tiof.click/TUTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)****
 {% endhint %}
 
-
-
 {% hint style="warning" %}
 **NOTICE**
 
@@ -25,7 +23,7 @@ A number of terms in this Terminology have a slide ready for presentations.
 Please check the corresponding [Slides Repository](https://tiof.click/TUSlidesRepo) and remember to follow the Presentations guidelines when using them.
 {% endhint %}
 
-##
+### Active member
 
 ### Publicly accessible activity
 
@@ -40,6 +38,4 @@ In certain circumstances, access restrictions may be requested by the organizer 
 The TechUp team will evaluate such requests on a case by case basis.
 
 
-
-### Active member
 
