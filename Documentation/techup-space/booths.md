@@ -1,4 +1,4 @@
-# Booths
+# 🚧 Booths
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

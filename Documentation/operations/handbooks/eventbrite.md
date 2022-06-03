@@ -1,4 +1,4 @@
-# Eventbrite
+# 📓 Eventbrite
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
