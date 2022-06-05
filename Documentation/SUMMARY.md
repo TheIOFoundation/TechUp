@@ -128,8 +128,3 @@
     * [📓 Session Types](operations/handbooks/airmeet/session-types.md)
 * [🚧 Products](operations/products.md)
 * [💰 Resource Allocation](operations/resource-allocation.md)
-
-## ⛔ WIP - IGNORE
-
-* [Temp Text](wip-ignore/temp-text.md)
-* [Email Templates](wip-ignore/email-templates.md)
