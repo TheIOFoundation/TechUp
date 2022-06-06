@@ -1,4 +1,4 @@
-# Learn X
+# 🚧 Learn X
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | **<mark style="color:orange;">**Status**</mark>** | Apply**
@@ -9,6 +9,10 @@
 {% endhint %}
 
 ## About
+
+
+
+{% embed url="https://www.canva.com/design/DAFBfQ9PKi8/mcKgOk5OkPZliNJtZuvPqg/view?utm_campaign=designshare&utm_content=DAFBfQ9PKi8&utm_medium=link&utm_source=publishpresent#9" %}
 
 ## Partners
 
