@@ -37,36 +37,28 @@ See General Structure in TIOF's Handbook.
 You can always opt-out from any of these lists here:
 {% endhint %}
 
-### TechUp
+### \[TIOF TU] TechUp Community
 
 General newsletter for all things TechUp.
 
 All TechUp ticket holders are in this newsletter (unless opted-out through any of the different "acquisition channels").
 
-Intended Audience:
+| List | Intended Audience                           | Topics covered                                                                                     |
+| ---- | ------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+|      | <p></p><ul><li>Everyone on TechUp</li></ul> | <ul><li>Upcoming activities</li></ul><ul><li>Newly joined Partners</li></ul><ul><li>CTAs</li></ul> |
 
-* Everyone on TechUp
-
-Topics covered:
-
-* Upcoming activities
-* Newly joined Partners
-* CTAs
+### \[TIOF TU] TechUp Community Partners
 
 
 
-### Community Partners
+| Audience                              | Intended Audience                                                                                                                                                                        | Topics Covered                                                                                                                                                    |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h4>Community Partners (Active)</h4>  | <ul><li>Speakers (Active)</li></ul><ul><li>FOSS Partners (Active)</li></ul><ul><li>Organization Partners (Active)</li></ul><ul><li>Tech Community Partners (Active)</li></ul>            | <ul><li>Updates on upcoming features</li></ul><ul><li>Updates on upcoming onboarding sessions</li></ul><ul><li><p>CTAs</p><ul><li>CSR actions</li></ul></li></ul> |
+| <h4>Community Partners (Pending)</h4> | <p></p><ul><li>Tech Community Partners (Pending)</li></ul><ul><li>Organization Partners (Pending)</li></ul><ul><li>FOSS Partners (Pending)</li></ul><ul><li>Speakers (Pending)</li></ul> | <ul><li>Value propositions to join TechUp</li></ul><ul><li>CTAs</li></ul>                                                                                         |
 
 
 
-| Audience                              | Intended Audience                                                                                                                                                                        | Topics Covered                                                                                                                                                           |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <h4>Community Partners (Active)</h4>  | <ul><li>Speakers (Active)</li></ul><ul><li>FOSS Partners (Active)</li></ul><ul><li>Organization Partners (Active)</li></ul><ul><li>Tech Community Partners (Active)</li></ul>            | <p></p><ul><li>Updates on upcoming features</li></ul><ul><li>Updates on upcoming onboarding sessions</li></ul><ul><li><p>CTAs</p><ul><li>CSR actions</li></ul></li></ul> |
-| <h4>Community Partners (Pending)</h4> | <p></p><ul><li>Tech Community Partners (Pending)</li></ul><ul><li>Organization Partners (Pending)</li></ul><ul><li>FOSS Partners (Pending)</li></ul><ul><li>Speakers (Pending)</li></ul> | <p></p><ul><li>Value propositions to join TechUp</li></ul><ul><li>CTAs</li></ul>                                                                                         |
-
-
-
-### Sponsors
+### \[TIOF TU] Sponsors
 
 | Audience                    | Intended Audience  | Topics Covered           |
 | --------------------------- | ------------------ | ------------------------ |
@@ -77,13 +69,19 @@ Topics covered:
 
 
 
-### Media
+### \[TIOF TU] Media
+
+###
+
+| List      | Intended Audience | Topics Covered |
+| --------- | ----------------- | -------------- |
+| <h4></h4> | Media (Active)    | Press Releases |
+
+####
 
 
 
-
-
-### Donors
+### ~~Donors~~
 
 {% hint style="info" %}
 See the Donors List on TIOF.
@@ -91,30 +89,10 @@ See the Donors List on TIOF.
 
 
 
-
-
-
-
 {% hint style="info" %}
 See corresponding Lists for each Initiative in their own in Handbook.\
 TIOF - DCDR - BHR in Tech - CrowdShape - Project Lockdown - UDDR&#x20;
 {% endhint %}
-
-
-
-
-
-
-
-
-
-## Audiences
-
-### Media World
-
-
-
-###
 
 
 
@@ -131,12 +109,6 @@ TIOF - DCDR - BHR in Tech - CrowdShape - Project Lockdown - UDDR&#x20;
 {% hint style="info" %}
 See the Basic Structure in TIOF's Handbook.
 {% endhint %}
-
-
-
-
-
-
 
 
 
