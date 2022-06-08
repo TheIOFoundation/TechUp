@@ -1,7 +1,5 @@
 # 🚧 Email Campaigns
 
-
-
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
@@ -25,15 +23,9 @@ This handbook provides you with the necessary information to prepare and run an 
 
 ## General Structure
 
-
-
-{% embed url="https://cawemo.com/share/bd69d659-d93c-42bf-9bd0-521566693add" %}
-Diagram on how the EDM platform connects to the CRM
-{% endembed %}
-
-
-
-
+{% hint style="info" %}
+See General Structure in TIOF's Handbook.
+{% endhint %}
 
 
 
@@ -55,7 +47,7 @@ Diagram on how the EDM platform connects to the CRM
 
 {% hint style="info" %}
 See corresponding Lists for each Initiative in their own in Handbook.\
-DCDR - BHR in Tech - CrowdShape - Project Lockdown - TechUp - UDDR&#x20;
+TIOF - DCDR - BHR in Tech - CrowdShape - Project Lockdown - UDDR&#x20;
 {% endhint %}
 
 
