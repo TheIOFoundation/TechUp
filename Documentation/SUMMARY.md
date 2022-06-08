@@ -119,8 +119,9 @@
 
 * [📚 Handbooks](operations/handbooks/README.md)
   * [📓 Comms](operations/handbooks/comms/README.md)
-    * [Campaigns](operations/handbooks/comms/campaigns.md)
-    * [Official Channels](operations/handbooks/comms/official-channels.md)
+    * [🚧 Campaigns](operations/handbooks/comms/campaigns.md)
+    * [🚧 Email Campaigns](operations/handbooks/comms/campaigns-1.md)
+    * [🚧 Official Channels](operations/handbooks/comms/official-channels.md)
   * [📓 Tasks](operations/handbooks/tasks.md)
   * [📓 Eventbrite](operations/handbooks/eventbrite.md)
   * [📓 Signaturely](operations/handbooks/signaturely.md)
