@@ -126,6 +126,7 @@
   * [📓 Eventbrite](operations/handbooks/eventbrite.md)
   * [📓 Signaturely](operations/handbooks/signaturely.md)
   * [📓 Airmeet](operations/handbooks/airmeet/README.md)
-    * [📓 Session Types](operations/handbooks/airmeet/session-types.md)
+    * [📓 Copy of Session Types](operations/handbooks/airmeet/session-types.md)
+    * [📓 Team accounts](operations/handbooks/airmeet/session-types-1.md)
 * [🚧 Products](operations/products.md)
 * [💰 Resource Allocation](operations/resource-allocation.md)

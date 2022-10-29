@@ -1,4 +1,4 @@
-# 📓 Session Types
+# 📓 Copy of Session Types
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
