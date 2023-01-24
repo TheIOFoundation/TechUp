@@ -1,4 +1,4 @@
-# 🚧 NextGen Rights Defender
+# 🚧 Automation
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | **<mark style="color:orange;">**Status**</mark>** | Apply**
@@ -10,5 +10,5 @@
 
 ## About
 
-
+This Lab will allow to analyze processes in a Community or Organization&#x20;
 
