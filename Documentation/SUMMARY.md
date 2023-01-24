@@ -135,4 +135,5 @@
     * [📓 Copy of Session Types](operations/handbooks/airmeet/session-types.md)
     * [📓 Team accounts](operations/handbooks/airmeet/session-types-1.md)
 * [🚧 Products](operations/products.md)
-* [💰 Resource Allocation](operations/resource-allocation.md)
+* [💰 Resource Allocation](operations/resource-allocation/README.md)
+  * [🤝 Private Instance Agreement](operations/resource-allocation/agreement.md)
