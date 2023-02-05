@@ -137,3 +137,4 @@
 * [🚧 Products](operations/products.md)
 * [💰 Resource Allocation](operations/resource-allocation/README.md)
   * [🤝 Private Instance Agreement](operations/resource-allocation/agreement.md)
+  * [🤝 Memorandum of Understanding](operations/resource-allocation/agreement-1.md)
