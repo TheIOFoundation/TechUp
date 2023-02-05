@@ -48,21 +48,19 @@ The Parties agree on the following relevant dates:
 | <p>For The IO Foundation<br><code>TIOF Representative Name</code><br><code>TIOF Representative Title</code><br><code>TIOF Representative Signature</code></p>                                        |                                  |
 | <p>Signed on the </p><p><code>Signature Date</code>                                     <em></em>   </p>                                                                                             | _hereinafter_ The Signature Date |
 
-
-
-This non-binding MoU will enter in effect immediately from _Start Date_, by and between:
+This non-binding MoU will enter in effect immediately from _Signature Date_, by and between:
 
 _The Partner_, a company duly incorporated in _The Partner's Country_ with registration number _The Partner's Registration_ and having its registered address at _The Partner's Address_,&#x20;
 
 &#x20;and
 
-_TIOF_, a non-profit duly incorporated in _TIOF's Country_ with registration number TIOF_'s Registration_ and having its registered address at _TIOF's Address._
+_The IO Foundation_, a non-profit duly incorporated in _TIOF's Country_ with registration number _TIOF's Registration_ and having its registered address at TIOF's Address_._
 
-The Parties enter voluntarily this MoU with the intention of achieving the Purposes.
+The _Parties_ enter voluntarily this MoU with the intention of achieving the _Purposes_.
 
-## Terms of the MoU
+## 1. Terms of the MoU
 
-The Parties wish to collaborate for the purposes of knowledge sharing, potential development of educational programs, explore opportunities for joint activities and training, and increasing exposure to the expertise each party brings in the areas of Communications and Multimedia Industry (CMI) development as described in The Purposes.
+The _Parties_ wish to collaborate for the purposes of knowledge sharing, potential development of educational programs, explore opportunities for joint activities and training, and increasing exposure to the expertise each party brings in the areas of Communications and Multimedia Industry (CMI) development as described in The Purposes.
 
 ## Roles and Responsibilities
 
