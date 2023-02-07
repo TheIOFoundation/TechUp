@@ -35,6 +35,12 @@ This documentation repository follows [The IO Foundation's documentation guideli
 
 ## The Initiative
 
+TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
+
+Through its activities, TechUp strives to bring together the tech community to become the agents of change that digital societies need right now.
+
+
+
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital.
 
 > _**Programmers are the next generation of Rights defenders.**_
