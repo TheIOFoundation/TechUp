@@ -136,5 +136,6 @@
     * [📓 Team accounts](operations/handbooks/airmeet/session-types-1.md)
 * [🚧 Products](operations/products.md)
 * [💰 Resource Allocation](operations/resource-allocation.md)
-  * [🤝 Private Instance Agreement](operations/resource-allocation/agreement.md)
-  * [🤝 Memorandum of Understanding](operations/resource-allocation/agreement-1.md)
+  * [🤝 Template - Private Instance Agreement](operations/resource-allocation/agreement.md)
+  * [🤝 Private Instance Agreement](operations/resource-allocation/agreement-1.md)
+  * [🤝 Memorandum of Understanding](operations/resource-allocation/agreement-2.md)
