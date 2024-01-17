@@ -7,7 +7,7 @@ description: >-
 # Introduction
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -53,7 +53,7 @@ Join us in our TechUp Community to make your personal impact in technology.
 
 > _**In what world do you want to code?**_
 
-_****_
+
 
 **In what world do you want to code?**
 
@@ -91,7 +91,7 @@ Devs need to get involved
 
 
 
-****
+
 
 
 
@@ -181,7 +181,7 @@ The DCDR initiative adheres to the same [values](https://tiof.click/TIOFValues) 
 
 ## **Activities**
 
-****
+
 
 ## **TechUp Library**
 
