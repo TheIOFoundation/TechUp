@@ -59,6 +59,7 @@ The following are a list of events of interest for the TechUp community.
   * Community Meetings
   * Policy Meetings
   * AGM Meetings
+  * ICANN Symposium
 * IETF
   * Meetings
 * NGOs
@@ -95,8 +96,12 @@ The following are a list of events of interest for the TechUp community.
   * WSIS
   * WSIS+20
 * Global Digital Compact
-
-
+* RIRs
+  * RIPE
+  * AFRINIC
+  * ARIN
+  * LACNIC
+  * NRO
 
 
 
