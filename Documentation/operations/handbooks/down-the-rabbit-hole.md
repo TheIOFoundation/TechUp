@@ -140,11 +140,13 @@ Reach out to us if you think we can do better or if you think we should be takin
 {% endtab %}
 
 {% tab title="Software" %}
-* Brave Browser
-* BASAAS
-* Afforai
-* Raindrop.io
-* Notch.so
+* [Brave Browser](https://brave.com/)
+* [BASAAS](https://www.basaas.com/)
+* [Afforai](https://afforai.com/)
+* [Raindrop.io](https://raindrop.io/)
+  * [Browser extension](https://raindrop.io/download)
+* [Notch.so](https://www.notch.so/)
+* [Airmeet](https://www.airmeet.com/)
 *
 {% endtab %}
 {% endtabs %}
