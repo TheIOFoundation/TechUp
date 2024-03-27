@@ -1,5 +1,7 @@
 # Down the Rabbit Hole
 
+## About
+
 
 
 
@@ -60,7 +62,7 @@ Reach out to us if you think we can do better or if you think we should be takin
 {% tab title="Production" %}
 ## CPU
 
-* [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
+* [ThinkCentre M720 Tiny](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m720q/11tc1mtm72q)
   * Windows 11
 * [512GB NVMe 2242 M-Key MakerDisk SSD](https://my.cytron.io/p-nvme-2242-b-plus-m-key-makerdisk-ssd-512gb-preloaded-with-rpi-os)
 
@@ -138,7 +140,12 @@ Reach out to us if you think we can do better or if you think we should be takin
 {% endtab %}
 
 {% tab title="Software" %}
-
+* Brave Browser
+* BASAAS
+* Afforai
+* Raindrop.io
+* Notch.so
+*
 {% endtab %}
 {% endtabs %}
 
