@@ -4,57 +4,88 @@
 
 ## Gear
 
-### Networking
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 
 {% tabs %}
-{% tab title="Stations" %}
-### Research
+{% tab title="Research" %}
+### CPU
 
-* CPU
 * Raspberry Pi 5
   * Ubuntu&#x20;
 * Geekworm HAT
 * SSD
 * Active cooler
 * Geekworm casing
-* Monitors
-  * Touch screen
-  * Acer
-* HID
-  * Logitech
-* A & V
 
-### Production
+### Monitors
 
+* Touch screen
+* Acer
 
+### HID
 
-### Monitoring
+* Logitech
+
+### Audio
+
+* Mic
+* Arm
+* Cabling
+  * USB
+  * XLR
+
+### Video
+
+* OBSBot
+* Extension
+
+### Cabling
 {% endtab %}
 
-{% tab title="Audio" %}
-### Microphones
+{% tab title="Production" %}
+## CPU
 
-* xxx
+* Raspberry Pi 5
+  * Ubuntu&#x20;
+* Geekworm HAT
+* SSD
+* Active cooler
+* Geekworm casing
 
-### Stand
+### Monitors
 
-* XXX
+* Touch screen
+* Acer
+
+### HID
+
+* Logitech
+
+### Audio
+
+* Mic
+* Arm
+* Cabling
+  * USB
+  * XLR
+
+### V
+
+* OBSBot
+* Extension
 
 ### Cabling
 
-* USB
-* XLR
-{% endtab %}
-
-{% tab title="Video" %}
 ### Cameras
 
 * OBSBot Tiny 2?
 * Xiaomi Redmi 13C
+{% endtab %}
+
+{% tab title="Monitors" %}
+
 {% endtab %}
 
 {% tab title="Networking" %}
@@ -63,15 +94,7 @@
 
 {% endtab %}
 
-{% tab title="Research Stations" %}
-
-{% endtab %}
-
-{% tab title="Production" %}
-
-{% endtab %}
-
-{% tab title="Monitors" %}
+{% tab title="Software" %}
 
 {% endtab %}
 {% endtabs %}
@@ -88,13 +111,7 @@
 
 
 
-<details>
 
-<summary></summary>
-
-
-
-</details>
 
 
 
