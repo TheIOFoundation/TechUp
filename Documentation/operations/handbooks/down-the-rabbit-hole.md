@@ -64,6 +64,8 @@ Reach out to us if you think we can do better or if you think we should be takin
 
 * [ThinkCentre M720 Tiny](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m720q/11tc1mtm72q)
   * Windows 11
+  * [OBS Studio](https://obsproject.com/)
+    * [DroidCam OBS plugin](https://www.dev47apps.com/obs/)
 * [512GB NVMe 2242 M-Key MakerDisk SSD](https://my.cytron.io/p-nvme-2242-b-plus-m-key-makerdisk-ssd-512gb-preloaded-with-rpi-os)
 
 ### Monitors
@@ -91,6 +93,7 @@ Reach out to us if you think we can do better or if you think we should be takin
 ### Video
 
 * [Xiaomi Redmi 13C](https://www.mi.com/global/product/redmi-13c/)
+  * [DroidCan OBS app](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam)
 * [Ulanzi BG-2 PowerBank Handgrip](https://www.ulanzi.com/collections/handgrips/products/bg-3-power-handgrip-2066) (Link to model BG-3)
 * [Ulanzi ST-06S Multi-Function Cold Shoe Phone Holder 2575](https://www.ulanzi.com/products/ulanzi-st-06s-multi-function-phone-holder)
 * Generic tripod
@@ -147,6 +150,8 @@ Reach out to us if you think we can do better or if you think we should be takin
   * [Browser extension](https://raindrop.io/download)
 * [Notch.so](https://www.notch.so/)
 * [Airmeet](https://www.airmeet.com/)
+* [OBS Studio](https://obsproject.com/)
+  * [DroidCam OBS plugin](https://www.dev47apps.com/obs/)
 *
 {% endtab %}
 {% endtabs %}
