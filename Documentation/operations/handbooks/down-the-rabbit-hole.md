@@ -152,7 +152,7 @@ Reach out to us if you think we can do better or if you think we should be takin
 * [Airmeet](https://www.airmeet.com/)
 * [OBS Studio](https://obsproject.com/)
   * [DroidCam OBS plugin](https://www.dev47apps.com/obs/)
-* [Dynapictures](https://dynapictures.com/)
+* Image generation powered by [Dynapictures](https://dynapictures.com/)
 {% endtab %}
 {% endtabs %}
 
