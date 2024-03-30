@@ -6,6 +6,22 @@
 
 
 
+## Schedule
+
+See \[TIOF TU] TechUpCast for the actual set calendar.
+
+
+
+Current proposal
+
+* Days: 2nd + 4th Saturday of the month
+* Time: 17:00 UTC+8 (09:00 UTC)
+*
+
+
+
+
+
 {% hint style="info" %}
 Reach out to us if you think we can do better or if you think we should be taking care of some security consideration.
 {% endhint %}
@@ -153,6 +169,20 @@ Reach out to us if you think we can do better or if you think we should be takin
 * [OBS Studio](https://obsproject.com/)
   * [DroidCam OBS plugin](https://www.dev47apps.com/obs/)
 * Image generation powered by [Dynapictures](https://dynapictures.com/)
+{% endtab %}
+
+{% tab title="TBC" %}
+This tab contains a non-exhaustive list of gear we are looking into.
+
+* Table hooks to hold cables (like the handbag hooks)
+* Better tripods
+* Clamps for ceiling (opening at least 10cm) to replace tripods
+* Longer cables for power supply 2m C to C
+* USB A to B 3m for UPS
+* Chairs
+* Encrypted wireless keyboard & mice
+* YoubiKey
+* Shiftphone
 {% endtab %}
 {% endtabs %}
 
