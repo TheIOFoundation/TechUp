@@ -15,7 +15,15 @@ See \[TIOF TU] TechUpCast for the actual set calendar.
 Current proposal
 
 * Days: 2nd + 4th Saturday of the month
-* Time: 17:00 UTC+8 (09:00 UTC)
+* Time: 17:00 UTC+8 (09:00 UTC)\
+
+  * Considerations
+    * Which geography is covered?
+    * Summer / Winter time time shift
+      * Winter time: [https://www.worldtimebuddy.com/?pl=1\&lid=1735161,1261481,2988507,2643743,5128581,5368361\&h=2643743\&date=3/29/2024%7C1\&hf=1](https://www.worldtimebuddy.com/?pl=1\&lid=1735161,1261481,2988507,2643743,5128581,5368361\&h=2643743\&date=3/29/2024%7C1\&hf=1)
+      * Summer time: [https://www.worldtimebuddy.com/?pl=1\&lid=1735161,1261481,2988507,2643743,5128581,5368361\&h=2643743\&date=3/31/2024%7C3\&hf=1](https://www.worldtimebuddy.com/?pl=1\&lid=1735161,1261481,2988507,2643743,5128581,5368361\&h=2643743\&date=3/31/2024%7C3\&hf=1)
+  * SIMULATION: Alternatively, to cover the US, we should start at 00:00 UTC+8\
+    (See same links above.)
 *
 
 
