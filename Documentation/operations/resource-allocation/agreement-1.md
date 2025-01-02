@@ -4,7 +4,7 @@ description: Version 1.4
 
 # 🤝 Private Instance Agreement
 
-![](<../../../Identity/Document templates/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
+<div align="center"><img src="../../../Identity/Document templates/[TIOF TU] Comms [I] Document Header ENG v1.0.png" alt=""></div>
 
 ## 1. About this Agreement
 
@@ -12,15 +12,11 @@ description: Version 1.4
 
 This agreement, _hereinafter_ The Agreement, is to be subscribed between
 
-| The IO Foundation as the host of the TechUp initiative,               | _hereinafter_ TechUp       |
-| --------------------------------------------------------------------- | -------------------------- |
-| <p>with official email </p><p>Contact@TheIOFoundation.org</p>         | _hereinafter_ TechUp Email |
+<table data-header-hidden><thead><tr><th width="479"></th><th></th></tr></thead><tbody><tr><td>The IO Foundation as the host of the TechUp initiative,              </td><td><em>hereinafter</em> TechUp</td></tr><tr><td><p>with official email </p><p>Contact@TheIOFoundation.org</p></td><td><em>hereinafter</em> TechUp Email</td></tr></tbody></table>
 
 &#x20;**and**
 
-| `Customer`                                                                                  | _hereinafter_ The Customer   |
-| ------------------------------------------------------------------------------------------- | ---------------------------- |
-| <p>with official email </p><p><code>Customer Email</code>                              </p> | _hereinafter_ Customer Email |
+<table data-header-hidden><thead><tr><th width="479"></th><th></th></tr></thead><tbody><tr><td><code>Customer</code>                                    </td><td><em>hereinafter</em> The Customer</td></tr><tr><td><p>with official email </p><p><code>Customer Email</code>                              </p></td><td><em>hereinafter</em> Customer Email</td></tr></tbody></table>
 
 _hereinafter_ collectively called The Parties
 
@@ -28,49 +24,27 @@ _hereinafter_ collectively called The Parties
 
 The Parties agree to the following relevant information:
 
-| <p>Use of the Airmeet platform</p><p>Coding Bootcamp by the Customer</p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                                  <em></em>                      </p>                                                                                                                                     | _hereinafter_ The Use              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| <p>Activities<br>Programming classes, mentorships</p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p> | _hereinafter_ The Activities       |
-| <p>Content duration</p><p>1 hour / day</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | _hereinafter_ The Content Duration |
-| <p>Audience </p><p>100-120 PAX</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | _hereinafter_ The Audience         |
-| <p>Speakers </p><p>20 PAX</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | _hereinafter_ The Speakers         |
+<table data-header-hidden><thead><tr><th width="480"></th><th></th></tr></thead><tbody><tr><td><p>Use of the Airmeet platform</p><p>Coding Bootcamp by the Customer</p><p>                                                       </p><p>                                                       </p><p>                                                                  </p></td><td><em>hereinafter</em> The Use</td></tr><tr><td><p>Activities<br>Programming classes, mentorships</p><p>                                                       <br>                                                       <br>                                            <br>                                            <br>                                            </p></td><td><em>hereinafter</em> The Activities</td></tr><tr><td><p>Content duration</p><p>1 hour / day</p></td><td><em>hereinafter</em> The Content Duration</td></tr><tr><td><p>Audience </p><p>100-120 PAX</p></td><td><em>hereinafter</em> The Audience</td></tr><tr><td><p>Speakers </p><p>20 PAX</p></td><td><em>hereinafter</em> The Speakers</td></tr></tbody></table>
 
 ### 1.3 Execution dates
 
 The Parties agree on the following relevant dates:
 
-| <p>Configuration Info Template Submission </p><p><code>CITS Date</code>                                       <em></em>    </p>                                      | _hereinafter_ The CITS Date    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| <p>Configuration Info Client Submission</p><p><code>CICS Date</code>                                                           <em></em>                        </p> | _hereinafter_ The CICS Date    |
-| <p>Platform Setup Deadline </p><p><code>PSD Date</code>                                       <em></em>   </p>                                                       | _hereinafter_ The PSD Date     |
-| <p>Training Session </p><p><code>TS Date</code>                                      <em></em> </p>                                                                  | _hereinafter_ The TS Date      |
-| <p>Payment </p><p><code>Payment Date</code>                                    <em></em>    </p>                                                                     | _hereinafter_ The Payment Date |
-| <p>Start of Event </p><p><code>SOE Date</code>                                       <em></em>   </p>                                                                | _hereinafter_ The SoE Date     |
-| <p>End of Event </p><p><code>EOE Date</code>                                       <em></em>   </p>                                                                  | _hereinafter_ The EoE Date     |
-| <p>Event Accessible Until </p><p><code>EAU Date</code>                                        <em></em>    </p>                                                      | _hereinafter_ The EAU Date     |
+<table data-header-hidden><thead><tr><th width="481"></th><th></th></tr></thead><tbody><tr><td><p>Configuration Info Template Submission </p><p><code>CITS Date</code>                                       </p></td><td><em>hereinafter</em> The CITS Date</td></tr><tr><td><p>Configuration Info Client Submission</p><p><code>CICS Date</code>                                                           </p></td><td><em>hereinafter</em> The CICS Date</td></tr><tr><td><p>Platform Setup Deadline </p><p><code>PSD Date</code>                                       </p></td><td><em>hereinafter</em> The PSD Date</td></tr><tr><td><p>Training Session </p><p><code>TS Date</code>                                      </p></td><td><em>hereinafter</em> The TS Date</td></tr><tr><td><p>Payment </p><p><code>Payment Date</code>                                    </p></td><td><em>hereinafter</em> The Payment Date</td></tr><tr><td><p>Start of Event </p><p><code>SOE Date</code>                                       </p></td><td><em>hereinafter</em> The SoE Date</td></tr><tr><td><p>End of Event </p><p><code>EOE Date</code>                                       </p></td><td><em>hereinafter</em> The EoE Date</td></tr><tr><td><p>Event Accessible Until </p><p><code>EAU Date</code>                                        </p></td><td><em>hereinafter</em> The EAU Date</td></tr></tbody></table>
 
 ### 1.4 Pricing
 
 The Parties agree upon the following pricing, _hereinafter_ The Pricing:
 
-| <p>Platform price<br>RM 2000</p>                                        | _hereinafter_ The Platform Price |
-| ----------------------------------------------------------------------- | -------------------------------- |
-| <p>Additional Audience Price </p><p>RM 20</p>                           | _hereinafter_ The AA Price       |
-| <p>Booth price </p><p>20% over selling price by the Customer</p>        | _hereinafter_ The Booth Price    |
-| <p>Booth setup Price </p><p>RM 50 / unit (when performed by TechUp)</p> | _hereinafter_ The BS Price       |
-| <p>Hour of work Price </p><p>RM 50 / hour</p>                           | _hereinafter_ The HoW Price      |
+<table data-header-hidden><thead><tr><th width="486"></th><th></th></tr></thead><tbody><tr><td>Platform price<br>RM 2000</td><td><em>hereinafter</em> The Platform Price</td></tr><tr><td><p>Additional Audience Price </p><p>RM 20</p></td><td><em>hereinafter</em> The AA Price</td></tr><tr><td><p>Booth price </p><p>20% over selling price by the Customer</p></td><td><em>hereinafter</em> The Booth Price</td></tr><tr><td><p>Booth setup Price </p><p>RM 50 / unit (when performed by TechUp)</p></td><td><em>hereinafter</em> The BS Price</td></tr><tr><td><p>Hour of work Price </p><p>RM 50 / hour</p></td><td><em>hereinafter</em> The HoW Price</td></tr></tbody></table>
 
 which will be settled respecting the following payment conditions
 
-| <p>Payment:</p><ul><li><p>Platform</p><ul><li>upon reservation 50%</li><li>upon delivery 50%</li></ul></li><li><p>Booths</p><ul><li>At creation by TechUp </li></ul></li></ul> | _hereinafter_ The Payment Conditions |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+<table data-header-hidden><thead><tr><th width="487"></th><th></th></tr></thead><tbody><tr><td><p>Payment:</p><ul><li><p>Platform</p><ul><li>upon reservation 50%</li><li>upon delivery 50%</li></ul></li><li><p>Booths</p><ul><li>At creation by TechUp </li></ul></li></ul></td><td><em>hereinafter</em> The Payment Conditions</td></tr></tbody></table>
 
 ### **1.5 Signatures**
 
-| <p>For the Customer<br><code>Customer Representative Name</code>                          <br><code>Customer Representative Title</code>                         <br><code>Customer Representative Signature</code>                     </p> |                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| <p>For TechUp (The IO Foundation)<br><code>TechUp Representative Name</code><br><code>TechUp Representative Title</code><br><code>TechUp Representative Signature</code></p>                                                                 |                                  |
-| <p>signed on the </p><p><code>Signature Date</code>                                          <em></em>   </p>                                                                                                                                | _hereinafter_ The Signature Date |
+<table data-header-hidden><thead><tr><th width="564"></th><th></th></tr></thead><tbody><tr><td>For the Customer<br><code>Customer Representative Name</code>                          <br><code>Customer Representative Title</code>                         <br><code>Customer Representative Signature</code>                     </td><td></td></tr><tr><td>For TechUp (The IO Foundation)<br><code>TechUp Representative Name</code><br><code>TechUp Representative Title</code><br><code>TechUp Representative Signature</code></td><td></td></tr><tr><td><p>signed on the </p><p><code>Signature Date</code>                                          </p></td><td><em>hereinafter</em> The Signature Date</td></tr></tbody></table>
 
 ## 2. Terms of the Agreement
 
@@ -195,13 +169,5 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 4.3.1 Customer may want to use the following additional services for the purpose of marketing or to provide extra value to its Audience.
 
-| Service              | Platform                         | Pricing             |
-| -------------------- | -------------------------------- | ------------------- |
-| Digital Certificates | Certopus                         | RM5 per PAX         |
-| SEO                  | Ranktracker                      | Consult with TechUp |
-| Integrations         | n8n / Pabbly / Integromat / IFFT | Consult with TechUp |
-| SocMed automation    | VBout                            | Consult with TechUp |
-| EDM                  | VBout                            | Consult with TechUp |
-| ShortURL             | Bl.ink                           | RM5 per URL         |
-| Custom videos        | Pictory                          | Consult with TechUp |
+<table><thead><tr><th>Service</th><th width="314.3333333333333">Platform</th><th>Pricing</th></tr></thead><tbody><tr><td>Digital Certificates</td><td>Certopus</td><td>RM5 per PAX</td></tr><tr><td>SEO</td><td>Ranktracker</td><td>Consult with TechUp</td></tr><tr><td>Integrations</td><td>n8n / Pabbly / Integromat / IFFT</td><td>Consult with TechUp</td></tr><tr><td>SocMed automation</td><td>VBout</td><td>Consult with TechUp</td></tr><tr><td>EDM</td><td>VBout</td><td>Consult with TechUp</td></tr><tr><td>ShortURL</td><td>Bl.ink</td><td>RM5 per URL</td></tr><tr><td>Custom videos</td><td>Pictory</td><td>Consult with TechUp</td></tr></tbody></table>
 
