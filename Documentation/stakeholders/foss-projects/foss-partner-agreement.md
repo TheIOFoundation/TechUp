@@ -13,7 +13,7 @@ This Agreement is to be subscribed between
 * The IO Foundation as the host of the TechUp initiative, _hereinafter_ TechUp\
   and
 * `FOSS Project Name` \
-  _hereinafter_ The Project
+  &#xNAN;_&#x68;ereinafter_ The Project
 
 with official email `FOSS Project Email` \
 signed on the `Signature Date`                            _hereinafter_ The Date\
@@ -103,7 +103,7 @@ By participating in TechUp as a FOSS Partner, The IO Foundation will ensure that
   So that you can analyze how did your activities perform.
 
 **Platform updates**\
-****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
+The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
 
 {% hint style="success" %}
 By signing this Agreement The Project acknowledges The Benefits.

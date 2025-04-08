@@ -1,7 +1,7 @@
 # 🔸 Summary
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUActivities) **| Playbook | Assistant | #Tag `LEARN`**
+[**ShortURL**](https://tiof.click/TUActivities) **| Playbook | Assistant | #Tag `LEARN`**
 {% endhint %}
 
 ## About

@@ -73,6 +73,7 @@
 
 ## Activities
 
+* [Markdown Test TU](activities/markdown-test-tu.md)
 * [🔸 Summary](activities/summary.md)
 * [🧑‍🏫 LEARN](activities/learn/README.md)
   * [🧱 Capacity Building](activities/learn/capacity-building/README.md)
@@ -141,4 +142,3 @@
   * [🤝 Template - Private Instance Agreement](operations/resource-allocation/agreement.md)
   * [🤝 Private Instance Agreement](operations/resource-allocation/agreement-1.md)
   * [🤝 Memorandum of Understanding](operations/resource-allocation/agreement-2.md)
-* [Markdown Test TU](operations/markdown-test-tu.md)

@@ -1,7 +1,7 @@
 # 🚧 Guide
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUSPGuide) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUSPGuide) **| Playbook | Assistant**
 {% endhint %}
 
 

@@ -1,7 +1,7 @@
 # 🍹 Community Caffe
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUCC) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUCC) **| Playbook | Assistant**
 {% endhint %}
 
 

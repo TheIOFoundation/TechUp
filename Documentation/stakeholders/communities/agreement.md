@@ -4,7 +4,7 @@ description: Version 1.2
 
 # 🤝 Community Partner Agreement
 
-![](<../../../Identity/Document templates/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
+<div align="center"><img src="../../../Identity/Document templates/[TIOF TU] Comms [I] Document Header ENG v1.0.png" alt=""></div>
 
 ## About this Agreement
 
@@ -13,10 +13,10 @@ This Agreement is to be subscribed between
 * The IO Foundation as the host of the TechUp initiative, _hereinafter_ TechUp\
   and
 * `Community Name` \
-  _hereinafter_ The Community
+  &#xNAN;_&#x68;ereinafter_ The Community
 
 with official email `Community Email`\
-``signed on the `Signature Date`                            _hereinafter_ The Date\
+signed on the `Signature Date`                            _hereinafter_ The Date\
 for the following seasons `List of Seasons` _hereinafter_ The Seasons
 
 **Signatures**
@@ -85,7 +85,7 @@ By participating in TechUp as a Community Partner, The IO Foundation will ensure
   So that you can analyze how did your activities perform.
 
 **Platform updates**\
-****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
+The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
 
 {% hint style="success" %}
 By signing this Agreement The Community acknowledges The Benefits.

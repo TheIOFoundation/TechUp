@@ -1,7 +1,7 @@
-# 👁🗨 Networking
+# 👁️‍🗨️ Networking
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUNW) **| Playbook | Assistant | #Tag `CONNECT`**
+[**ShortURL**](https://tiof.click/TUNW) **| Playbook | Assistant | #Tag `CONNECT`**
 {% endhint %}
 
 

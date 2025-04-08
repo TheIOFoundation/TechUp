@@ -25,7 +25,7 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Booths: `Community`
 
-``
+
 
 Through TechUp, civic tech organizations will be able to grow their member base and network with possible volunteers and donors. They will also get the chance to promote their events and find potential collaborators.
 

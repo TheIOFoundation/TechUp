@@ -1,7 +1,7 @@
 # 🧱 Capacity Building
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUCB) **| Playbook | Assistant | #Tag `LEARN, Happens @ The Stage`**
+[**ShortURL**](https://tiof.click/TUCB) **| Playbook | Assistant | #Tag `LEARN, Happens @ The Stage`**
 {% endhint %}
 
 

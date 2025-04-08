@@ -1,7 +1,7 @@
-# 🎙 Podcasts
+# 🎙️ Podcasts
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUPOD) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUPOD) **| Playbook | Assistant**
 {% endhint %}
 
 

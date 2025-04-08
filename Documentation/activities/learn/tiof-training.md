@@ -1,7 +1,7 @@
 # 🔶 TIOF Training
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUTT) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUTT) **| Playbook | Assistant**
 {% endhint %}
 
 

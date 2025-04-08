@@ -1,7 +1,7 @@
 # 🔶 Orientation Sessions
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUOS) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUOS) **| Playbook | Assistant**
 {% endhint %}
 
 

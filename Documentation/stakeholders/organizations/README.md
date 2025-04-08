@@ -63,5 +63,5 @@ Please contact us for more details: Contact@TheIOFoundation.org
 
 ## xOrganizations under special consideration
 
-****
+
 

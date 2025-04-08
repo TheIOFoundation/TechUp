@@ -43,12 +43,7 @@ General newsletter for all things TechUp.
 
 All TechUp ticket holders are in this newsletter (unless opted-out through any of the different "acquisition channels").
 
-| List                             | Intended Audience                                        | Topics covered                                                                                     |
-| -------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| **\[TIOF TU] Audience (Active)** | <p></p><ul><li>Everyone on TechUp</li></ul>              | <ul><li>Upcoming activities</li></ul><ul><li>Newly joined Partners</li></ul><ul><li>CTAs</li></ul> |
-|                                  | **Filter**                                               | <p><em>[TIOF TU] Audience</em> = Confirmed_Active<br><em>Contact Type</em> = Human</p>             |
-| **\[TIOF TU] Audience (Past)**   | <ul><li>Everyone who attended previous seasons</li></ul> |                                                                                                    |
-|                                  |                                                          |                                                                                                    |
+<table><thead><tr><th width="190.7235406761939">List</th><th width="198.2487529255305">Intended Audience</th><th>Topics covered</th></tr></thead><tbody><tr><td><strong>[TIOF TU] Audience (Active)</strong></td><td><p></p><ul><li>Everyone on TechUp</li></ul></td><td><ul><li>Upcoming activities</li></ul><ul><li>Newly joined Partners</li></ul><ul><li>CTAs</li></ul></td></tr><tr><td></td><td><strong>Filter</strong></td><td><em>[TIOF TU] Audience</em> = Confirmed_Active<br><em>Contact Type</em> = Human</td></tr><tr><td><strong>[TIOF TU] Audience (Past)</strong></td><td><ul><li>Everyone who attended previous seasons</li></ul></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 ### \[TIOF TU] TechUp Community Partners
 

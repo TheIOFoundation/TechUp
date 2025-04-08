@@ -5,7 +5,7 @@ description: This page explains all the different ways to get involved with Tech
 # 🖖 Join Us
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUJoinUs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="success" %}
@@ -41,7 +41,7 @@ Contributing in TechUp and its initiatives is easy!
 {% endhint %}
 
 {% hint style="success" %}
-**ALSO, IT'S FREE  >>** :tickets: **** [**COME JOIN**](https://tiof.click/TechUp)
+**ALSO, IT'S FREE  >>** :tickets: [**COME JOIN**](https://tiof.click/TechUp)
 {% endhint %}
 
 ### Join the TechUp community

@@ -1,7 +1,7 @@
-# 🗺 International Events
+# 🗺️ International Events
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUIE) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUIE) **| Playbook | Assistant**
 {% endhint %}
 
 
@@ -19,9 +19,9 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Booths: `Event`
 
-``
 
-``
+
+
 
 ## International Events
 

@@ -1,7 +1,7 @@
 # 📑 PLD Policy Sprint
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUPLDPS) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUPLDPS) **| Playbook | Assistant**
 {% endhint %}
 
 

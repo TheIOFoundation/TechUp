@@ -4,26 +4,26 @@ description: Version 1.1
 
 # 🤝 Organization Partner Agreement
 
-![](https://686492558-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M\_K54SuAkrrbCKMqyze%2Fuploads%2FXbjQAueChyhYoMcljave%2F\[TIOF%20TU]%20Comms%20\[I]%20Document%20Header%20ENG%20v1.0.png?alt=media\&token=e580ced9-a57e-4946-9305-74365e3ed848)
+![](https://686492558-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M_K54SuAkrrbCKMqyze%2Fuploads%2FXbjQAueChyhYoMcljave%2F\[TIOF%20TU]%20Comms%20\[I]%20Document%20Header%20ENG%20v1.0.png?alt=media\&token=e580ced9-a57e-4946-9305-74365e3ed848)
 
 This Agreement is to be subscribed between
 
 * The IO Foundation as the host of the TechUp initiative, _hereinafter_ TechUp\
   and
 * `Organization Name`\
-  ``_hereinafter_ The Organization
+  &#xNAN;_&#x68;ereinafter_ The Organization
 
 with official email `Organization Email` \
-``signed on the `Signature Date`                            _hereinafter_ The Date\
+signed on the `Signature Date`                            _hereinafter_ The Date\
 for the following seasons `List of Seasons` _hereinafter_ The Seasons
 
 **For the Organization**\
-****`Organization Representative Name`\
+`Organization Representative Name`\
 `Organization Representative Title`\
 `Organization Representative Signature`
 
 **For TechUp (The IO Foundation)**\
-****`TechUp Representative Name`\
+`TechUp Representative Name`\
 `TechUp Representative Title`\
 `TechUp Representative Signature`
 
@@ -95,7 +95,7 @@ By participating in TechUp as an Organization Partner, The IO Foundation will en
   So that you can analyze how did your activities perform.
 
 **Platform Updates**\
-****The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
+The platform used for the TechUp Space releases new features very often, of which TechUp will inform you regularly.
 
 {% hint style="success" %}
 By signing this Agreement The Organization acknowledges The Benefits.
@@ -144,7 +144,7 @@ By signing this Agreement TechUp commits to not update The Commitments without p
 ## Organizations under special consideration
 
 **IMPORTANT**\
-****To ensure that TechUp remains independent, community oriented and committed to its objectives, the following organizations types will be under special consideration:
+To ensure that TechUp remains independent, community oriented and committed to its objectives, the following organizations types will be under special consideration:
 
 {% hint style="info" %}
 The lists below may be updated as new realities arise.

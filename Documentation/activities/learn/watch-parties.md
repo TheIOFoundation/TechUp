@@ -1,7 +1,7 @@
 # 🎥 Watch Parties
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUWP) **| Playbook | Assistant | #Tag `WATCH`**
+[**ShortURL**](https://tiof.click/TUWP) **| Playbook | Assistant | #Tag `WATCH`**
 {% endhint %}
 
 ## About

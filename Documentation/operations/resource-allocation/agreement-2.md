@@ -4,49 +4,27 @@ description: Version 1.2
 
 # 🤝 Memorandum of Understanding
 
-![](<../../../Identity/Document templates/\[TIOF TU] Comms \[I] Document Header ENG v1.0.png>)
+<div align="center"><img src="../../../Identity/Document templates/[TIOF TU] Comms [I] Document Header ENG v1.0.png" alt=""></div>
 
 ## About this Memorandum of Understanding (MoU)
 
 This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed between
 
-| The IO Foundation,                                                                           | _hereinafter_ TIOF                       |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <p>with registration number<br><code>TIOF Registration</code>                           </p> | _hereinafter_ TIOF Registration          |
-| <p>registered in<br><code>TIOF Country</code>                                </p>            | _hereinafter_ TIOF Country               |
-| <p>with official address<br><code>TIOF Address</code>                                </p>    | _hereinafter_ TIOF Address               |
-| <p>with official email</p><p><code>TIOF Email</code>                                  </p>   | _hereinafter_ TIOF Email                 |
-| and                                                                                          |                                          |
-| `Partner Name`                                                                               | _hereinafter_ The Partner                |
-| <p>with registration number<br><code>Partner Registration</code>                        </p> | _hereinafter_ The Partner's Registration |
-| <p>registered in<br><code>Partner Country</code>                             </p>            | _hereinafter_ The Partner's Country      |
-| <p>with official address<br><code>Partner Address</code>                             </p>    | _hereinafter_ The Partner's Address      |
-| <p>with official email </p><p><code>Partner Email</code>                               </p>  | _hereinafter_ Partner Email              |
-| _hereinafter_ collectively called The Parties.                                               |                                          |
+<table data-header-hidden><thead><tr><th width="479"></th><th></th></tr></thead><tbody><tr><td>The IO Foundation,              </td><td><em>hereinafter</em> TIOF</td></tr><tr><td>with registration number<br><code>TIOF Registration</code>                           </td><td><em>hereinafter</em> TIOF Registration</td></tr><tr><td>registered in<br><code>TIOF Country</code>                                </td><td><em>hereinafter</em> TIOF Country</td></tr><tr><td>with official address<br><code>TIOF Address</code>                                </td><td><em>hereinafter</em> TIOF Address</td></tr><tr><td><p>with official email</p><p><code>TIOF Email</code>                                  </p></td><td><em>hereinafter</em> TIOF Email</td></tr><tr><td>and</td><td></td></tr><tr><td><code>Partner Name</code>                                </td><td><em>hereinafter</em> The Partner</td></tr><tr><td>with registration number<br><code>Partner Registration</code>                        </td><td><em>hereinafter</em> The Partner's Registration</td></tr><tr><td>registered in<br><code>Partner Country</code>                             </td><td><em>hereinafter</em> The Partner's Country</td></tr><tr><td>with official address<br><code>Partner Address</code>                             </td><td><em>hereinafter</em> The Partner's Address</td></tr><tr><td><p>with official email </p><p><code>Partner Email</code>                               </p></td><td><em>hereinafter</em> Partner Email</td></tr><tr><td><em>hereinafter</em> collectively called The Parties.</td><td></td></tr></tbody></table>
 
 &#x20;The Parties agree to the following relevant information:
 
-| <p>Partner's Responsibilities</p><p><code>Partner Responsibilities</code>                    </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                                  <em></em>                      </p> | _hereinafter_ The Partner's Responsibilities |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| <p>TIOF's Responsibilities</p><p><code>TIOF Responsibilities</code>                       </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                                  <em></em>                      </p>    | _hereinafter_ TIOF's Responsibilities        |
-| _hereinafter_ collectively called The Responsibilities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                              |
+<table data-header-hidden><thead><tr><th width="480"></th><th></th></tr></thead><tbody><tr><td><p>Partner's Responsibilities</p><p><code>Partner Responsibilities</code>                    </p><p>                                                       </p><p>                                                       </p><p>                                                                  </p></td><td><em>hereinafter</em> The Partner's Responsibilities</td></tr><tr><td><p>TIOF's Responsibilities</p><p><code>TIOF Responsibilities</code>                       </p><p>                                                       </p><p>                                                       </p><p>                                                                  </p></td><td><em>hereinafter</em> TIOF's Responsibilities</td></tr><tr><td><em>hereinafter</em> collectively called The Responsibilities.</td><td></td></tr></tbody></table>
 
-| <p>Partner's Purposes<br><code>Partner Purposes</code>                            </p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p> | _hereinafter_ The Partner's Purposes |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| <p>TIOF's Purposes<br><code>TIOF Purposes</code>                               </p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p>    | _hereinafter_ TIOF's Purposes        |
-| _hereinafter_ collectively called The Purposes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                      |
+<table data-header-hidden><thead><tr><th width="480"></th><th></th></tr></thead><tbody><tr><td><p>Partner's Purposes<br><code>Partner Purposes</code>                            </p><p>                                                       <br>                                                       <br>                                            <br>                                            <br>                                            </p></td><td><em>hereinafter</em> The Partner's Purposes</td></tr><tr><td><p>TIOF's Purposes<br><code>TIOF Purposes</code>                               </p><p>                                                       <br>                                                       <br>                                            <br>                                            <br>                                            </p></td><td><em>hereinafter</em> TIOF's Purposes</td></tr><tr><td><em>hereinafter</em> collectively called The Purposes.</td><td></td></tr></tbody></table>
 
 The Parties agree on the following relevant dates:
 
-| <p>Start of MoU</p><p><code>SOM Date</code>                                       <em></em>   </p> | _hereinafter_ The SoM Date |
-| -------------------------------------------------------------------------------------------------- | -------------------------- |
+<table data-header-hidden><thead><tr><th width="481"></th><th></th></tr></thead><tbody><tr><td><p>Start of MoU</p><p><code>SOM Date</code>                                       </p></td><td><em>hereinafter</em> The SoM Date</td></tr></tbody></table>
 
 **Signatures**
 
-| <p>For the Partner<br><code></code>Partner<code>Representative Name</code><br><code></code>Partner<code>Representative Title</code><br><code></code>Partner<code>Representative Signature</code></p> |                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| <p>For The IO Foundation<br><code>TIOF Representative Name</code><br><code>TIOF Representative Title</code><br><code>TIOF Representative Signature</code></p>                                        |                                  |
-| <p>Signed on the </p><p><code>Signature Date</code>                                     <em></em>   </p>                                                                                             | _hereinafter_ The Signature Date |
+<table data-header-hidden><thead><tr><th width="564"></th><th></th></tr></thead><tbody><tr><td>For the Partner<br>Partner<code>Representative Name</code><br>Partner<code>Representative Title</code><br>Partner<code>Representative Signature</code></td><td></td></tr><tr><td>For The IO Foundation<br><code>TIOF Representative Name</code><br><code>TIOF Representative Title</code><br><code>TIOF Representative Signature</code></td><td></td></tr><tr><td><p>Signed on the </p><p><code>Signature Date</code>                                     </p></td><td><em>hereinafter</em> The Signature Date</td></tr></tbody></table>
 
 This non-binding MoU will enter in effect immediately from _Signature Date_, by and between:
 
@@ -54,7 +32,7 @@ _The Partner_, a company duly incorporated in _The Partner's Country_ with regis
 
 &#x20;and
 
-_The IO Foundation_, a non-profit duly incorporated in _TIOF's Country_ with registration number _TIOF's Registration_ and having its registered address at TIOF's Address_._
+_The IO Foundation_, a non-profit duly incorporated in _TIOF's Country_ with registration number _TIOF's Registration_ and having its registered address at TIOF's Addres&#x73;_._
 
 The _Parties_ enter voluntarily this MoU with the intention of achieving the _Purposes_.
 
@@ -296,13 +274,5 @@ The Instance will be managed according to the following lifecycle:
 
 Customer may want to use the following additional services for the purpose of marketing or to provide extra value to its Audience.
 
-| Service              | Platform                         | Pricing             |
-| -------------------- | -------------------------------- | ------------------- |
-| Digital Certificates | Certopus                         | RM5 per PAX         |
-| SEO                  | Ranktracker                      | Consult with TechUp |
-| Integrations         | n8n / Pabbly / Integromat / IFFT | Consult with TechUp |
-| SocMed automation    | VBout                            | Consult with TechUp |
-| EDM                  | VBout                            | Consult with TechUp |
-| ShortURL             | Bl.ink                           | RM5 per URL         |
-| Custom videos        | Pictory                          | Consult with TechUp |
+<table><thead><tr><th>Service</th><th width="314.3333333333333">Platform</th><th>Pricing</th></tr></thead><tbody><tr><td>Digital Certificates</td><td>Certopus</td><td>RM5 per PAX</td></tr><tr><td>SEO</td><td>Ranktracker</td><td>Consult with TechUp</td></tr><tr><td>Integrations</td><td>n8n / Pabbly / Integromat / IFFT</td><td>Consult with TechUp</td></tr><tr><td>SocMed automation</td><td>VBout</td><td>Consult with TechUp</td></tr><tr><td>EDM</td><td>VBout</td><td>Consult with TechUp</td></tr><tr><td>ShortURL</td><td>Bl.ink</td><td>RM5 per URL</td></tr><tr><td>Custom videos</td><td>Pictory</td><td>Consult with TechUp</td></tr></tbody></table>
 
