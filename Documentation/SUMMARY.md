@@ -73,7 +73,6 @@
 
 ## Activities
 
-* [Markdown Test TU](activities/markdown-test-tu.md)
 * [🔸 Summary](activities/summary.md)
 * [🧑‍🏫 LEARN](activities/learn/README.md)
   * [🧱 Capacity Building](activities/learn/capacity-building/README.md)
