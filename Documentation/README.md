@@ -7,7 +7,7 @@ description: >-
 # Introduction
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -35,6 +35,12 @@ This documentation repository follows [The IO Foundation's documentation guideli
 
 ## The Initiative
 
+TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
+
+Through its activities, TechUp strives to bring together the tech community to become the agents of change that digital societies need right now.
+
+
+
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital.
 
 > _**Programmers are the next generation of Rights defenders.**_
@@ -47,7 +53,7 @@ Join us in our TechUp Community to make your personal impact in technology.
 
 > _**In what world do you want to code?**_
 
-_****_
+
 
 **In what world do you want to code?**
 
@@ -85,7 +91,7 @@ Devs need to get involved
 
 
 
-****
+
 
 
 
@@ -175,7 +181,7 @@ The DCDR initiative adheres to the same [values](https://tiof.click/TIOFValues) 
 
 ## **Activities**
 
-****
+
 
 ## **TechUp Library**
 

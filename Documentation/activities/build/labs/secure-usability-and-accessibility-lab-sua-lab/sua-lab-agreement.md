@@ -13,10 +13,10 @@ This Agreement is to be subscribed between
 * Accessibility Lab as the implementer, _hereinafter_ The Implementer\
   and
 * `Beneficiary Name` \
-  _hereinafter_ The Beneficiary
+  &#xNAN;_&#x68;ereinafter_ The Beneficiary
 
 with official email `Beneficiary Email`\
-``signed on the `Signature Date`                            _hereinafter_ The Date\
+signed on the `Signature Date`                            _hereinafter_ The Date\
 for the following period `From Date` to `Until Date` _hereinafter_ The Period
 
 **Signatures**

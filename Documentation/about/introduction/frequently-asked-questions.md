@@ -8,14 +8,16 @@ description: Find here the answers to the most common doubts.
 **ShortURL | Playbook | Assistant**
 {% endhint %}
 
-
-
 {% hint style="warning" %}
 **NOTICE**
 
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
+
+## About
+
+This section provides a list of Frequently Asked Questions concerning the TechUp initiative.
 
 ## The obvious ones
 
@@ -38,8 +40,6 @@ While we actively seek for funding opportunities and always welcome donation sup
 
 In short, and in accordance to TIOF's Funding Policy, if we are doing our job well then you'll support us.
 
-
-
 ### Is TechUp always available 24/7?
 
 Yes.
@@ -52,7 +52,15 @@ You can access the TechUp Space any time you want here.
 
 ### Can I run my activities any time?
 
+Yes.
 
+Once you are a registered TechUp Community Partner, you are welcome to run as many activities as you wish, at your own pace and timing.
+
+## Can I bring my own exhibitors?
+
+At the time of writing, we do not have a clear position on this topic.
+
+The practical status is that as a TechUp Community Partner you can bring your own exhibitors and we will charge a small % on the price of the bundle you sold them. Any money will go to run TechUp.
 
 
 

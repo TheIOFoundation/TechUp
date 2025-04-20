@@ -1,7 +1,7 @@
 # 📑 DCDR Steering Committee
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUDCDRSC) **| Playbook | Assistant**
 {% endhint %}
 
 

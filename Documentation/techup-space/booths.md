@@ -1,4 +1,4 @@
-# Booths
+# 🚧 Booths
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -116,7 +116,7 @@ Booth managers will receive an email with a magic link to configure all these.
 
 {% hint style="info" %}
 **IMPORTANT**\
-****The deadline to prepare your booth is D-3 (that is, 3 days before the next TechUp).\
+The deadline to prepare your booth is D-3 (that is, 3 days before the next TechUp).\
 To ensure a quality experience to the participants, booths that are not configured by D-3 will be removed from that Episode.
 {% endhint %}
 

@@ -1,7 +1,7 @@
-# Guide
+# 🚧 Guide
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUCPGuide) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUCPGuide) **| Playbook | Assistant**
 {% endhint %}
 
 

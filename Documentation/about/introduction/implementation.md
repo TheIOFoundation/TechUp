@@ -1,7 +1,7 @@
 # 📈 Implementation
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TURepo) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TURepo) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -37,14 +37,7 @@ The following is the structure for TechUp's repository.
 
 
 
-| Folder Name            | Usage                            |
-| ---------------------- | -------------------------------- |
-| <h4>Activities</h4>    |                                  |
-| **Comms**              |                                  |
-| <h4>Directory</h4>     |                                  |
-| <h4>Documentation</h4> | Initiative's documentation files |
-| <h4>Identity</h4>      | Initiative's identity assets     |
-|                        |                                  |
+<table><thead><tr><th width="297.5690008327865">Folder Name</th><th>Usage</th></tr></thead><tbody><tr><td><h4>Activities</h4></td><td></td></tr><tr><td><strong>Comms</strong></td><td></td></tr><tr><td><h4>Directory</h4></td><td></td></tr><tr><td><h4>Documentation</h4></td><td>Initiative's documentation files</td></tr><tr><td><h4>Identity</h4></td><td>Initiative's identity assets</td></tr><tr><td></td><td></td></tr></tbody></table>
 
 
 
@@ -53,7 +46,7 @@ The following is the structure for TechUp's repository.
 
 
 {% hint style="info" %}
-For more information on how to handle Tasks, check the [Tasks Handbook](../../operations/handbooks/tasks.md).
+For more information on how to handle Tasks, check the [Tasks Handbook](broken-reference).
 {% endhint %}
 
 ## Pull Requests (Approvals)

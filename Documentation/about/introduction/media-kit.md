@@ -5,7 +5,7 @@ description: Version 1.0 | This Media Kit was approved on 15 January 2022.
 # 🎨 Media Kit
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUMediaKit) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)
 {% endhint %}
 
 ## Introduction
@@ -136,7 +136,7 @@ For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOF
 
 {% hint style="warning" %}
 **Note**\
-****Due to Google Calendar limitations, TIOF's [Public Event Calendar](https://tiof.click/EventsCal) uses their _Graphite_ color coding.
+Due to Google Calendar limitations, TIOF's [Public Event Calendar](https://tiof.click/EventsCal) uses their _Graphite_ color coding.
 {% endhint %}
 
 ### QR Codes
@@ -177,21 +177,13 @@ Any other Media Channel not listed here is to be considered not affiliated with 
 
 The following is the official website for TechUp.
 
-| **Full URL**         | [https://TheIOFoundation.org/TechUp](https://theiofoundation.org/TechUp) |
-| -------------------- | ------------------------------------------------------------------------ |
-| **Alternative URLs** | None                                                                     |
-| **Short URL**        | [https://TIOF.Click/TUWeb](https://tiof.click/TUWeb)                     |
-| **Contents**         | General information about TechUp + Events + Library                      |
+<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://theiofoundation.org/TechUp">https://TheIOFoundation.org/TechUp</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TUWeb">https://TIOF.Click/TUWeb</a></td></tr><tr><td><strong>Contents</strong></td><td>General information about TechUp + Events + Library</td></tr></tbody></table>
 
 ### Official Documentation
 
 The following is the official documentation site for The IO Foundation and its initiatives.
 
-| **Full URL**         | [https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction](https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction) |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                                                                                                             |
-| **Short URL**        | [https://TIOF.Click/TUDocs](https://tiof.click/TUDocs)                                                                                                           |
-| **Contents**         | Publishing of all documentation relative to TechUp                                                                                                               |
+<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction">https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TUDocs">https://TIOF.Click/TUDocs</a></td></tr><tr><td><strong>Contents</strong></td><td>Publishing of all documentation relative to TechUp</td></tr></tbody></table>
 
 ### URL Shorteners
 
@@ -205,12 +197,7 @@ For more information, please refer to [TIOF's Media Kit](https://tiof.click/TIOF
 
 The following are the official repositories used by The IO Foundation.
 
-| **Full URL**         | [https://github.com/TheIOFoundation/TechUp](https://github.com/TheIOFoundation/TechUp) |
-| -------------------- | -------------------------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                                   |
-| **Short URL**        | [https://TIOF.Click/TURepo](https://tiof.click/TURepo)                                 |
-| **Content**          | Public repository showcasing TechUp's work                                             |
-| **Usage**            | Initiative Management + Community Collaboration + Transparency platform                |
+<table data-header-hidden><thead><tr><th width="168.40434927892022"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://github.com/TheIOFoundation/TechUp">https://github.com/TheIOFoundation/TechUp</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TURepo">https://TIOF.Click/TURepo</a></td></tr><tr><td><strong>Content</strong></td><td>Public repository showcasing TechUp's work</td></tr><tr><td><strong>Usage</strong></td><td>Initiative Management + Community Collaboration + Transparency platform</td></tr></tbody></table>
 
 ### Email
 
@@ -220,16 +207,11 @@ The following are the official email domains used by TechUp.
 Only email received from these domains are to be considered originated by TechUp or its members.
 {% endhint %}
 
-| **Domains**             | @TheIOFoundation.org                                                       |
-| ----------------------- | -------------------------------------------------------------------------- |
-| **Alternative Domains** | None                                                                       |
-| **Usage**               | Official communications from TechUp Members both internally and externally |
+<table data-header-hidden><thead><tr><th width="150"></th><th></th></tr></thead><tbody><tr><td><strong>Domains</strong></td><td>@TheIOFoundation.org</td></tr><tr><td><strong>Alternative Domains</strong></td><td>None</td></tr><tr><td><strong>Usage</strong></td><td>Official communications from TechUp Members both internally and externally</td></tr></tbody></table>
 
 The following are the official public email addresses used by TechUp.
 
-| **Email** | TechUp@TheIOFoundation.org            |
-| --------- | ------------------------------------- |
-| **Usage** | Official communications and inquiries |
+<table data-header-hidden><thead><tr><th width="159.54054054054055"></th><th width="223.82547411160982"></th></tr></thead><tbody><tr><td><strong>Email</strong></td><td>TechUp@TheIOFoundation.org</td></tr><tr><td><strong>Usage</strong></td><td>Official communications and inquiries</td></tr></tbody></table>
 
 ### Social Media
 

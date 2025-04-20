@@ -1,7 +1,7 @@
-# Guide
+# 🚧 Guide
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUFPGuide) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUFPGuide) **| Playbook | Assistant**
 {% endhint %}
 
 
@@ -35,7 +35,7 @@ To propose an Open Source project, please reach out to us via this [form](https:
 
 
 
-### Proposing an Open Source Project <a href="#_x149svab5nah" id="_x149svab5nah"></a>
+### Proposing an Open Source Project <a href="#x149svab5nah" id="x149svab5nah"></a>
 
 TechUp offers support to Open Source projects via a global network of programmers and technologists.
 

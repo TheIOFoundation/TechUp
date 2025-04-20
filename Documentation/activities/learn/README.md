@@ -1,4 +1,4 @@
-# 🧑🏫 LEARN
+# 🧑‍🏫 LEARN
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | #Tag `LEARN`**
@@ -28,7 +28,7 @@ Where do they happen?
 
 
 **Tags** `LEARN`\
-``**Tracks  \`**LEARN**\`**\
+**Tracks  \`**&#x4C;EAR&#x4E;**\`**\
 **Length**&#x20;
 
 **' hello how are you doing?\`**
@@ -37,7 +37,7 @@ Where do they happen?
 
 At the command prompt, type `n`**ewrerwerewr**`ano`
 
-``
+
 
 \<code>afdsfsafsfsafas\</code>
 

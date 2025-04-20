@@ -1,7 +1,7 @@
 # 🤚 Surveys
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TUSV) **| Playbook | Assistant**
 {% endhint %}
 
 

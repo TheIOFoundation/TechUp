@@ -1,7 +1,7 @@
 # 💰 Fundraisers
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant | #Tag `FUNDRAISER`**
+[**ShortURL**](https://tiof.click/TUFR) **| Playbook | Assistant | #Tag `FUNDRAISER`**
 {% endhint %}
 
 

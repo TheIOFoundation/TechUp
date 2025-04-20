@@ -1,4 +1,4 @@
-# Leaderboard
+# 🚧 Leaderboard
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

@@ -1,4 +1,4 @@
-# Reception
+# 🚧 Reception
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -22,4 +22,22 @@ Reception Participants land on the Reception when entering the event. They are p
 
 
 ## How to use it?
+
+
+
+## Event Support (Table)
+
+Tags&#x20;
+
+"Happens @ the Lounge "
+
+Manned by TIOF Members.
+
+
+
+
+
+
+
+
 
