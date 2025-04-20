@@ -1,126 +1,212 @@
 ---
-hidden: true
+description: >-
+  Welcome to the TechUp initiative. This Handbook will provide you with all the
+  information you need to understand and participate in the TechUp Community.
 ---
 
-# Table of contents
+# Introduction
 
-## About
+{% hint style="info" %}
+[**ShortURL**](https://tiof.click/TUDocs) **| Playbook | Assistant**
+{% endhint %}
 
-* [Introduction](about/documentation/)
-  * [🔀 Theory of Change](about/documentation/theory-of-change.md)
-  * [📊 Business Plan](about/documentation/business-plan.md)
-  * [📈 Implementation](about/documentation/implementation.md)
-  * [🎨 Media Kit](about/documentation/media-kit.md)
-  * [🗃️ Terminology](about/documentation/terminology.md)
-  * [❓ Frequently Asked Questions](about/documentation/frequently-asked-questions.md)
-* [🍃 Seasons](about/seasons/)
-  * [🗓️ Season 2018](about/seasons/season-2018.md)
-  * [🗓️ Season 2019](about/seasons/season-2019.md)
-  * [🗓️ Season 2020](about/seasons/season-2020.md)
-  * [🗓️ Season 2021](about/seasons/season-2021.md)
-  * [🗓️ Season 2022](about/seasons/season-2022.md)
-* [📜 Code of Conduct](https://tiof.click/TIOFPolicyCoC)
-* [🎯 DCDR Principles](https://tiof.click/DCDRPrinciples)
-* [❇️ NextGen Rights Defenders](https://tiof.click/TIOFNextGen)
-* [📲 Dhatham House Rule](https://tiof.click/Dhatham)
-* [🖖 Join Us](about/join-us.md)
-* [💰 Support Us](about/support-us.md)
-* [🏆 Awards](about/awards.md)
-* [🗄️ Media Archive](about/media-archive.md)
+{% hint style="warning" %}
+This website contains the **documentation** relative to the TechUp Initiative from [The IO Foundation](https://tiof.click/TIOFWeb).
 
-## TechUp Space
+You may be looking for:
 
-* [🚧 Participating](techup-space/participating/)
-  * [🚧 Registration](techup-space/participating/registration.md)
-  * [🚧 Tracks](techup-space/participating/tracks.md)
-* [🚧 Landing Page](techup-space/landing-page.md)
-* [🚧 Reception](techup-space/reception.md)
-* [🚧 Schedule](techup-space/schedule/)
-  * [🚧 The Stage](techup-space/schedule/the-stage.md)
-* [🚧 The Lounge](techup-space/the-lounge/)
-  * [🚧 Virtual Tables](techup-space/the-lounge/virtual-tables.md)
-* [🚧 Booths](techup-space/booths.md)
-* [🚧 Others](techup-space/others/)
-  * [🚧 Event Panel](techup-space/others/event-panel.md)
-  * [🚧 Private Meetings](techup-space/others/private-meetings.md)
-  * [🚧 Leaderboard](techup-space/others/leaderboard.md)
+* [Official Website](https://tiof.click/TUWeb)
+* [TechUp Initiative Management](https://tiof.click/TURepo)
 
-## Stakeholders
+To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
+{% endhint %}
 
-* [🚧 The TechUp Community](stakeholders/the-techup-community.md)
-* [🚧 Audience](stakeholders/audience.md)
-* [🚧 Communities](stakeholders/communities/)
-  * [🚧 Guide](stakeholders/communities/guide.md)
-  * [🤝 Community Partner Agreement](stakeholders/communities/agreement.md)
-  * [🚧 Materials](stakeholders/communities/outreach-materials.md)
-  * [🚧 Lifecycle](stakeholders/communities/lifecycle.md)
-* [🚧 Organizations](stakeholders/organizations/)
-  * [🚧 Guide](stakeholders/organizations/organization-partners-guide.md)
-  * [🤝 Organization Partner Agreement](stakeholders/organizations/organization-partner-agreement.md)
-  * [🚧 Materials](stakeholders/organizations/outreach-materials.md)
-  * [🚧 Lifecycle](stakeholders/organizations/organization-lifecycle.md)
-* [🚧 Speakers](stakeholders/speakers/)
-  * [🚧 Guide](stakeholders/speakers/speakers-guide.md)
-  * [🤝 Speaker Partner Agreement](stakeholders/speakers/speaker-agreement.md)
-  * [🚧 Materials](stakeholders/speakers/outreach-materials.md)
-  * [🚧 Lifecycle](stakeholders/speakers/speaker-lifecycle.md)
-* [🚧 FOSS Projects](stakeholders/foss-projects/)
-  * [🚧 Guide](stakeholders/foss-projects/foss-projects-guide.md)
-  * [🤝 FOSS Partner Agreement](stakeholders/foss-projects/foss-partner-agreement.md)
-  * [🚧 Materials](stakeholders/foss-projects/outreach-materials.md)
-  * [🚧 Lifecycle](stakeholders/foss-projects/foss-project-lifecycle.md)
-* [🚧 Sponsors](stakeholders/sponsors/)
-  * [🚧 Guide](stakeholders/sponsors/guide.md)
-  * [🚧 Sponsor Agreement](stakeholders/sponsors/sponsor-agreement.md)
-  * [🚧 Sponsor Lifecycle](stakeholders/sponsors/sponsor-lifecycle.md)
-  * [🚧 Outreach Materials](stakeholders/sponsors/outreach-materials.md)
+{% embed url="https://tiof.click/TUPresentation" %}
+Introduction to the TechUp initiative
+{% endembed %}
 
-## Activities
+{% embed url="https://youtu.be/eUi1xfM5Wvo" %}
 
-* [🔸 Summary](activities/summary.md)
-* [🧑‍🏫 LEARN](activities/learn/)
-  * [🧱 Capacity Building](activities/learn/capacity-building/)
-    * [📄 Topics](activities/learn/capacity-building/topics.md)
-    * [⚙️ 🚧 Session Lifecycle](activities/learn/capacity-building/session-lifecycle.md)
-  * [🎥 Watch Parties](activities/learn/watch-parties.md)
-  * [🔶 Orientation Sessions](activities/learn/orientation-sessions.md)
-  * [🔶 TIOF Training](activities/learn/tiof-training.md)
-* [🏗️ BUILD](activities/build/)
-  * [⚗️ Labs](activities/build/labs/)
-    * [Secure Usability & Accessibility](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/)
-      * [📃 SUA Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab/sua-lab-agreement.md)
-    * [🚧 Learn X](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-1/)
-      * [📃 Learn X Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-1/sua-lab-agreement.md)
-    * [🚧 Funding](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-2/)
-      * [📃 Funding Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-2/sua-lab-agreement.md)
-    * [🚧 Automation](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-3/)
-      * [📃 Automation Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-3/sua-lab-agreement.md)
-    * [🚧 Internet Interference](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-4/readme-1.md)
-      * [📃 Internet Interference Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-4/sua-lab-agreement.md)
-    * [🚧 Bootstrapper](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-4/)
-      * [📃 Bootstrapper Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-4/sua-lab-agreement-1.md)
-    * [🚧 Dev Career](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-6/)
-      * [📃 Dev Career Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-6/sua-lab-agreement.md)
-    * [🚧 NextGen Rights Defender](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-7/)
-      * [📃 NextGen Rights Defender Lab Agreement](activities/build/labs/secure-usability-and-accessibility-lab-sua-lab-7/sua-lab-agreement.md)
-  * [🗣️ BiT Chat](activities/build/bit-chat.md)
-  * [📑 DCDR Steering Committee](activities/build/dcdr-steering-committee.md)
-  * [📑 UDDR Steering Committee](activities/build/uddr-steering-committee.md)
-  * [📑 PLD Policy Sprint](activities/build/pld-policy-sprint.md)
-  * [🏃 FOSS Sprints](activities/build/foss-sprints.md)
-  * [💰 Fundraisers](activities/build/fundraisers.md)
-* [🤝 CONNECT](activities/connect/)
-  * [🗺️ International Events](activities/connect/bit-chat/)
-    * [::Assembly](activities/connect/bit-chat/assembly.md)
-  * [👁️‍🗨️ Networking](activities/connect/matchmaking.md)
-  * [🎙️ Podcasts](activities/connect/podcasts.md)
-  * [🍹 Community Caffe](activities/connect/community-caffe.md)
-  * [📣 Show & Tell](activities/connect/show-and-tell.md)
-  * [🤚 Surveys](activities/connect/surveys.md)
+{% hint style="success" %}
+This documentation repository follows [The IO Foundation's documentation guidelines.](https://tiof.click/TIOFHBDG)
+{% endhint %}
 
-## INSTITUTIONAL
 
-* [🚧 Structures](institutional/structures/)
-  * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
-  * [🚧 Teams](institutional/structures/teams.md)
-* [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
+
+## The Initiative
+
+TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
+
+Through its activities, TechUp strives to bring together the tech community to become the agents of change that digital societies need right now.
+
+
+
+TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital.
+
+> _**Programmers are the next generation of Rights defenders.**_
+
+How do we engage them in a meaningful and effective way?
+
+How can we bring together the tech community to become the agents of change that digital societies need right now?\
+\
+Join us in our TechUp Community to make your personal impact in technology.
+
+> _**In what world do you want to code?**_
+
+
+
+**In what world do you want to code?**
+
+**Come make your impact!**
+
+
+
+**LEARN - BUILD - CONNECT**
+
+
+
+
+
+TechUp is a monthly, global event ran over 48h bringing you
+
+TechUp is a convergence project between tech capacity building and tech solution development aimed at nurturing a Social Tech society that will demand the promotion and protection of Digital Rights. TechUp is designed to create meaningful impact into society that will translate into new digital policies in government.
+
+TechUp is The IO Foundation’s engagement program aiming at nurturing digital societies that are transparently safer by implementing technology under the principle of Rights by Design.
+
+Learn more about DCDR Principles here.
+
+
+
+[TechUp](https://theiofoundation.org/TechUp) offers free capacity-building sessions to anyone interested to learn new skills and support rights-based digital societies.
+
+Focusing on civic tech, TechUp by The IO Foundation aims to build an empowered community spanning various sectors, from tech professionals and corporations to students and volunteers who we hope to serve as advocates of digital rights.
+
+For anyone who signs up, TechUp presents opportunities for learning, growth and collaboration with professionals from around the world who are doing amazing work in their respective fields. Register for our monthly event [here](https://tiof.click/EventsRSVP).
+
+
+
+### The Problem
+
+Devs need to get involved
+
+
+
+
+
+
+
+Why is it happening:&#x20;
+
+* No language
+* No training on how to be that leader
+
+The IO Foundation works on these 3 problems with
+
+DCDR > Languge
+
+TechUp > Being that leader
+
+Crowdshape > Giving them the tools
+
+
+
+
+
+Data-Centric Digital Rights (DCDR), an initiative from [The IO Foundation](https://tiof.click/TIOFWeb), is the advocacy by which it aims at protecting citizens' Rights by transparently implementing in their daily technology the regulations that should protect them.
+
+TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
+
+* Experts, who understand the complexities to design and build products that are compliant with applicable legislation and
+* Citizens, who are solely tasked for being responsible users of the product
+
+{% hint style="info" %}
+As core stakeholders, technologists play a critical role as the [Next Generation of Rights Defenders](https://tiof.click/TIOFNextGen) and need to orient themselves through new design and implementation paradigms focused on protecting data. The [DCDR Principles](https://tiof.click/DCDRPrinciples) put forward by The IO Foundation are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
+{% endhint %}
+
+In essence, DCDR is a framework for technologists composed by Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
+
+{% hint style="success" %}
+By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), technologists may architect Digital Spaces that aim at [_ending remedy_](https://tiof.click/DCDRPrinciple2) and build it so that they implement [_Rights by design_](https://tiof.click/DCDRPrinciple3).
+{% endhint %}
+
+### Objectives
+
+
+
+#### **Summary of Activities**
+
+*
+* Learning new skills and where to apply them
+* Meet engaging and inspiring speakers
+* Collaborate in FOSS projects
+* Engage in the latest conversations in technology
+* Network with our global community
+* Generate opportunities for the audience to make a positive impact in digital societies
+
+#### **Outcomes**
+
+* Enable technologists as next generation of Rights defenders
+* Encourage the adoption of technology among civil society
+* Facilitate the transition of technologists into a career in civil society
+* Support FOSS projects to develop and grow
+
+
+
+The DCDR initiative aims at encouraging a shift in the current technology paradigms by providing
+
+* [DCDR Principles](https://tiof.click/DCDRPrinciples)
+* [Sagan Oath](https://tiof.click/DCDRSaganOath)
+* Generating the necessary body of work for
+  * A [DCDR framework](https://tiof.click/DCDRFramework)
+  * A set of taxonomies for
+    * [Digital Harms](https://tiof.click/DCDRDigitalHarms)
+    * [Digital Rights](https://tiof.click/DCDRDigitalRights)
+    * [Use Cases](https://tiof.click/DCDRUseCases)
+
+## Mission & Vision
+
+While the DCDR initiative is designed in order to support TIOF's [mission](https://tiof.click/TIOFMission) and to achieve its [vision](https://tiof.click/TIOFVision), it nonetheless also formulates its own Mission & Vision.
+
+### Mission
+
+> To provide technologist with a clear framework and taxonomies to embed Data-Centric Digital Rights into technology and enable their role as Next Generation of Rights Defenders.
+
+### Vision
+
+> A world where technology protects digital citizens and their digital twins transparently and by design.
+
+## Values
+
+The DCDR initiative adheres to the same [values](https://tiof.click/TIOFValues) as The IO Foundation to deliver its mission.
+
+## **Activities**
+
+
+
+## **TechUp Library**
+
+You can access the list of past TechUp events and related activities and capacity building in the [TechUp Library](https://opencollective.com/redirect?url=https%3A%2F%2FTIOF.Click%2FTULibrary).
+
+## Publications
+
+The IO Foundation regularly publishes articles, research papers and other documents such as comments on public consultations related to its advocacy. [Check out TIOF's publications](https://tiof.click/DCDRPublications).
+
+## Events
+
+The IO Foundation regularly organizes events and participates in international fora where the organization puts forward its advocacy and engages with all stakeholders. TIOF's handles all of its events through its [TechUp initiative](https://tiof.click/TUDocs). [Check out TIOF's events](https://tiof.click/DCDREvents).&#x20;
+
+## Engaged Stakeholders
+
+The advancement of [TIOF's DCDR advocacy](https://tiof.click/DCDRAdvocacy) is made possible with the collaboration of a number of partner and supporting organizations, funders and individual citizens.
+
+{% hint style="success" %}
+You can support The IO Foundation by
+
+* [Donate to TIOF](https://tiof.click/SupportUs)
+* [Join our team](https://tiof.click/DCDRJoinUs)
+* Partner with us
+{% endhint %}
+
+{% hint style="info" %}
+Check our [Partners and Collaborators](https://tiof.click/TIOFPartners).
+{% endhint %}
