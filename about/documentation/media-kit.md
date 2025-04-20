@@ -181,9 +181,9 @@ The following is the official website for TechUp.
 
 ### Official Documentation
 
-The following is the official documentation site for The IO Foundation and its initiatives.
+The following is the official documentation site for the TechUp initiative.
 
-<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction">https://docs.theiofoundation.org/the-io-foundation/v/techup/about/introduction</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TUDocs">https://TIOF.Click/TUDocs</a></td></tr><tr><td><strong>Contents</strong></td><td>Publishing of all documentation relative to TechUp</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>Full URL</strong></td><td><a href="https://docs.theiofoundation.org/TechUp">https://Docs.TheIOFoundation.org/TechUp</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TUDocs">https://TIOF.Click/TUDocs</a></td></tr><tr><td><strong>Contents</strong></td><td>Publishing of all documentation relative to TechUp</td></tr></tbody></table>
 
 ### URL Shorteners
 
