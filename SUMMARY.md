@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Table of contents](README.md)
-* [TEMP Files](temp-files/README.md)
+* [TEMP Files](README.md)
   * [Scripts Whiteboard](<TEMP Files/Scripts Whiteboard.md>)
   * [Tasks Whiteboard](<TEMP Files/Tasks Whiteboard.md>)
   * [Sessions Config](<TEMP Files/Wiki - Sessions.md>)
@@ -41,6 +40,7 @@
 * [🖖 Join Us](about/join-us.md)
 * [💰 Support Us](about/support-us.md)
 * [🏆 Awards](about/awards.md)
+* [Table of contents](about/summary.md)
 * [🗄️ Media Archive](about/media-archive.md)
 
 ## TechUp Space
