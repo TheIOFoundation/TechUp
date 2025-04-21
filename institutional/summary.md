@@ -7,12 +7,12 @@ hidden: true
 ## About
 
 * [Introduction](../)
-  * [🔀 Theory of Change](../about/documentation/theory-of-change.md)
-  * [📊 Business Plan](../about/documentation/business-plan.md)
-  * [📈 Implementation](../about/documentation/implementation.md)
-  * [🎨 Media Kit](../about/documentation/media-kit.md)
-  * [🗃️ Terminology](../about/documentation/terminology.md)
-  * [❓ Frequently Asked Questions](../about/documentation/frequently-asked-questions.md)
+  * [🔀 Theory of Change](../about/theory-of-change.md)
+  * [📊 Business Plan](../about/business-plan.md)
+  * [📈 Implementation](../about/implementation.md)
+  * [🎨 Media Kit](../about/media-kit.md)
+  * [🗃️ Terminology](../about/terminology.md)
+  * [❓ Frequently Asked Questions](../about/frequently-asked-questions.md)
 * [🍃 Seasons](../about/seasons/)
   * [🗓️ Season 2018](../about/seasons/season-2018.md)
   * [🗓️ Season 2019](../about/seasons/season-2019.md)

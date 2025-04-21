@@ -52,7 +52,7 @@ By signing this Agreement TechUp commits to not update The Requirements without 
 By participating in TechUp as a Speaker Partner, The IO Foundation will ensure that you will be granted the following benefits (_hereinafter_ The Benefits):
 
 * Access to the TechUp Space\
-  Yourself, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/documentation/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.
+  Yourself, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.
 * Ability to run your own activities to share your knowledge and expertise with the TechUp Community \
   This includes the possibility of broadcasting to your own media channels.
 * 1 virtual table\

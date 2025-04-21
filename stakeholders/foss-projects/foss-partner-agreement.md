@@ -80,7 +80,7 @@ By signing this Agreement TechUp commits to not update The Requirements without 
 By participating in TechUp as a FOSS Partner, The IO Foundation will ensure that you will be granted the following benefits (_hereinafter_ The Benefits):
 
 * Access to the TechUp Space\
-  Your project members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/documentation/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
+  Your project members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
   See the full list here. [learn](../../activities/learn/ "mention") [build](../../activities/build/ "mention") [connect](../../activities/connect/ "mention")
 * Ability to run your own activities\
   This includes the possibility of broadcasting to your own media channels.

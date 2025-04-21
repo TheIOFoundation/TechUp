@@ -43,11 +43,11 @@ To qualify as an Organization Partner, The Organization must verify the followin
 
     OR
 
-    * provide a pro bono service to FOSS projects, Civil Society or any other [active member](../../about/documentation/terminology.md#active-member) of the TechUp Community
+    * provide a pro bono service to FOSS projects, Civil Society or any other [active member](../../about/terminology.md#active-member) of the TechUp Community
 
     OR
 
-    * a service or product that, while generally having a cost, will be provided for free to [active member](../../about/documentation/terminology.md#active-member) of the TechUp Community
+    * a service or product that, while generally having a cost, will be provided for free to [active member](../../about/terminology.md#active-member) of the TechUp Community
 * Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC)
 * Attend at least 1 [orientation session](../../activities/learn/orientation-sessions.md)
 * Provide the TechUp team with all the necessary on your side to run high quality activities
@@ -70,7 +70,7 @@ Please contact us for more details: Contact@TheIOFoundation.org
 By participating in TechUp as an Organization Partner, The IO Foundation will ensure that you will be granted the following benefits (_hereinafter_ The Benefits):
 
 * Access to the TechUp Space\
-  Your organization members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/documentation/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
+  Your organization members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../about/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
   See the full list here. [learn](../../activities/learn/ "mention") [build](../../activities/build/ "mention") [connect](../../activities/connect/ "mention")
 * Ability to run your own activities to present your organization and the support you provide \
   This includes the possibility of broadcasting to your own media channels.

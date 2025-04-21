@@ -29,5 +29,5 @@ This business plan is fully compliant with [The IO Foundation's policies](https:
 
 Each corresponding Season has its own budgeting information.
 
-Please refer to the [seasons](../seasons/ "mention") section.
+Please refer to the [seasons](seasons/ "mention") section.
 
