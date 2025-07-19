@@ -1,4 +1,8 @@
-# 🤝 CONNECT
+---
+icon: circle-nodes
+---
+
+# CONNECT
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | #Tag `CONNECT`**

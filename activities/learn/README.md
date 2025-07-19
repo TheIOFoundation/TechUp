@@ -1,4 +1,8 @@
-# 🧑‍🏫 LEARN
+---
+icon: chalkboard-user
+---
+
+# LEARN
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant | #Tag `LEARN`**
