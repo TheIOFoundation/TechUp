@@ -68,7 +68,7 @@ By participating in this TechUp Lab, The IO Foundation will ensure that you will
 * From TechUp
 *
 * Access to the TechUp Space\
-  Your community members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../../../about/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
+  Your community members, as well as other people you may invite or attract, can access all [publicly accessible activities](../../../../about/hidden/terminology.md#publicly-accessible-activity) and engage with a global community of technologists.\
   See the full list here. [learn](../../../learn/ "mention") [..](../../ "mention") [connect](../../../connect/ "mention")
 * 1 [virtual booth](../../../../techup-space/booths.md) to run the \
   Allows you to showcase your community, run private activities and allow people to contact you.

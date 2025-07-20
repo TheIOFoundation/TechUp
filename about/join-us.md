@@ -1,8 +1,9 @@
 ---
 description: This page explains all the different ways to get involved with TechUp.
+icon: hand-spock
 ---
 
-# 🖖 Join Us
+# Join Us
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TUJoinUs) **| Playbook | Assistant**

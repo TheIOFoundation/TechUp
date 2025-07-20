@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Media Kit was approved on 15 January 2022.
+icon: palette
 ---
 
-# 🎨 Media Kit
+# Media Kit
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TUMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)
@@ -104,11 +105,11 @@ TechUp is a collaborative space designed to support technologists in their role 
 
 The following are the official logos for The IO Foundation.
 
-|                                                              |                                                                                                     |                                                                                                   |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| <p><strong>TechUp</strong><br><strong>Full Logo</strong></p> | ![](<../../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0 (1).png>) | ![](<../../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] U Logo Grey W HiRes XXX v1.0.png>) |
-| **Format**                                                   | Full Color                                                                                          | White Variant                                                                                     |
-| **Usage**                                                    | General use                                                                                         | Monochromatic or dark backgrounds                                                                 |
+|                                                              |                                                                                                  |                                                                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| <p><strong>TechUp</strong><br><strong>Full Logo</strong></p> | ![](<../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0 (1).png>) | ![](<../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] U Logo Grey W HiRes XXX v1.0.png>) |
+| **Format**                                                   | Full Color                                                                                       | White Variant                                                                                  |
+| **Usage**                                                    | General use                                                                                      | Monochromatic or dark backgrounds                                                              |
 
 {% hint style="info" %}
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
@@ -145,10 +146,10 @@ The following are the official QR Codes to link TechUp's online resources.
 
 
 
-|                                                                                                    |                                                                                                 |                                                                                                    |
-| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| ![](<../../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] TechUp Space QR Code XXX v1.0.png>) | ![](<../../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] EventsCal QR Code XXX v1.0.png>) | ![](<../../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] Presentation QR Code XXX v1.0.png>) |
-|                                            TechUp Space                                            |                                         Events Calendar                                         |                                         TechUp Presentation                                        |
+|                                                                                                 |                                                                                              |                                                                                                 |
+| :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| ![](<../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] TechUp Space QR Code XXX v1.0.png>) | ![](<../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] EventsCal QR Code XXX v1.0.png>) | ![](<../Documentation/.gitbook/assets/\[TIOF TU] Comms \[P] Presentation QR Code XXX v1.0.png>) |
+|                                           TechUp Space                                          |                                        Events Calendar                                       |                                       TechUp Presentation                                       |
 
 {% hint style="success" %}
 **All QR Codes are available in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**, which includes TechUp materials.**
@@ -273,13 +274,13 @@ The following is the official recruitment platform through which TechUp initiati
 
 The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.&#x20;
 
-|                                                                                                                                |                   |                                              |
-| ------------------------------------------------------------------------------------------------------------------------------ | ----------------- | -------------------------------------------- |
-| <img src="../../Documentation/.gitbook/assets/[TIOF] Comms [P] Hex Logo TIOF FC T HiRes XXX v1.6.png" alt="" data-size="line"> | The IO Foundation | [Media Kit](https://tiof.click/TIOFMediaKit) |
-| <mark style="color:orange;">**\[PENDING]**</mark>                                                                              | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
-| <img src="../../Documentation/.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">      | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
-| <img src="../../Documentation/.gitbook/assets/CrowdShape-01.png" alt="" data-size="line">                                      | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
-| <img src="../../Documentation/.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
-| <img src="../../Identity/Logos/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">                    | TechUp            | This document                                |
-| <img src="../../Documentation/.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
+|                                                                                                                             |                   |                                              |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
+| <img src="../Documentation/.gitbook/assets/[TIOF] Comms [P] Hex Logo TIOF FC T HiRes XXX v1.6.png" alt="" data-size="line"> | The IO Foundation | [Media Kit](https://tiof.click/TIOFMediaKit) |
+| <mark style="color:orange;">**\[PENDING]**</mark>                                                                           | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
+| <img src="../Documentation/.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">      | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
+| <img src="../Documentation/.gitbook/assets/CrowdShape-01.png" alt="" data-size="line">                                      | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
+| <img src="../Documentation/.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
+| <img src="../Identity/Logos/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">                    | TechUp            | This document                                |
+| <img src="../Documentation/.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">     | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
 

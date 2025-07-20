@@ -46,7 +46,7 @@ By participating in TechUp you will connect with fellow technology enthusiast, s
 {% embed url="https://tiof.click/TUSubmissionOrg" %}
 
 {% hint style="info" %}
-Organizations join TechUp on a [season basis](../../about/seasons/).\
+Organizations join TechUp on a [season basis](../../about/hidden/seasons/).\
 Each season corresponds to a natural year, from 1st January to 31st December.
 {% endhint %}
 

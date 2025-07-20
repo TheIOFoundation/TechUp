@@ -2,6 +2,7 @@
 description: >-
   Welcome to the TechUp initiative. This Handbook will provide you with all the
   information you need to understand and participate in the TechUp Community.
+icon: star
 ---
 
 # Introduction

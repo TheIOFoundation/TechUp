@@ -1,4 +1,8 @@
-# 🗓 Season 2020
+---
+icon: leaf
+---
+
+# Season 2020
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

@@ -1,4 +1,8 @@
-# 🏆 Awards
+---
+icon: award
+---
+
+# Awards
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TUAwards) **| Playbook | Assistant**

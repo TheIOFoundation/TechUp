@@ -1,4 +1,8 @@
-# 🗄 Media Archive
+---
+icon: leaf
+---
+
+# Season 2018
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -13,4 +17,18 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
-This section contains an archive of all media participations and mentions about the TechUp initiative.
+
+
+## Summary
+
+
+
+
+
+## Budgeting
+
+\[Work in Progress]
+
+{% hint style="info" %}
+This budgeting plan is fully compliant with [The IO Foundation's policies](https://tiof.click/TIOFPolicies).
+{% endhint %}

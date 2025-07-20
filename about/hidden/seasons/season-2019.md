@@ -1,4 +1,8 @@
-# 🗓 Season 2018
+---
+icon: leaf
+---
+
+# Season 2019
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -15,10 +19,6 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
-## Summary
-
-
-
 
 
 ## Budgeting
@@ -28,3 +28,4 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 {% hint style="info" %}
 This budgeting plan is fully compliant with [The IO Foundation's policies](https://tiof.click/TIOFPolicies).
 {% endhint %}
+

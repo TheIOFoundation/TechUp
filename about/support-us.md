@@ -1,4 +1,8 @@
-# 💰 Support Us
+---
+icon: hand-holding-seedling
+---
+
+# Support Us
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/SupportUs) **| Playbook | Assistant**

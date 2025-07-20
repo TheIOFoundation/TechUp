@@ -1,29 +1,30 @@
 ---
-name: "[ADM] Configure App: Eventbrite"
+name: '[ADM] Configure App: Eventbrite'
 about: Configure Eventbrite for TechUp.
-title: "[ADM] Configure App: Eventbrite"
-labels: "Project: TU, ⚡ Priority: High, ✔ Stage: Ready, \U0001F4E2 Team: Comms, \U0001F5C3
-  Need: Procedure, \U0001F916 Need: Automation"
+title: '[ADM] Configure App: Eventbrite'
+labels: >-
+  Project: TU, ⚡ Priority: High, ✔ Stage: Ready, 📢 Team: Comms, 🗃 Need:
+  Procedure, 🤖 Need: Automation
 assignees: ''
-
 ---
 
-<a id="top"></a>
-![logo](http://TIOF.Click/TUWikiHeader)
+# \[ADM] Configure App: Eventbrite
 
-# Abstract
-Objective: Outreach Channel & ticket reservation platform.
-Automation Status: Pending
+![logo](http://tiof.click/TUWikiHeader)
+
+## Abstract
+
+Objective: Outreach Channel & ticket reservation platform.\
+Automation Status: Pending\
 Automation Recipe: N/A
 
+* [ ] Create Tickets\
+  \[[Doc URL](https://doc.org)]
+* [ ] Configure Order Form\
+  \[[Doc URL](https://doc.org)]
 
- - [ ] Create Tickets
- [[Doc URL](https://DOC.org)]
- - [ ] Configure Order Form
- [[Doc URL](https://DOC.org)]
+### Help
 
-## Help
-* Find the App
-   Basaas / [TIOF] Team Comms
-* App Handbook
-  [Eventbrite Handbook]()
+* Find the App\
+  Basaas / \[TIOF] Team Comms
+* App Handbook[Eventbrite Handbook](adm-configure-app-eventbrite.md)
