@@ -1,4 +1,8 @@
-# 🔸 Summary
+---
+icon: rectangle-list
+---
+
+# Summary
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TUActivities) **| Playbook | Assistant | #Tag `LEARN`**

@@ -71,7 +71,7 @@
 
 ## Activities
 
-* [🔸 Summary](activities/summary.md)
+* [Summary](activities/summary.md)
 * [LEARN](activities/learn/README.md)
   * [🧱 Capacity Building](activities/learn/capacity-building/README.md)
     * [📄 Topics](activities/learn/capacity-building/topics.md)
@@ -123,9 +123,6 @@
   * [Scripts Whiteboard](institutional/temp-files/scripts-whiteboard.md)
   * [Tasks Whiteboard](institutional/temp-files/tasks-whiteboard.md)
   * [Sessions Config](institutional/temp-files/wiki-sessions.md)
-  * [2021](institutional/temp-files/2021/README.md)
-    * [08-August](institutional/temp-files/2021/08-august/README.md)
-      * [Speakers](institutional/temp-files/2021/08-august/speakers.md)
   * [@Archive](institutional/temp-files/archive.md)
   * [Activity - IGF 2021 - Remote Hub for Malaysia](institutional/temp-files/activity-igf-2021-remote-hub-for-malaysia.md)
   * [Campaigns](institutional/temp-files/campaigns/README.md)
@@ -133,8 +130,6 @@
     * [TU RSVP](institutional/temp-files/campaigns/tu-rsvp/README.md)
       * [Channels](institutional/temp-files/campaigns/tu-rsvp/channels/README.md)
         * [Slack](institutional/temp-files/campaigns/tu-rsvp/channels/slack.md)
-  * [Projects](institutional/temp-files/projects.md)
-  * [Comms](institutional/temp-files/comms.md)
   * [.github](institutional/temp-files/.github/README.md)
     * [ISSUE\_TEMPLATE](institutional/temp-files/.github/issue_template/README.md)
       * [\[ADM\] Configure App: Airmeet](institutional/temp-files/.github/issue_template/adm-configure-app-airmeet.md)
