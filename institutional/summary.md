@@ -6,7 +6,7 @@ hidden: true
 
 ## About
 
-* [Introduction](../)
+* [Introduction](<../README (1).md>)
   * [🔀 Theory of Change](../about/hidden/theory-of-change.md)
   * [📊 Business Plan](../about/hidden/business-plan.md)
   * [📈 Implementation](../about/hidden/implementation.md)
