@@ -4,7 +4,7 @@ description: Version 1.2
 
 # 🤝 Community Partner Agreement
 
-<div align="center"><img src="../../Identity/Document templates/[TIOF TU] Comms [I] Document Header ENG v1.0.png" alt=""></div>
+<div align="center"><img src="../../.gitbook/assets/[TIOF TU] Comms [I] Document Header ENG v1.0.png" alt=""></div>
 
 ## About this Agreement
 
@@ -103,7 +103,7 @@ By signing this Agreement, The Community also acknowledges that while the platfo
 
 By participating in TechUp as a Community Partner, and in order to maintain your status, The Community will need to make sure to comply with the following Commitments (hereinafter The Commitments):
 
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference) at all times and in all your activities
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](/broken/pages/L53VEfiE9P4qziNtn8yR) at all times and in all your activities
 * Not charge your members, or anyone you invite to your activities, a fee to access TechUp\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Organize at least 1 activity on each of The Seasons

@@ -10,7 +10,7 @@ hidden: true
   * [🔀 Theory of Change](../about/hidden/theory-of-change.md)
   * [📊 Business Plan](../about/hidden/business-plan.md)
   * [📈 Implementation](../about/hidden/implementation.md)
-  * [🎨 Media Kit](../about/media-kit.md)
+  * [🎨 Media Kit](/broken/pages/Yl8BKTOco3Z28jsAgKPK)
   * [🗃️ Terminology](../about/hidden/terminology.md)
   * [❓ Frequently Asked Questions](../about/hidden/frequently-asked-questions.md)
 * [🍃 Seasons](../about/hidden/seasons/)

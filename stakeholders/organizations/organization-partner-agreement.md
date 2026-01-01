@@ -113,7 +113,7 @@ By signing this Agreement, The Organization also acknowledges that while the pla
 
 By participating in TechUp as an Organization Partner, and in order to maintain your status, The Organization will need to make sure to comply with the following Commitments (hereinafter The Commitments):
 
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference)
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](/broken/pages/L53VEfiE9P4qziNtn8yR)
 * Not charge your members, or anyone you invite to your activities, a fee to access TechUp and your activities\
   (If you do, you may still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Organize at least 1 activity on each of The Seasons

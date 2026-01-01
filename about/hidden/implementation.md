@@ -46,7 +46,7 @@ The following is the structure for TechUp's repository.
 
 
 {% hint style="info" %}
-For more information on how to handle Tasks, check the [Tasks Handbook](broken-reference).
+For more information on how to handle Tasks, check the [Tasks Handbook](/broken/pages/CTg7s31E7yGvPzh8Rmtb).
 {% endhint %}
 
 ## Pull Requests (Approvals)

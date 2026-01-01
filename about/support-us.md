@@ -8,7 +8,7 @@ icon: hand-holding-seedling
 [**ShortURL**](https://tiof.click/SupportUs) **| Playbook | Assistant**
 {% endhint %}
 
-![Support TIOF](<../Documentation/.gitbook/assets/\[TIOF] Comms \[P] TIOF Website Donate ENG v1.0 (1).png>)
+![Support TIOF](<../.gitbook/assets/\[TIOF] Comms \[P] TIOF Website Donate ENG v1.0 (2).png>)
 
 ## Supporting TIOF
 

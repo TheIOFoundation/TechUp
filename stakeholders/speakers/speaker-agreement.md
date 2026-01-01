@@ -4,7 +4,7 @@ description: Version 1.0
 
 # 🤝 Speaker Partner Agreement
 
-![](../../Documentation/.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 This Agreement is to be subscribed between
 
@@ -90,7 +90,7 @@ By signing this Agreement, The Speaker also acknowledges that while the platform
 
 By participating in TechUp as a Speaker Partner, and in order to maintain your status, The Speaker will need to make sure to comply with the following Commitments (hereinafter The Commitments):
 
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference)
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](/broken/pages/L53VEfiE9P4qziNtn8yR)
 * You will not charge the audience attending your activities a fee to participate or access TechUp\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 *   Provide TechUp with the necessary information about yourself and your activities

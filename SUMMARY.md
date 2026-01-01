@@ -7,7 +7,6 @@
 ## About
 
 * [Introduction](<README (1).md>)
-* [Media Kit](about/media-kit.md)
 * [Join Us](about/join-us.md)
 * [Support Us](about/support-us.md)
 * [Hidden](about/hidden/README.md)

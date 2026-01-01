@@ -4,7 +4,7 @@ description: Version 1.0
 
 # 🤝 FOSS Partner Agreement
 
-![](<../../Documentation/.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/image.png)
 
 ## About this Agreement
 
@@ -121,7 +121,7 @@ By signing this Agreement, The Project also acknowledges that while the platform
 
 By participating in TechUp as a Project Partner, and in order to maintain your status, The Project will need to make sure to comply with the following Commitments (hereinafter The Commitments):
 
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference) at all times and in all your activities
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](/broken/pages/L53VEfiE9P4qziNtn8yR) at all times and in all your activities
 * Not charge your members, or anyone you invite to your activities, a fee to access TechUp or to collaborate in your project.\
   (If you do, you can still participate in TechUp as a [Sponsor Partner](../sponsors/))
 * Provide TechUp with the necessary information about your FOSS project

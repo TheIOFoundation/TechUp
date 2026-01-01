@@ -102,7 +102,7 @@ By signing this Agreement, both the Implementer and TechUp commit to upholding T
 
 By participating in TechUp as a Lab Beneficiary, and in order to maintain your status, The Beneficiary will need to make sure to comply with the following Commitments (hereinafter The Commitments):
 
-* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](broken-reference) at all times and in all your activities
+* Abide by The IO Foundation’s [Code of Conduct](https://tiof.click/TIOFPolicyCoC) and the [Dhatham House Rule](/broken/pages/L53VEfiE9P4qziNtn8yR) at all times and in all your activities
 * Provide the Implementer and TechUp teams with all the necessary materials and information to make the Lab possible
 *   Provide TechUp with the necessary information about The Beneficiary
 
