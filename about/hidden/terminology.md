@@ -29,7 +29,13 @@ Argos Club Vice President (ACMVP)\
 Argos Club Secretary (ACMS)\
 Argos Club Treasurer (ACMT)\
 Argos Club IT Admin (ACMIT)\
-Argos Club Management Panel (ACMP)
+Argos Club Management Panel (ACMP)\
+Argos Club Storage Service (ACSS)\
+Argos Club Email Service (ACES)\
+Argos Club Calendar Service (ACCS)\
+Argos clubs Virtualization Service (ACVS)<br>
+
+
 
 ##
 
