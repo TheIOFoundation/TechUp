@@ -33,7 +33,10 @@ Argos Club Management Panel (ACMP)\
 Argos Club Storage Service (ACSS)\
 Argos Club Email Service (ACES)\
 Argos Club Calendar Service (ACCS)\
-Argos clubs Virtualization Service (ACVS)<br>
+Argos Club Virtualization Service (ACVS)\
+Argos Club Netbird Setup Key (ACNSK)
+
+<br>
 
 
 
