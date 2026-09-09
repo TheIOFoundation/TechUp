@@ -1,7 +1,7 @@
-# 🗃 Terminology
+# 🗃️ Terminology
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TUTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)****
+[**ShortURL**](https://tiof.click/TUTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TUSlidesRepo)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -10,6 +10,28 @@
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
+
+
+
+TechUp Community\
+TechUp Community Account (TCA)\
+TCA Username\
+TCA Password\
+TCA Vault\
+TCA Vault Master Password\
+TCA Dashboard
+
+Candidate Member (CM)\
+Argos Club Member (ACM)\
+Argos Club Committee Member (ACCM)\
+Argos Club President (ACMP)\
+Argos Club Vice President (ACMVP)\
+Argos Club Secretary (ACMS)\
+Argos Club Treasurer (ACMT)\
+Argos Club IT Admin (ACMIT)\
+Argos Club Management Panel (ACMP)
+
+##
 
 ## About
 
